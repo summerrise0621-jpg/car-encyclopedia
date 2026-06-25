@@ -21,13 +21,22 @@
           "transmission": "固定齿比",
           "drivetrain": "awd",
           "specs": {
-            "length": 4695, "width": 1890, "height": 1545, "wheelbase": 2900,
-            "weight": 2100, "power": 585, "torque": 740, "displacement": 0,
-            "zero_to_hundred": 3.5, "top_speed": 260, "fuel_consumption": 0
+            "length": 4695,
+            "width": 1890,
+            "height": 1545,
+            "wheelbase": 2900,
+            "weight": 2100,
+            "power": 585,
+            "torque": 740,
+            "displacement": 0,
+            "zero_to_hundred": 3.5,
+            "top_speed": 260,
+            "fuel_consumption": 0
           },
           "price_range": "28.28-41.08万元"
         }
       ]
     }
-  ]
+  ],
+  "image": "/series/kia-ev6.jpg"
 }

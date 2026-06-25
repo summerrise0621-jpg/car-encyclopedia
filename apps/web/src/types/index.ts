@@ -70,6 +70,7 @@ export interface Series {
   name_en: string;
   intro: string;
   category: BodyType;
+  image?: string;
   generations: Generation[];
   media?: Media[];
 }

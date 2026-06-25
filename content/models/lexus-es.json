@@ -21,13 +21,22 @@
           "transmission": "E-CVT",
           "drivetrain": "fwd",
           "specs": {
-            "length": 4975, "width": 1865, "height": 1445, "wheelbase": 2870,
-            "weight": 1680, "power": 218, "torque": 221, "displacement": 2.5,
-            "zero_to_hundred": 8.9, "top_speed": 180, "fuel_consumption": 4.8
+            "length": 4975,
+            "width": 1865,
+            "height": 1445,
+            "wheelbase": 2870,
+            "weight": 1680,
+            "power": 218,
+            "torque": 221,
+            "displacement": 2.5,
+            "zero_to_hundred": 8.9,
+            "top_speed": 180,
+            "fuel_consumption": 4.8
           },
           "price_range": "35.9-46.8万元"
         }
       ]
     }
-  ]
+  ],
+  "image": "/series/lexus-es.jpg"
 }

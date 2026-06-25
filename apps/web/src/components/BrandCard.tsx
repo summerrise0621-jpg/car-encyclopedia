@@ -22,9 +22,22 @@ export default function BrandCard({ brand }: BrandCardProps) {
           regionColors[brand.region] || regionColors.other
         } p-6 hover:shadow-lg hover:scale-[1.02] transition-all duration-200 cursor-pointer`}
       >
-        {/* Logo placeholder */}
-        <div className="w-16 h-16 mx-auto mb-4 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center text-3xl">
-          {brand.name_cn.charAt(0)}
+        {/* Logo */}
+        <div className="w-16 h-16 mx-auto mb-4">
+          <img
+            src={brand.logo || `/logos/${brand.id}.svg`}
+            alt={brand.name_cn}
+            className="w-full h-full object-contain"
+            onError={(e) => {
+              // Fallback to first character if image fails
+              const target = e.target as HTMLImageElement;
+              target.style.display = 'none';
+              const parent = target.parentElement;
+              if (parent) {
+                parent.innerHTML = `<div class="w-16 h-16 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center text-3xl">${brand.name_cn.charAt(0)}</div>`;
+              }
+            }}
+          />
         </div>
 
         {/* Brand name */}
