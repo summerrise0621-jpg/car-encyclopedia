@@ -1,0 +1,41 @@
+{
+  "id": "subaru-forester",
+  "brand_id": "subaru",
+  "name_cn": "斯巴鲁森林人",
+  "name_en": "Subaru Forester",
+  "intro": "斯巴鲁森林人是品牌旗下紧凑型SUV，以水平对置发动机、全时四驱系统和出色的安全性著称，是户外探险爱好者的理想之选。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "forester-vi",
+      "name": "第六代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "forester-25i",
+          "name": "2.5i",
+          "year": 2025,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.5L 水平对置四缸",
+          "transmission": "CVT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4625,
+            "width": 1815,
+            "height": 1730,
+            "wheelbase": 2670,
+            "weight": 1580,
+            "power": 182,
+            "torque": 240,
+            "displacement": 2.5,
+            "zero_to_hundred": 9.5,
+            "top_speed": 190,
+            "fuel_consumption": 7.2
+          },
+          "price_range": "22.38-28.58万元"
+        }
+      ]
+    }
+  ]
+}

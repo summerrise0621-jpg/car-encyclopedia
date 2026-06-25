@@ -1,0 +1,41 @@
+{
+  "id": "subaru-wrx",
+  "brand_id": "subaru",
+  "name_cn": "斯巴鲁WRX",
+  "name_en": "Subaru WRX",
+  "intro": "斯巴鲁WRX是品牌旗下的高性能运动轿车，源自WRC世界拉力锦标赛的传奇血统，搭载涡轮增压水平对置发动机和全时四驱系统，以纯粹的驾驶乐趣著称。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "wrx-va",
+      "name": "第四代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "wrx-gt",
+          "name": "WRX GT",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "2.4L 涡轮增压水平对置四缸",
+          "transmission": "6MT/CVT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4670,
+            "width": 1825,
+            "height": 1465,
+            "wheelbase": 2675,
+            "weight": 1530,
+            "power": 275,
+            "torque": 350,
+            "displacement": 2.4,
+            "zero_to_hundred": 5.6,
+            "top_speed": 250,
+            "fuel_consumption": 9.8
+          },
+          "price_range": "27.98-34.58万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "kia-k5",
+  "brand_id": "kia",
+  "name_cn": "起亚K5",
+  "name_en": "Kia K5",
+  "intro": "起亚K5是品牌旗下的中型轿车，第五代以颠覆性的溜背设计和运动化定位赢得了年轻消费者的青睐，是韩系中型轿车的代表作。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "k5-v",
+      "name": "第五代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "k5-20t",
+          "name": "2.0T",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "2.0T 涡轮增压四缸",
+          "transmission": "8AT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4905,
+            "width": 1860,
+            "height": 1445,
+            "wheelbase": 2850,
+            "weight": 1500,
+            "power": 240,
+            "torque": 353,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.8,
+            "top_speed": 230,
+            "fuel_consumption": 7.4
+          },
+          "price_range": "16.18-20.58万元"
+        }
+      ]
+    }
+  ]
+}

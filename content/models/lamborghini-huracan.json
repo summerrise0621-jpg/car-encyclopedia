@@ -1,0 +1,41 @@
+{
+  "id": "lamborghini-huracan",
+  "brand_id": "lamborghini",
+  "name_cn": "兰博基尼Huracán",
+  "name_en": "Lamborghini Huracán",
+  "intro": "兰博基尼Huracán是品牌入门级超级跑车，搭载V10自然吸气发动机，以狂暴的动力输出和犀利的空气动力学设计，成为最受欢迎的超跑之一。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "huracan-sto",
+      "name": "Huracán STO",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "huracan-sto",
+          "name": "Huracán STO",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "5.2L 自然吸气V10",
+          "transmission": "7速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4549,
+            "width": 1945,
+            "height": 1220,
+            "wheelbase": 2620,
+            "weight": 1339,
+            "power": 640,
+            "torque": 565,
+            "displacement": 5.2,
+            "zero_to_hundred": 3.0,
+            "top_speed": 310,
+            "fuel_consumption": 14.7
+          },
+          "price_range": "390.0-450.0万元"
+        }
+      ]
+    }
+  ]
+}

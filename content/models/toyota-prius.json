@@ -1,0 +1,41 @@
+{
+  "id": "toyota-prius",
+  "brand_id": "toyota",
+  "name_cn": "普锐斯",
+  "name_en": "Toyota Prius",
+  "intro": "丰田普锐斯是全球首款量产混合动力轿车，1997年上市以来开创了混合动力汽车时代。凭借丰田THS混合动力系统的卓越燃油经济性和可靠性，普锐斯成为全球混动技术的代名词，累计销量超过500万辆。第五代普锐斯采用全新设计语言，兼具运动感与高效节能。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "xw60",
+      "name": "第五代 (XW60)",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "prius-hev",
+          "name": "普锐斯 HEV",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "hybrid",
+          "engine": "2.0L 混合动力系统",
+          "transmission": "E-CVT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4600,
+            "width": 1780,
+            "height": 1430,
+            "wheelbase": 2750,
+            "weight": 1450,
+            "power": 196,
+            "torque": 188,
+            "displacement": 2.0,
+            "zero_to_hundred": 7.2,
+            "top_speed": 180,
+            "fuel_consumption": 4.0
+          },
+          "price_range": "17.98-22.88万元"
+        }
+      ]
+    }
+  ]
+}

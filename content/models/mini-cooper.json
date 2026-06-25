@@ -1,0 +1,41 @@
+{
+  "id": "mini-cooper",
+  "brand_id": "mini",
+  "name_cn": "MINI Cooper",
+  "name_en": "MINI Cooper",
+  "intro": "MINI Cooper是品牌最经典的车型，以小巧灵活的车身、独特的复古设计和卡丁车般的驾驶乐趣著称，是城市精致出行的代表之作。",
+  "category": "hatchback",
+  "generations": [
+    {
+      "id": "cooper-f66",
+      "name": "第五代 (F66)",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "cooper-s",
+          "name": "MINI Cooper S",
+          "year": 2024,
+          "body_type": "hatchback",
+          "powertrain": "petrol",
+          "engine": "2.0L 涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 3876,
+            "width": 1744,
+            "height": 1432,
+            "wheelbase": 2495,
+            "weight": 1335,
+            "power": 204,
+            "torque": 300,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.6,
+            "top_speed": 242,
+            "fuel_consumption": 6.4
+          },
+          "price_range": "24.98-30.58万元"
+        }
+      ]
+    }
+  ]
+}

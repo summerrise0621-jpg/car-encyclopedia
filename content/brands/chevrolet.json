@@ -1,0 +1,18 @@
+{
+  "id": "chevrolet",
+  "name_cn": "雪佛兰",
+  "name_en": "Chevrolet",
+  "country": "美国",
+  "region": "usa",
+  "founded_year": 1911,
+  "logo": "/images/brands/chevrolet.svg",
+  "intro": "雪佛兰是美国通用汽车公司旗下最大的汽车品牌，创立于1911年，以创始人路易·雪佛兰命名。品牌涵盖从小型车到重型皮卡的全系列车型，是美国最具代表性的汽车品牌之一，累计销量超过2亿辆。",
+  "history": [
+    {"year": 1911, "event": "路易·雪佛兰和威廉·杜兰特在底特律创立雪佛兰汽车公司"},
+    {"year": 1918, "event": "雪佛兰正式并入通用汽车集团"},
+    {"year": 1953, "event": "经典跑车Corvette科尔维特问世"},
+    {"year": 1966, "event": "Camaro科迈罗上市，与福特Mustang展开经典对决"},
+    {"year": 1998, "event": "Silverado索罗德皮卡上市，成为全美畅销车型"}
+  ],
+  "official_site": "https://www.chevrolet.com"
+}

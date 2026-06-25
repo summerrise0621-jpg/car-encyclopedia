@@ -1,0 +1,33 @@
+{
+  "id": "lexus-nx",
+  "brand_id": "lexus",
+  "name_cn": "雷克萨斯NX",
+  "name_en": "Lexus NX",
+  "intro": "雷克萨斯NX是品牌旗下的中型豪华SUV，定位低于RX，以时尚外观和精致内饰吸引年轻消费者，提供混动和插电混动两种动力选择。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "nx-ii",
+      "name": "第二代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "nx350h",
+          "name": "NX 350h",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "2.5L 混合动力",
+          "transmission": "E-CVT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4660, "width": 1865, "height": 1640, "wheelbase": 2690,
+            "weight": 1760, "power": 242, "torque": 243, "displacement": 2.5,
+            "zero_to_hundred": 7.7, "top_speed": 200, "fuel_consumption": 5.0
+          },
+          "price_range": "36.8-48.5万元"
+        }
+      ]
+    }
+  ]
+}

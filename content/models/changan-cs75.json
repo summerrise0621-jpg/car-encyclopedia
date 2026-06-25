@@ -1,0 +1,41 @@
+{
+  "id": "changan-cs75",
+  "brand_id": "changan",
+  "name_cn": "长安CS75",
+  "name_en": "Changan CS75",
+  "intro": "长安CS75是品牌旗下热销紧凑型SUV，PLUS版本以高颜值、大空间和蓝鲸动力系统著称，长期位居中国SUV销量榜前列。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "cs75-plus-iii",
+      "name": "CS75 PLUS 第三代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "cs75-plus-15t",
+          "name": "1.5T",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "1.5T 蓝鲸涡轮增压四缸",
+          "transmission": "7DCT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4700,
+            "width": 1865,
+            "height": 1710,
+            "wheelbase": 2710,
+            "weight": 1480,
+            "power": 188,
+            "torque": 300,
+            "displacement": 1.5,
+            "zero_to_hundred": 8.2,
+            "top_speed": 200,
+            "fuel_consumption": 6.5
+          },
+          "price_range": "11.79-15.49万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "benz-g-class",
+  "brand_id": "benz",
+  "name_cn": "奔驰G级",
+  "name_en": "Mercedes-Benz G-Class",
+  "intro": "奔驰G级（Gelandewagen）是梅赛德斯-奔驰旗下最具标志性的豪华越野车，自1979年诞生以来保持经典方盒子造型不变。G级以三把差速锁、非承载式车身和超强越野能力闻名，同时兼具顶级豪华内饰，是全球最具辨识度的豪华SUV之一。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "w463a",
+      "name": "第二代 (W463A)",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "g350",
+          "name": "G 350",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.0T 涡轮增压四缸",
+          "transmission": "9速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4866,
+            "width": 1931,
+            "height": 1975,
+            "wheelbase": 2890,
+            "weight": 2400,
+            "power": 258,
+            "torque": 370,
+            "displacement": 2.0,
+            "zero_to_hundred": 8.1,
+            "top_speed": 190,
+            "fuel_consumption": 11.5
+          },
+          "price_range": "142.48-168.88万元"
+        },
+        {
+          "id": "g500",
+          "name": "G 500",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "4.0T 双涡轮增压V8",
+          "transmission": "9速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4866,
+            "width": 1931,
+            "height": 1975,
+            "wheelbase": 2890,
+            "weight": 2550,
+            "power": 421,
+            "torque": 610,
+            "displacement": 4.0,
+            "zero_to_hundred": 5.9,
+            "top_speed": 210,
+            "fuel_consumption": 13.8
+          },
+          "price_range": "189.88-212.88万元"
+        }
+      ]
+    }
+  ]
+}

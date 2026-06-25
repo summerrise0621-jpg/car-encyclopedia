@@ -1,0 +1,41 @@
+{
+  "id": "hyundai-sonata",
+  "brand_id": "hyundai",
+  "name_cn": "现代索纳塔",
+  "name_en": "Hyundai Sonata",
+  "intro": "现代索纳塔是现代旗下中型轿车，自1985年推出以来已历经十代。索纳塔以时尚的设计、丰富的配置和高性价比著称，是现代品牌的全球战略车型。第十一代索纳塔采用全新Sensuous Sportiness设计语言，内外全面升级，提供燃油和混动版本。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "sonata-dn8-lci",
+      "name": "第十一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "sonata-1-5t",
+          "name": "索纳塔 1.5T",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "1.5T 涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4910,
+            "width": 1860,
+            "height": 1445,
+            "wheelbase": 2840,
+            "weight": 1460,
+            "power": 170,
+            "torque": 253,
+            "displacement": 1.5,
+            "zero_to_hundred": 8.5,
+            "top_speed": 210,
+            "fuel_consumption": 6.2
+          },
+          "price_range": "13.98-18.68万元"
+        }
+      ]
+    }
+  ]
+}

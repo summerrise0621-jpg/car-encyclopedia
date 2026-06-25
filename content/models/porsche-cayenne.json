@@ -1,0 +1,41 @@
+{
+  "id": "porsche-cayenne",
+  "brand_id": "porsche",
+  "name_cn": "保时捷卡宴",
+  "name_en": "Porsche Cayenne",
+  "intro": "保时捷卡宴是品牌首款SUV车型，将保时捷的运动基因融入豪华SUV之中，自2002年问世以来一直是豪华性能SUV市场的标杆产品。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "cayenne-e3",
+      "name": "第三代",
+      "year_start": 2018,
+      "variants": [
+        {
+          "id": "cayenne-s",
+          "name": "Cayenne S",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.9L 双涡轮增压V6",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4926,
+            "width": 1983,
+            "height": 1696,
+            "wheelbase": 2895,
+            "weight": 2020,
+            "power": 474,
+            "torque": 599,
+            "displacement": 2.9,
+            "zero_to_hundred": 4.9,
+            "top_speed": 270,
+            "fuel_consumption": 11.1
+          },
+          "price_range": "104.8-124.8万元"
+        }
+      ]
+    }
+  ]
+}

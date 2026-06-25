@@ -1,0 +1,19 @@
+{
+  "id": "changan",
+  "name_cn": "长安",
+  "name_en": "Changan",
+  "country": "中国",
+  "region": "china",
+  "founded_year": 1862,
+  "logo": "/images/brands/changan.svg",
+  "intro": "长安汽车是中国历史最悠久的汽车企业之一，前身可追溯到1862年的上海洋炮局。作为中国四大汽车集团之一，长安汽车在自主品牌领域持续发力，旗下UNI系列和CS系列深受消费者喜爱。",
+  "history": [
+    {"year": 1862, "event": "上海洋炮局成立，为长安汽车前身"},
+    {"year": 1957, "event": "生产中国第一辆吉普车——长江牌46型越野车"},
+    {"year": 1984, "event": "正式进入汽车制造领域"},
+    {"year": 2006, "event": "长安奔奔上市，标志自主品牌轿车起步"},
+    {"year": 2020, "event": "UNI系列发布，开启品牌高端化之路"},
+    {"year": 2023, "event": "深蓝和阿维塔子品牌发力新能源市场"}
+  ],
+  "official_site": "https://www.changan.com.cn"
+}

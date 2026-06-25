@@ -1,0 +1,41 @@
+{
+  "id": "porsche-taycan",
+  "brand_id": "porsche",
+  "name_cn": "保时捷Taycan",
+  "name_en": "Porsche Taycan",
+  "intro": "保时捷Taycan是品牌首款纯电动轿车，融合了保时捷标志性的驾驶乐趣与纯电驱动技术，代表了保时捷电动化战略的核心产品。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "taycan-1",
+      "name": "第一代",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "taycan-4s",
+          "name": "Taycan 4S",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "bev",
+          "engine": "双永磁同步电机",
+          "transmission": "2速自动",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4963,
+            "width": 1966,
+            "height": 1381,
+            "wheelbase": 2900,
+            "weight": 2140,
+            "power": 435,
+            "torque": 640,
+            "displacement": 0,
+            "zero_to_hundred": 3.8,
+            "top_speed": 250,
+            "fuel_consumption": 0
+          },
+          "price_range": "114.8-143.8万元"
+        }
+      ]
+    }
+  ]
+}

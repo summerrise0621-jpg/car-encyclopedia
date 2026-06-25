@@ -1,0 +1,41 @@
+{
+  "id": "volvo-xc60",
+  "brand_id": "volvo",
+  "name_cn": "沃尔沃XC60",
+  "name_en": "Volvo XC60",
+  "intro": "沃尔沃XC60是品牌最畅销的中型豪华SUV，以卓越的安全性能、北欧简约设计和舒适的驾乘体验著称，是同级别中最具竞争力的车型之一。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "xc60-2",
+      "name": "第二代",
+      "year_start": 2017,
+      "variants": [
+        {
+          "id": "xc60-b5",
+          "name": "XC60 B5",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "2.0L 涡轮增压四缸+48V轻混",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4708,
+            "width": 1902,
+            "height": 1658,
+            "wheelbase": 2865,
+            "weight": 1870,
+            "power": 250,
+            "torque": 350,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.9,
+            "top_speed": 230,
+            "fuel_consumption": 7.7
+          },
+          "price_range": "36.29-47.49万元"
+        }
+      ]
+    }
+  ]
+}

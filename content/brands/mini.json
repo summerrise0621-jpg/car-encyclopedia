@@ -1,0 +1,18 @@
+{
+  "id": "mini",
+  "name_cn": "MINI",
+  "name_en": "MINI",
+  "country": "英国",
+  "region": "europe",
+  "founded_year": 1959,
+  "logo": "/images/brands/mini.svg",
+  "intro": "MINI是英国经典汽车品牌，现隶属于宝马集团。品牌以独特的设计风格和卡丁车般的驾驶乐趣著称，将英伦复古美学与现代科技完美融合，深受全球年轻消费者喜爱。",
+  "history": [
+    {"year": 1959, "event": "经典Mini由亚历戈尼斯设计，以经济实用风靡英国"},
+    {"year": 1994, "event": "宝马集团收购罗孚集团，获得Mini品牌"},
+    {"year": 2001, "event": "全新MINI Cooper上市，经典设计现代化重生"},
+    {"year": 2020, "event": "MINI进入电动化时代，推出纯电版MINI"},
+    {"year": 2024, "event": "全新一代MINI家族发布，全面拥抱电动化"}
+  ],
+  "official_site": "https://www.mini.com"
+}

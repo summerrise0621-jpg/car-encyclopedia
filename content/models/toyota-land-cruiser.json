@@ -1,0 +1,41 @@
+{
+  "id": "toyota-land-cruiser",
+  "brand_id": "toyota",
+  "name_cn": "兰德酷路泽",
+  "name_en": "Toyota Land Cruiser",
+  "intro": "丰田兰德酷路泽是丰田旗下最具传奇色彩的全尺寸越野SUV，自1951年诞生以来已历经70余年。凭借超强的可靠性、耐久性和越野通过能力，兰德酷路泽被全球越野爱好者奉为'越野之王'，广泛应用于极端环境下的探险与科考任务。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "lc300",
+      "name": "兰德酷路泽300系列",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "lc300-vx",
+          "name": "兰德酷路泽 VX-R",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "3.5T 双涡轮增压V6",
+          "transmission": "10速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4985,
+            "width": 1980,
+            "height": 1940,
+            "wheelbase": 2850,
+            "weight": 2620,
+            "power": 415,
+            "torque": 650,
+            "displacement": 3.5,
+            "zero_to_hundred": 6.7,
+            "top_speed": 210,
+            "fuel_consumption": 12.5
+          },
+          "price_range": "77.2-128.8万元"
+        }
+      ]
+    }
+  ]
+}

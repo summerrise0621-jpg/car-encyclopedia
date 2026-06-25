@@ -1,0 +1,18 @@
+{
+  "id": "rolls-royce",
+  "name_cn": "劳斯莱斯",
+  "name_en": "Rolls-Royce",
+  "country": "英国",
+  "region": "europe",
+  "founded_year": 1904,
+  "logo": "/images/brands/rolls-royce.svg",
+  "intro": "劳斯莱斯是全球最顶级的豪华汽车品牌，隶属于宝马集团。品牌以极致奢华和精湛工艺闻名，每一辆车都是手工打造的艺术品，飞天女神立标是汽车界最具辨识度的标志之一。",
+  "history": [
+    {"year": 1904, "event": "查尔斯·劳斯与亨利·莱斯合作创立劳斯莱斯"},
+    {"year": 1907, "event": "银魅(Silver Ghost)被誉为世界上最好的汽车"},
+    {"year": 1998, "event": "大众汽车收购劳斯莱斯汽车公司"},
+    {"year": 2003, "event": "宝马集团正式接手劳斯莱斯品牌运营"},
+    {"year": 2023, "event": "首款纯电动车Spectre发布，开启电动奢华新时代"}
+  ],
+  "official_site": "https://www.rolls-roycemotorcars.com"
+}

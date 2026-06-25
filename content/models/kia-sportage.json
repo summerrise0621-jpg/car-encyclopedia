@@ -1,0 +1,41 @@
+{
+  "id": "kia-sportage",
+  "brand_id": "kia",
+  "name_cn": "起亚狮跑",
+  "name_en": "Kia Sportage",
+  "intro": "起亚狮跑是品牌旗下紧凑型SUV，历经五代进化，第五代以大胆前卫的外观设计和丰富的科技配置刷新了人们对韩系SUV的认知。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "sportage-v",
+      "name": "第五代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "sportage-16t",
+          "name": "1.6T",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "1.6T 涡轮增压四缸",
+          "transmission": "8AT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4660,
+            "width": 1865,
+            "height": 1680,
+            "wheelbase": 2755,
+            "weight": 1550,
+            "power": 180,
+            "torque": 265,
+            "displacement": 1.6,
+            "zero_to_hundred": 8.2,
+            "top_speed": 200,
+            "fuel_consumption": 7.0
+          },
+          "price_range": "15.98-20.98万元"
+        }
+      ]
+    }
+  ]
+}

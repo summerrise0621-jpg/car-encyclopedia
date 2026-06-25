@@ -1,0 +1,41 @@
+{
+  "id": "peugeot-308",
+  "brand_id": "peugeot",
+  "name_cn": "标致308",
+  "name_en": "Peugeot 308",
+  "intro": "标致308是品牌旗下的紧凑型轿车，采用全新狮标设计语言和i-Cockpit唯我座舱，以法式优雅设计和出色的驾驶质感在欧洲市场广受好评。",
+  "category": "hatchback",
+  "generations": [
+    {
+      "id": "308-3",
+      "name": "第三代",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "308-gt",
+          "name": "308 GT",
+          "year": 2024,
+          "body_type": "hatchback",
+          "powertrain": "petrol",
+          "engine": "1.6L 涡轮增压四缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4367,
+            "width": 1852,
+            "height": 1441,
+            "wheelbase": 2675,
+            "weight": 1330,
+            "power": 180,
+            "torque": 250,
+            "displacement": 1.6,
+            "zero_to_hundred": 7.7,
+            "top_speed": 230,
+            "fuel_consumption": 6.1
+          },
+          "price_range": "14.97-18.97万元"
+        }
+      ]
+    }
+  ]
+}

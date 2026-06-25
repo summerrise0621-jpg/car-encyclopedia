@@ -1,0 +1,41 @@
+{
+  "id": "ferrari-296",
+  "brand_id": "ferrari",
+  "name_cn": "法拉利296",
+  "name_en": "Ferrari 296 GTB",
+  "intro": "法拉利296 GTB是品牌首款V6混动超跑，搭载全新3.0L V6双涡轮增压发动机与电动机组合，以极致的性能效率比重新定义了法拉利的入门级超跑。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "296-1",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "296-gtb",
+          "name": "296 GTB",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "3.0L 双涡轮增压V6+电动机",
+          "transmission": "8速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4565,
+            "width": 1958,
+            "height": 1187,
+            "wheelbase": 2600,
+            "weight": 1470,
+            "power": 830,
+            "torque": 740,
+            "displacement": 3.0,
+            "zero_to_hundred": 2.9,
+            "top_speed": 330,
+            "fuel_consumption": 6.4
+          },
+          "price_range": "298.8-350.0万元"
+        }
+      ]
+    }
+  ]
+}

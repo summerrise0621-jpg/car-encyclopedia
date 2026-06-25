@@ -1,0 +1,41 @@
+{
+  "id": "audi-q7",
+  "brand_id": "audi",
+  "name_cn": "奥迪Q7",
+  "name_en": "Audi Q7",
+  "intro": "奥迪Q7是奥迪旗下中大型豪华SUV，自2005年问世以来一直是奥迪SUV家族的旗舰级车型。Q7以quattro全时四驱系统、出色的公路行驶品质和豪华的科技座舱著称，提供5座和7座布局，是豪华中大型SUV市场的有力竞争者。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "q7-4m",
+      "name": "第二代 (4M)",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "q7-55tfsi",
+          "name": "Q7 55 TFSI quattro",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "3.0T V6涡轮增压+48V轻混",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5067,
+            "width": 1970,
+            "height": 1740,
+            "wheelbase": 2999,
+            "weight": 2235,
+            "power": 340,
+            "torque": 500,
+            "displacement": 3.0,
+            "zero_to_hundred": 5.9,
+            "top_speed": 250,
+            "fuel_consumption": 9.5
+          },
+          "price_range": "63.28-80.48万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "subaru-outback",
+  "brand_id": "subaru",
+  "name_cn": "斯巴鲁傲虎",
+  "name_en": "Subaru Outback",
+  "intro": "斯巴鲁傲虎是一款跨界旅行车，兼具旅行车的装载能力和SUV的通过性，搭载全时四驱系统，适合长途旅行和户外使用。",
+  "category": "wagon",
+  "generations": [
+    {
+      "id": "outback-vi",
+      "name": "第六代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "outback-25i",
+          "name": "2.5i",
+          "year": 2024,
+          "body_type": "wagon",
+          "powertrain": "petrol",
+          "engine": "2.5L 水平对置四缸",
+          "transmission": "CVT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4870,
+            "width": 1875,
+            "height": 1675,
+            "wheelbase": 2745,
+            "weight": 1660,
+            "power": 182,
+            "torque": 240,
+            "displacement": 2.5,
+            "zero_to_hundred": 9.6,
+            "top_speed": 190,
+            "fuel_consumption": 7.4
+          },
+          "price_range": "26.28-31.28万元"
+        }
+      ]
+    }
+  ]
+}

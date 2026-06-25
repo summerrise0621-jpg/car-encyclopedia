@@ -1,0 +1,33 @@
+{
+  "id": "kia-ev6",
+  "brand_id": "kia",
+  "name_cn": "起亚EV6",
+  "name_en": "Kia EV6",
+  "intro": "起亚EV6是品牌首款专用纯电平台车型，基于E-GMP平台打造，以跨界轿跑造型、超快充电技术和出色的续航里程获得广泛好评。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "ev6-i",
+      "name": "第一代",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "ev6-gt",
+          "name": "GT",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "bev",
+          "engine": "双电机",
+          "transmission": "固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4695, "width": 1890, "height": 1545, "wheelbase": 2900,
+            "weight": 2100, "power": 585, "torque": 740, "displacement": 0,
+            "zero_to_hundred": 3.5, "top_speed": 260, "fuel_consumption": 0
+          },
+          "price_range": "28.28-41.08万元"
+        }
+      ]
+    }
+  ]
+}

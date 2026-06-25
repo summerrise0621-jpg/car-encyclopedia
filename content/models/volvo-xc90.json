@@ -1,0 +1,41 @@
+{
+  "id": "volvo-xc90",
+  "brand_id": "volvo",
+  "name_cn": "沃尔沃XC90",
+  "name_en": "Volvo XC90",
+  "intro": "沃尔沃XC90是品牌旗舰级大型豪华SUV，以极致的安全性、奢华的内饰氛围和环保理念著称，是沃尔沃品牌精神的集大成者。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "xc90-2",
+      "name": "第二代",
+      "year_start": 2015,
+      "variants": [
+        {
+          "id": "xc90-b6",
+          "name": "XC90 B6",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "2.0L 涡轮增压+机械增压四缸+48V轻混",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4953,
+            "width": 1958,
+            "height": 1776,
+            "wheelbase": 2984,
+            "weight": 2095,
+            "power": 300,
+            "torque": 420,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.7,
+            "top_speed": 230,
+            "fuel_consumption": 8.4
+          },
+          "price_range": "53.89-67.89万元"
+        }
+      ]
+    }
+  ]
+}

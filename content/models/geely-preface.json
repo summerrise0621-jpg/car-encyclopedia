@@ -1,0 +1,41 @@
+{
+  "id": "geely-preface",
+  "brand_id": "geely",
+  "name_cn": "吉利星瑞",
+  "name_en": "Geely Preface",
+  "intro": "吉利星瑞是吉利旗下紧凑型轿车，基于吉利CMA超级母体架构打造。星瑞搭载沃尔沃Drive-E系列2.0TD发动机，以越级的动力性能、豪华的内饰品质和丰富的智能配置著称，被誉为'家轿颠覆者'，是中国品牌紧凑型轿车的标杆之作。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "preface-gen1",
+      "name": "星瑞",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "preface-2-0td",
+          "name": "星瑞 2.0TD",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "2.0T 涡轮增压四缸（Drive-E）",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4785,
+            "width": 1869,
+            "height": 1469,
+            "wheelbase": 2800,
+            "weight": 1450,
+            "power": 190,
+            "torque": 300,
+            "displacement": 2.0,
+            "zero_to_hundred": 7.9,
+            "top_speed": 210,
+            "fuel_consumption": 6.7
+          },
+          "price_range": "11.37-14.97万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "benz-s-class",
+  "brand_id": "benz",
+  "name_cn": "奔驰S级",
+  "name_en": "Mercedes-Benz S-Class",
+  "intro": "奔驰S级是梅赛德斯-奔驰的旗舰豪华轿车，被誉为'汽车工业的标杆'。自1951年问世以来，S级始终引领豪华汽车的技术创新方向，从安全气囊到空气悬挂，众多划时代技术均率先搭载于S级。现款W223代S级以数字化豪华与卓越舒适性定义新时代旗舰标准。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "w223",
+      "name": "第七代 (W223/V223)",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "s400l",
+          "name": "S 400 L",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "2.5T 涡轮增压直列六缸+48V轻混",
+          "transmission": "9速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5290,
+            "width": 1921,
+            "height": 1503,
+            "wheelbase": 3216,
+            "weight": 2060,
+            "power": 299,
+            "torque": 450,
+            "displacement": 2.5,
+            "zero_to_hundred": 5.9,
+            "top_speed": 250,
+            "fuel_consumption": 7.8
+          },
+          "price_range": "93.8-126.8万元"
+        },
+        {
+          "id": "s500l",
+          "name": "S 500 L 4MATIC",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "3.0T 涡轮增压直列六缸+48V轻混",
+          "transmission": "9速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5290,
+            "width": 1921,
+            "height": 1503,
+            "wheelbase": 3216,
+            "weight": 2150,
+            "power": 435,
+            "torque": 520,
+            "displacement": 3.0,
+            "zero_to_hundred": 4.9,
+            "top_speed": 250,
+            "fuel_consumption": 8.6
+          },
+          "price_range": "136.8-178.8万元"
+        }
+      ]
+    }
+  ]
+}

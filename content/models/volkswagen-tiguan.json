@@ -1,0 +1,41 @@
+{
+  "id": "volkswagen-tiguan",
+  "brand_id": "volkswagen",
+  "name_cn": "大众途观",
+  "name_en": "Volkswagen Tiguan",
+  "intro": "大众途观是大众旗下紧凑型SUV，自2007年推出以来已成为全球最畅销的SUV车型之一。途观以均衡的产品力、扎实的底盘质感和良好的实用性著称，中国市场提供长轴距版途观L。第三代途观（Tiguan）于2024年发布，搭载MQB evo平台。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "tiguan-gen3",
+      "name": "第三代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "tiguan-330tsi",
+          "name": "途观L 330TSI",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.0T 涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4535,
+            "width": 1839,
+            "height": 1660,
+            "wheelbase": 2681,
+            "weight": 1620,
+            "power": 186,
+            "torque": 320,
+            "displacement": 2.0,
+            "zero_to_hundred": 8.4,
+            "top_speed": 200,
+            "fuel_consumption": 7.2
+          },
+          "price_range": "19.90-25.30万元"
+        }
+      ]
+    }
+  ]
+}

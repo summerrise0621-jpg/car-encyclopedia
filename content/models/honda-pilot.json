@@ -1,0 +1,41 @@
+{
+  "id": "honda-pilot",
+  "brand_id": "honda",
+  "name_cn": "本田Pilot",
+  "name_en": "Honda Pilot",
+  "intro": "本田Pilot是本田旗下中大型三排座SUV，主要面向北美市场。Pilot以宽敞的三排座椅空间、可靠的动力系统和丰富的安全配置著称，是北美家庭用户最受欢迎的中大型SUV之一。第四代Pilot采用全新平台，搭载3.5L V6发动机。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "pilot-gen4",
+      "name": "第四代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "pilot-trailsport",
+          "name": "Pilot TrailSport",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "3.5L V6自然吸气",
+          "transmission": "10速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5077,
+            "width": 1999,
+            "height": 1801,
+            "wheelbase": 2890,
+            "weight": 2050,
+            "power": 289,
+            "torque": 355,
+            "displacement": 3.5,
+            "zero_to_hundred": 6.8,
+            "top_speed": 190,
+            "fuel_consumption": 10.5
+          },
+          "price_range": "约30-42万元（海外）"
+        }
+      ]
+    }
+  ]
+}

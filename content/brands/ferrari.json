@@ -1,0 +1,18 @@
+{
+  "id": "ferrari",
+  "name_cn": "法拉利",
+  "name_en": "Ferrari",
+  "country": "意大利",
+  "region": "europe",
+  "founded_year": 1939,
+  "logo": "/images/brands/ferrari.svg",
+  "intro": "法拉利是全球最著名的超级跑车品牌，由恩佐·法拉利创立于意大利马拉内罗。品牌以跃马标志和红色涂装闻名，是F1赛场最成功的车队，将赛车技术与公路跑车完美结合。",
+  "history": [
+    {"year": 1939, "event": "恩佐·法拉利创立Auto Avio Costruzioni公司"},
+    {"year": 1947, "event": "第一辆以法拉利命名的125 S跑车问世"},
+    {"year": 1969, "event": "菲亚特集团收购法拉利50%股份"},
+    {"year": 2013, "event": "LaFerrari混动超跑发布，开启混动时代"},
+    {"year": 2023, "event": "SF90系列和296系列持续引领混动超跑潮流"}
+  ],
+  "official_site": "https://www.ferrari.com"
+}

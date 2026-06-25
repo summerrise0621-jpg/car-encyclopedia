@@ -1,0 +1,65 @@
+{
+  "id": "bmw-7-series",
+  "brand_id": "bmw",
+  "name_cn": "宝马7系",
+  "name_en": "BMW 7 Series",
+  "intro": "宝马7系是宝马品牌的旗舰豪华轿车，代表着宝马在豪华、科技与驾驶乐趣方面的最高水准。自1977年问世以来，7系一直是豪华轿车市场的标杆车型，以其先进的驾驶辅助系统、精致的内饰工艺和卓越的行驶品质著称。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "g70",
+      "name": "第七代 (G70)",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "735li",
+          "name": "735Li",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "3.0T 涡轮增压直列六缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5391,
+            "width": 1950,
+            "height": 1548,
+            "wheelbase": 3215,
+            "weight": 2100,
+            "power": 272,
+            "torque": 400,
+            "displacement": 3.0,
+            "zero_to_hundred": 6.7,
+            "top_speed": 250,
+            "fuel_consumption": 7.5
+          },
+          "price_range": "82.8-126.9万元"
+        },
+        {
+          "id": "740li",
+          "name": "740Li xDrive",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "3.0T 涡轮增压直列六缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5391,
+            "width": 1950,
+            "height": 1548,
+            "wheelbase": 3215,
+            "weight": 2180,
+            "power": 381,
+            "torque": 520,
+            "displacement": 3.0,
+            "zero_to_hundred": 4.9,
+            "top_speed": 250,
+            "fuel_consumption": 8.2
+          },
+          "price_range": "106.9-139.9万元"
+        }
+      ]
+    }
+  ]
+}

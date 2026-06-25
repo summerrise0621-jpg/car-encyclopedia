@@ -1,0 +1,41 @@
+{
+  "id": "jeep-grand-cherokee",
+  "brand_id": "jeep",
+  "name_cn": "吉普大切诺基",
+  "name_en": "Jeep Grand Cherokee",
+  "intro": "吉普大切诺基是品牌的中大型豪华SUV，兼具出色的越野能力和公路舒适性，是Jeep产品线中最具豪华气质的车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "grand-cherokee-wl",
+      "name": "第五代WL",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "grand-cherokee-l",
+          "name": "L",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "3.6L V6自然吸气",
+          "transmission": "8AT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4910,
+            "width": 1930,
+            "height": 1770,
+            "wheelbase": 2964,
+            "weight": 2100,
+            "power": 294,
+            "torque": 353,
+            "displacement": 3.6,
+            "zero_to_hundred": 7.5,
+            "top_speed": 210,
+            "fuel_consumption": 10.8
+          },
+          "price_range": "55-75万元"
+        }
+      ]
+    }
+  ]
+}

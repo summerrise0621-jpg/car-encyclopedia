@@ -1,0 +1,41 @@
+{
+  "id": "changan-uni-v",
+  "brand_id": "changan",
+  "name_cn": "长安UNI-V",
+  "name_en": "Changan UNI-V",
+  "intro": "长安UNI-V是UNI系列首款轿跑车型，以运动化外观设计和智能科技配置吸引年轻消费者，提供燃油和混动两种动力选择。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "uni-v-i",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "uni-v-15t",
+          "name": "1.5T",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "1.5T 涡轮增压四缸",
+          "transmission": "7DCT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4680,
+            "width": 1838,
+            "height": 1430,
+            "wheelbase": 2750,
+            "weight": 1410,
+            "power": 188,
+            "torque": 300,
+            "displacement": 1.5,
+            "zero_to_hundred": 7.1,
+            "top_speed": 215,
+            "fuel_consumption": 6.2
+          },
+          "price_range": "10.89-13.99万元"
+        }
+      ]
+    }
+  ]
+}

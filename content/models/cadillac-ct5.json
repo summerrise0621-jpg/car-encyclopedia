@@ -1,0 +1,41 @@
+{
+  "id": "cadillac-ct5",
+  "brand_id": "cadillac",
+  "name_cn": "凯迪拉克CT5",
+  "name_en": "Cadillac CT5",
+  "intro": "凯迪拉克CT5是品牌旗下的中型运动轿车，以锐利的设计语言和后驱驾驶乐趣为卖点，V系列高性能版更将运动性能推向极致。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "ct5-i",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "ct5-28t",
+          "name": "28T",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "2.0T 涡轮增压四缸",
+          "transmission": "10AT",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4924,
+            "width": 1883,
+            "height": 1453,
+            "wheelbase": 2947,
+            "weight": 1620,
+            "power": 237,
+            "torque": 350,
+            "displacement": 2.0,
+            "zero_to_hundred": 7.2,
+            "top_speed": 230,
+            "fuel_consumption": 7.2
+          },
+          "price_range": "27.97-34.17万元"
+        }
+      ]
+    }
+  ]
+}

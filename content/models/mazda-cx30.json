@@ -1,0 +1,41 @@
+{
+  "id": "mazda-cx30",
+  "brand_id": "mazda",
+  "name_cn": "马自达CX-30",
+  "name_en": "Mazda CX-30",
+  "intro": "马自达CX-30是马自达旗下紧凑型跨界SUV，定位于CX-3与CX-5之间。CX-30采用马自达魂动2.0设计语言，搭载创驰蓝天技术发动机，以出色的驾驶乐趣、精致的内外设计和同级领先的操控感受著称，是紧凑型跨界SUV中独具魅力的选择。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "cx30-gen1",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "cx30-2-0",
+          "name": "CX-30 2.0L",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.0L 创驰蓝天自然吸气",
+          "transmission": "6速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4395,
+            "width": 1795,
+            "height": 1540,
+            "wheelbase": 2655,
+            "weight": 1380,
+            "power": 158,
+            "torque": 202,
+            "displacement": 2.0,
+            "zero_to_hundred": 9.5,
+            "top_speed": 190,
+            "fuel_consumption": 6.1
+          },
+          "price_range": "12.99-17.19万元"
+        }
+      ]
+    }
+  ]
+}

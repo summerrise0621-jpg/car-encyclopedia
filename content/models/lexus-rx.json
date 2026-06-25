@@ -1,0 +1,49 @@
+{
+  "id": "lexus-rx",
+  "brand_id": "lexus",
+  "name_cn": "雷克萨斯RX",
+  "name_en": "Lexus RX",
+  "intro": "雷克萨斯RX是品牌旗下最畅销的中大型豪华SUV，自1998年开创豪华跨界SUV先河以来，历经五代进化，以舒适静谧的驾乘体验和可靠的混动系统著称。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "rx-v",
+      "name": "第五代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "rx350h",
+          "name": "RX 350h",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "2.5L 混合动力",
+          "transmission": "E-CVT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4890, "width": 1920, "height": 1695, "wheelbase": 2850,
+            "weight": 1950, "power": 250, "torque": 316, "displacement": 2.5,
+            "zero_to_hundred": 7.9, "top_speed": 200, "fuel_consumption": 5.4
+          },
+          "price_range": "40.5-55.8万元"
+        },
+        {
+          "id": "rx450h-plus",
+          "name": "RX 450h+",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "phev",
+          "engine": "2.5L 插电混动",
+          "transmission": "E-CVT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4890, "width": 1920, "height": 1695, "wheelbase": 2850,
+            "weight": 2100, "power": 309, "torque": 350, "displacement": 2.5,
+            "zero_to_hundred": 6.5, "top_speed": 200, "fuel_consumption": 1.3
+          },
+          "price_range": "54.9-64.8万元"
+        }
+      ]
+    }
+  ]
+}

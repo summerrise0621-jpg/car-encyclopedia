@@ -1,0 +1,41 @@
+{
+  "id": "chevrolet-silverado",
+  "brand_id": "chevrolet",
+  "name_cn": "雪佛兰索罗德",
+  "name_en": "Chevrolet Silverado",
+  "intro": "雪佛兰索罗德是美国最畅销的全尺寸皮卡之一，以强大的拖拽能力、充裕的货厢空间和多样化的动力配置著称，是美国工作和生活方式的象征。",
+  "category": "pickup",
+  "generations": [
+    {
+      "id": "silverado-iv",
+      "name": "第四代",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "silverado-1500",
+          "name": "1500",
+          "year": 2024,
+          "body_type": "pickup",
+          "powertrain": "petrol",
+          "engine": "6.2L V8自然吸气",
+          "transmission": "10AT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5885,
+            "width": 2063,
+            "height": 1915,
+            "wheelbase": 3745,
+            "weight": 2400,
+            "power": 420,
+            "torque": 624,
+            "displacement": 6.2,
+            "zero_to_hundred": 5.8,
+            "top_speed": 180,
+            "fuel_consumption": 14.5
+          },
+          "price_range": "45-75万元"
+        }
+      ]
+    }
+  ]
+}

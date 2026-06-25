@@ -1,0 +1,18 @@
+{
+  "id": "porsche",
+  "name_cn": "保时捷",
+  "name_en": "Porsche",
+  "country": "德国",
+  "region": "europe",
+  "founded_year": 1931,
+  "logo": "/images/brands/porsche.svg",
+  "intro": "保时捷是德国大众汽车集团旗下的豪华汽车品牌，由费迪南德·保时捷于1931年创立于德国斯图加特。品牌以高性能跑车闻名于世，911系列是其标志性车型，将赛道基因与日常驾驶完美融合。",
+  "history": [
+    {"year": 1931, "event": "费迪南德·保时捷在斯图加特创立保时捷设计工作室"},
+    {"year": 1948, "event": "第一辆保时捷356问世，开启跑车制造历程"},
+    {"year": 1963, "event": "传奇车型保时捷911正式发布"},
+    {"year": 2002, "event": "推出首款SUV车型卡宴，开创豪华性能SUV市场"},
+    {"year": 2019, "event": "首款纯电动车Taycan发布，开启电动化新篇章"}
+  ],
+  "official_site": "https://www.porsche.com"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "land-rover-range-rover",
+  "brand_id": "land-rover",
+  "name_cn": "路虎揽胜",
+  "name_en": "Land Rover Range Rover",
+  "intro": "路虎揽胜是全球顶级豪华全地形SUV的标杆，以无与伦比的奢华内饰、卓越的越野能力和沉稳大气的设计风格，成为政商精英和皇室贵族的首选座驾。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "range-rover-5",
+      "name": "第五代 (L460)",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "range-rover-p400",
+          "name": "Range Rover P400",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "3.0L 涡轮增压直列六缸+48V轻混",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5052,
+            "width": 2047,
+            "height": 1870,
+            "wheelbase": 2997,
+            "weight": 2455,
+            "power": 400,
+            "torque": 550,
+            "displacement": 3.0,
+            "zero_to_hundred": 5.8,
+            "top_speed": 242,
+            "fuel_consumption": 10.8
+          },
+          "price_range": "148.8-249.8万元"
+        }
+      ]
+    }
+  ]
+}

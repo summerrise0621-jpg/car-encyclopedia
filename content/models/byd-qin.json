@@ -1,0 +1,41 @@
+{
+  "id": "byd-qin",
+  "brand_id": "byd",
+  "name_cn": "比亚迪秦",
+  "name_en": "BYD Qin",
+  "intro": "比亚迪秦是比亚迪旗下紧凑型轿车，包含秦PLUS DM-i插电混动和秦PLUS EV纯电版本。凭借DM-i超级混动系统，秦PLUS DM-i以超低油耗和极具竞争力的价格，成为中国最畅销的插混轿车之一，是国民家轿的代表车型。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "qin-plus-dmi",
+      "name": "秦PLUS DM-i",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "qin-plus-dmi-55",
+          "name": "秦PLUS DM-i 55km版",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "phev",
+          "engine": "1.5L插电混合动力",
+          "transmission": "E-CVT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4765,
+            "width": 1837,
+            "height": 1495,
+            "wheelbase": 2718,
+            "weight": 1580,
+            "power": 132,
+            "torque": 316,
+            "displacement": 1.5,
+            "zero_to_hundred": 7.3,
+            "top_speed": 185,
+            "fuel_consumption": 3.8
+          },
+          "price_range": "7.98-12.58万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "li-auto-l9",
+  "brand_id": "li-auto",
+  "name_cn": "理想L9",
+  "name_en": "Li Auto L9",
+  "intro": "理想L9是品牌旗舰级全尺寸六座SUV，定位'家庭旗舰'，以超大空间、增程式动力和丰富智能配置为核心卖点，上市即成为爆款车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "l9-i",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "l9-max",
+          "name": "L9 Max",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "phev",
+          "engine": "1.5T增程器+双电机",
+          "transmission": "固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5218,
+            "width": 1998,
+            "height": 1800,
+            "wheelbase": 3105,
+            "weight": 2520,
+            "power": 449,
+            "torque": 620,
+            "displacement": 1.5,
+            "zero_to_hundred": 5.3,
+            "top_speed": 180,
+            "fuel_consumption": 7.5
+          },
+          "price_range": "42.98-45.98万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "id": "tesla-cybertruck",
+  "brand_id": "tesla",
+  "name_cn": "Cybertruck",
+  "name_en": "Tesla Cybertruck",
+  "intro": "特斯拉Cybertruck是特斯拉旗下首款纯电动皮卡，以其颠覆性的赛博朋克外观设计和超强的不锈钢车身闻名于世。2019年发布时即引发全球关注，车身采用超硬30X冷轧不锈钢，配备装甲玻璃，兼具未来感与实用性。Cybertruck是北美最畅销的电动皮卡之一。",
+  "category": "pickup",
+  "generations": [
+    {
+      "id": "ct-gen1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "cybertruck-awd",
+          "name": "Cybertruck AWD",
+          "year": 2024,
+          "body_type": "pickup",
+          "powertrain": "bev",
+          "engine": "双电机全轮驱动",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5683,
+            "width": 2032,
+            "height": 1796,
+            "wheelbase": 3807,
+            "weight": 2995,
+            "power": 443,
+            "torque": 660,
+            "displacement": 0,
+            "zero_to_hundred": 4.1,
+            "top_speed": 180,
+            "fuel_consumption": 0
+          },
+          "price_range": "约45-65万元（海外）"
+        },
+        {
+          "id": "cybertruck-cyberbeast",
+          "name": "Cyberbeast",
+          "year": 2024,
+          "body_type": "pickup",
+          "powertrain": "bev",
+          "engine": "三电机全轮驱动",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5683,
+            "width": 2032,
+            "height": 1796,
+            "wheelbase": 3807,
+            "weight": 3104,
+            "power": 630,
+            "torque": 1000,
+            "displacement": 0,
+            "zero_to_hundred": 2.7,
+            "top_speed": 209,
+            "fuel_consumption": 0
+          },
+          "price_range": "约65-80万元（海外）"
+        }
+      ]
+    }
+  ]
+}

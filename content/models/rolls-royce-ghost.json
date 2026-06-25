@@ -1,0 +1,41 @@
+{
+  "id": "rolls-royce-ghost",
+  "brand_id": "rolls-royce",
+  "name_cn": "劳斯莱斯古思特",
+  "name_en": "Rolls-Royce Ghost",
+  "intro": "劳斯莱斯古思特是品牌入门级豪华轿车，虽然定位低于幻影，但仍保持着劳斯莱斯标志性的极致奢华与静谧驾乘体验，被称为最安静的轿车。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "ghost-2",
+      "name": "第二代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "ghost-ewb",
+          "name": "Ghost EWB",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "6.75L 双涡轮增压V12",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5716,
+            "width": 2148,
+            "height": 1571,
+            "wheelbase": 3465,
+            "weight": 2599,
+            "power": 571,
+            "torque": 850,
+            "displacement": 6.75,
+            "zero_to_hundred": 4.8,
+            "top_speed": 250,
+            "fuel_consumption": 15.7
+          },
+          "price_range": "473.0-570.0万元"
+        }
+      ]
+    }
+  ]
+}

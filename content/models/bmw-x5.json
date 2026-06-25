@@ -1,0 +1,65 @@
+{
+  "id": "bmw-x5",
+  "brand_id": "bmw",
+  "name_cn": "宝马X5",
+  "name_en": "BMW X5",
+  "intro": "宝马X5是宝马旗下中大型豪华SUV，自1999年推出以来开创了豪华SAV（运动型多功能车）细分市场。X5以出色的公路操控性、豪华的座舱氛围和强大的越野能力著称，是豪华中大型SUV市场的标杆车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "g05-lci",
+      "name": "第四代改款 (G05 LCI)",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "x5-xdrive30li",
+          "name": "X5 xDrive30Li",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.0T 涡轮增压四缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4930,
+            "width": 2004,
+            "height": 1776,
+            "wheelbase": 2975,
+            "weight": 2060,
+            "power": 245,
+            "torque": 400,
+            "displacement": 2.0,
+            "zero_to_hundred": 7.3,
+            "top_speed": 230,
+            "fuel_consumption": 8.5
+          },
+          "price_range": "60.5-77.5万元"
+        },
+        {
+          "id": "x5-xdrive40li",
+          "name": "X5 xDrive40Li",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "3.0T 涡轮增压直列六缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4930,
+            "width": 2004,
+            "height": 1776,
+            "wheelbase": 2975,
+            "weight": 2130,
+            "power": 381,
+            "torque": 520,
+            "displacement": 3.0,
+            "zero_to_hundred": 5.4,
+            "top_speed": 250,
+            "fuel_consumption": 9.2
+          },
+          "price_range": "75.5-93.5万元"
+        }
+      ]
+    }
+  ]
+}

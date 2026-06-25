@@ -1,0 +1,41 @@
+{
+  "id": "volvo-s60",
+  "brand_id": "volvo",
+  "name_cn": "沃尔沃S60",
+  "name_en": "Volvo S60",
+  "intro": "沃尔沃S60是品牌旗下的中型豪华轿车，以运动化的设计风格和先进的安全科技为核心卖点，搭载多项主动安全系统，是注重安全与驾驶乐趣消费者的理想选择。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "s60-3",
+      "name": "第三代",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "s60-b5",
+          "name": "S60 B5",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "hybrid",
+          "engine": "2.0L 涡轮增压四缸+48V轻混",
+          "transmission": "8速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4761,
+            "width": 1850,
+            "height": 1432,
+            "wheelbase": 2872,
+            "weight": 1710,
+            "power": 250,
+            "torque": 350,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.5,
+            "top_speed": 240,
+            "fuel_consumption": 6.9
+          },
+          "price_range": "29.69-38.49万元"
+        }
+      ]
+    }
+  ]
+}

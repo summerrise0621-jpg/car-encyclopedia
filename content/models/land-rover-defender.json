@@ -1,0 +1,41 @@
+{
+  "id": "land-rover-defender",
+  "brand_id": "land-rover",
+  "name_cn": "路虎卫士",
+  "name_en": "Land Rover Defender",
+  "intro": "路虎卫士是品牌最具传奇色彩的越野车型，经典方正的造型承载着70多年的越野精神，全新一代在保留硬核越野能力的同时融入了现代科技与豪华感。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "defender-l663",
+      "name": "全新一代 (L663)",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "defender-110-p400",
+          "name": "Defender 110 P400",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "3.0L 涡轮增压直列六缸+48V轻混",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5018,
+            "width": 2008,
+            "height": 1967,
+            "wheelbase": 3022,
+            "weight": 2320,
+            "power": 400,
+            "torque": 550,
+            "displacement": 3.0,
+            "zero_to_hundred": 6.0,
+            "top_speed": 191,
+            "fuel_consumption": 10.2
+          },
+          "price_range": "69.8-119.8万元"
+        }
+      ]
+    }
+  ]
+}

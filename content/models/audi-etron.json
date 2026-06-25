@@ -1,0 +1,41 @@
+{
+  "id": "audi-etron",
+  "brand_id": "audi",
+  "name_cn": "奥迪e-tron",
+  "name_en": "Audi e-tron",
+  "intro": "奥迪e-tron是奥迪旗下首款纯电动SUV，代表着奥迪电动化战略的重要开端。e-tron基于MLB evo平台打造，搭载双电机quattro电动四驱系统，在保留奥迪一贯的豪华质感和驾驶品质的同时，实现了零排放出行。后续推出e-tron GT等扩展车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "etron-ge",
+      "name": "e-tron (GE)",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "etron-55",
+          "name": "e-tron 55 quattro",
+          "year": 2023,
+          "body_type": "suv",
+          "powertrain": "bev",
+          "engine": "双电机全轮驱动",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4901,
+            "width": 1935,
+            "height": 1616,
+            "wheelbase": 2928,
+            "weight": 2560,
+            "power": 300,
+            "torque": 540,
+            "displacement": 0,
+            "zero_to_hundred": 5.7,
+            "top_speed": 200,
+            "fuel_consumption": 0
+          },
+          "price_range": "54.68-74.68万元"
+        }
+      ]
+    }
+  ]
+}

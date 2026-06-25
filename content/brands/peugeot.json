@@ -1,0 +1,18 @@
+{
+  "id": "peugeot",
+  "name_cn": "标致",
+  "name_en": "Peugeot",
+  "country": "法国",
+  "region": "europe",
+  "founded_year": 1810,
+  "logo": "/images/brands/peugeot.svg",
+  "intro": "标致是法国历史最悠久的汽车品牌之一，隶属于Stellantis集团。品牌以狮子标志闻名，产品涵盖轿车、SUV和商用车，在欧洲市场拥有深厚的品牌底蕴和广泛的用户基础。",
+  "history": [
+    {"year": 1810, "event": "标致家族创立公司，最初生产咖啡磨和自行车"},
+    {"year": 1889, "event": "标致制造了第一辆蒸汽动力汽车"},
+    {"year": 1896, "event": "正式成立标致汽车公司"},
+    {"year": 2014, "event": "PSA集团与东风汽车深化合作进入中国市场"},
+    {"year": 2021, "event": "PSA与FCA合并成立Stellantis集团"}
+  ],
+  "official_site": "https://www.peugeot.com"
+}

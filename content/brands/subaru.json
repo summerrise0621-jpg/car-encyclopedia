@@ -1,0 +1,19 @@
+{
+  "id": "subaru",
+  "name_cn": "斯巴鲁",
+  "name_en": "Subaru",
+  "country": "日本",
+  "region": "japan",
+  "founded_year": 1953,
+  "logo": "/images/brands/subaru.svg",
+  "intro": "斯巴鲁是日本富士重工业株式会社旗下的汽车品牌，以水平对置发动机和全时四驱系统闻名于世。品牌专注于安全性与驾驶乐趣的平衡，在全球越野和性能车领域拥有极高声誉。",
+  "history": [
+    {"year": 1953, "event": "富士重工业公司成立汽车事业部"},
+    {"year": 1958, "event": "推出首款量产车Subaru 360"},
+    {"year": 1972, "event": "推出首款搭载水平对置发动机和全时四驱的Leone"},
+    {"year": 1989, "event": "Legacy力狮问世，主打中型轿车市场"},
+    {"year": 1992, "event": "WRX车型推出，开启性能拉力传奇"},
+    {"year": 1997, "event": "Forester森林人上市，成为热销SUV"}
+  ],
+  "official_site": "https://www.subaru.com"
+}

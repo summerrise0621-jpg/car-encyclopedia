@@ -1,0 +1,41 @@
+{
+  "id": "ferrari-sf90",
+  "brand_id": "ferrari",
+  "name_cn": "法拉利SF90",
+  "name_en": "Ferrari SF90 Stradale",
+  "intro": "法拉利SF90 Stradale是品牌首款插电式混合动力量产超跑，V8发动机与三台电动机组合输出近1000马力，代表了法拉利在电动化领域的技术巅峰。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "sf90-1",
+      "name": "第一代",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "sf90-stradale",
+          "name": "SF90 Stradale",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "4.0L 双涡轮增压V8+三电动机",
+          "transmission": "8速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4710,
+            "width": 1972,
+            "height": 1186,
+            "wheelbase": 2650,
+            "weight": 1670,
+            "power": 1000,
+            "torque": 800,
+            "displacement": 4.0,
+            "zero_to_hundred": 2.5,
+            "top_speed": 340,
+            "fuel_consumption": 6.1
+          },
+          "price_range": "488.0-580.0万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "byd-yuan",
+  "brand_id": "byd",
+  "name_cn": "比亚迪元",
+  "name_en": "BYD Yuan",
+  "intro": "比亚迪元是比亚迪旗下小型/紧凑型SUV系列，包含元PLUS纯电版和元UP等车型。元PLUS基于e平台3.0打造，搭载刀片电池，以时尚外观和高性价比著称，是中国最畅销的纯电SUV之一，也是比亚迪海外出口的主力车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "yuan-plus",
+      "name": "元PLUS",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "yuan-plus-ev",
+          "name": "元PLUS EV",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "bev",
+          "engine": "单电机",
+          "transmission": "单速固定齿比",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4455,
+            "width": 1875,
+            "height": 1615,
+            "wheelbase": 2720,
+            "weight": 1625,
+            "power": 150,
+            "torque": 310,
+            "displacement": 0,
+            "zero_to_hundred": 7.3,
+            "top_speed": 160,
+            "fuel_consumption": 0
+          },
+          "price_range": "12.98-16.78万元"
+        }
+      ]
+    }
+  ]
+}

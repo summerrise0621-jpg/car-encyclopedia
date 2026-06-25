@@ -1,0 +1,41 @@
+{
+  "id": "porsche-911",
+  "brand_id": "porsche",
+  "name_cn": "保时捷911",
+  "name_en": "Porsche 911",
+  "intro": "保时捷911是品牌最具代表性的车型，自1963年诞生以来已历经八代进化，始终保持后置发动机布局和经典的蛙眼造型，是全球最受欢迎的高性能跑车之一。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "992",
+      "name": "第八代 (992)",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "911-carrera",
+          "name": "911 Carrera",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "3.0L 双涡轮增压水平对置六缸",
+          "transmission": "8速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4519,
+            "width": 1852,
+            "height": 1300,
+            "wheelbase": 2450,
+            "weight": 1500,
+            "power": 385,
+            "torque": 450,
+            "displacement": 3.0,
+            "zero_to_hundred": 4.2,
+            "top_speed": 293,
+            "fuel_consumption": 9.4
+          },
+          "price_range": "129.8-159.8万元"
+        }
+      ]
+    }
+  ]
+}

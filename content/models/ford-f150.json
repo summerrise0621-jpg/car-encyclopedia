@@ -1,0 +1,65 @@
+{
+  "id": "ford-f150",
+  "brand_id": "ford",
+  "name_cn": "福特F-150",
+  "name_en": "Ford F-150",
+  "intro": "福特F-150是福特旗下标志性全尺寸皮卡，自1948年推出F系列以来已历经14代，连续40余年蝉联美国最畅销车型。F-150以强悍的拖拽能力、耐用性和多样化配置著称，提供从工作版到豪华版再到高性能猛禽（Raptor）的丰富选择。",
+  "category": "pickup",
+  "generations": [
+    {
+      "id": "f150-14gen",
+      "name": "第十四代",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "f150-xlt",
+          "name": "F-150 XLT",
+          "year": 2024,
+          "body_type": "pickup",
+          "powertrain": "petrol",
+          "engine": "2.7T EcoBoost V6双涡轮增压",
+          "transmission": "10速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5890,
+            "width": 2030,
+            "height": 1917,
+            "wheelbase": 3693,
+            "weight": 2268,
+            "power": 331,
+            "torque": 542,
+            "displacement": 2.7,
+            "zero_to_hundred": 6.3,
+            "top_speed": 180,
+            "fuel_consumption": 11.2
+          },
+          "price_range": "约35-55万元（海外）"
+        },
+        {
+          "id": "f150-raptor",
+          "name": "F-150 Raptor R",
+          "year": 2024,
+          "body_type": "pickup",
+          "powertrain": "petrol",
+          "engine": "5.2L V8机械增压",
+          "transmission": "10速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5910,
+            "width": 2194,
+            "height": 1992,
+            "wheelbase": 3693,
+            "weight": 2725,
+            "power": 536,
+            "torque": 868,
+            "displacement": 5.2,
+            "zero_to_hundred": 4.5,
+            "top_speed": 180,
+            "fuel_consumption": 15.5
+          },
+          "price_range": "约80-100万元（海外）"
+        }
+      ]
+    }
+  ]
+}

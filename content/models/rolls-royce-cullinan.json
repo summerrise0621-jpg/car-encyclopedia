@@ -1,0 +1,41 @@
+{
+  "id": "rolls-royce-cullinan",
+  "brand_id": "rolls-royce",
+  "name_cn": "劳斯莱斯库里南",
+  "name_en": "Rolls-Royce Cullinan",
+  "intro": "劳斯莱斯库里南是品牌首款SUV车型，以世界上最大的钻石命名，将劳斯莱斯的极致奢华带入SUV领域，是全球最昂贵的量产SUV。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "cullinan-1",
+      "name": "第一代",
+      "year_start": 2018,
+      "variants": [
+        {
+          "id": "cullinan-black-badge",
+          "name": "Cullinan Black Badge",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "6.75L 双涡轮增压V12",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5341,
+            "width": 2164,
+            "height": 1835,
+            "wheelbase": 3295,
+            "weight": 2753,
+            "power": 600,
+            "torque": 900,
+            "displacement": 6.75,
+            "zero_to_hundred": 5.1,
+            "top_speed": 250,
+            "fuel_consumption": 16.5
+          },
+          "price_range": "610.0-780.0万元"
+        }
+      ]
+    }
+  ]
+}

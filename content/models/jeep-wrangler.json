@@ -1,0 +1,65 @@
+{
+  "id": "jeep-wrangler",
+  "brand_id": "jeep",
+  "name_cn": "吉普牧马人",
+  "name_en": "Jeep Wrangler",
+  "intro": "吉普牧马人是全球最具标志性的越野车，传承二战军用吉普的纯正血统，以可拆卸车门和顶棚、强大的四驱系统和极限越野能力著称。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "wrangler-jl",
+      "name": "第四代JL",
+      "year_start": 2018,
+      "variants": [
+        {
+          "id": "wrangler-rubicon",
+          "name": "Rubicon",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "3.6L V6自然吸气",
+          "transmission": "8AT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4334,
+            "width": 1894,
+            "height": 1841,
+            "wheelbase": 2459,
+            "weight": 1960,
+            "power": 284,
+            "torque": 353,
+            "displacement": 3.6,
+            "zero_to_hundred": 7.3,
+            "top_speed": 180,
+            "fuel_consumption": 10.5
+          },
+          "price_range": "42.99-57.99万元"
+        },
+        {
+          "id": "wrangler-4xe",
+          "name": "4xe",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "phev",
+          "engine": "2.0T 插电混动",
+          "transmission": "8AT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4334,
+            "width": 1894,
+            "height": 1841,
+            "wheelbase": 2459,
+            "weight": 2150,
+            "power": 375,
+            "torque": 637,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.0,
+            "top_speed": 180,
+            "fuel_consumption": 3.6
+          },
+          "price_range": "51.99-62.99万元"
+        }
+      ]
+    }
+  ]
+}

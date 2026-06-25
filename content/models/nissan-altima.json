@@ -1,0 +1,41 @@
+{
+  "id": "nissan-altima",
+  "brand_id": "nissan",
+  "name_cn": "日产天籁",
+  "name_en": "Nissan Altima",
+  "intro": "日产天籁（北美称Altima）是日产旗下中型轿车，以'移动大沙发'的舒适乘坐体验闻名。天籁搭载日产独有的VC-Turbo可变压缩比涡轮增压发动机，兼顾动力性能与燃油经济性。现款天籁以年轻化设计和智能科技全面升级，是中型轿车市场的重要选手。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "altima-l34",
+      "name": "第七代 (L34)",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "altima-vc-turbo",
+          "name": "天籁 2.0T VC-Turbo",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "2.0T VC-Turbo可变压缩比涡轮增压",
+          "transmission": "CVT无级变速",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4901,
+            "width": 1850,
+            "height": 1447,
+            "wheelbase": 2825,
+            "weight": 1520,
+            "power": 245,
+            "torque": 380,
+            "displacement": 2.0,
+            "zero_to_hundred": 6.4,
+            "top_speed": 210,
+            "fuel_consumption": 6.6
+          },
+          "price_range": "17.98-23.98万元"
+        }
+      ]
+    }
+  ]
+}

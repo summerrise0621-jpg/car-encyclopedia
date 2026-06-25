@@ -1,0 +1,41 @@
+{
+  "id": "cadillac-escalade",
+  "brand_id": "cadillac",
+  "name_cn": "凯迪拉克凯雷德",
+  "name_en": "Cadillac Escalade",
+  "intro": "凯迪拉克凯雷德是全尺寸豪华SUV的标杆车型，以霸气外观、奢华内饰和强劲动力著称，是美国豪华SUV市场的标志性车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "escalade-v",
+      "name": "第五代",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "escalade-esv",
+          "name": "ESV",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "6.2L V8自然吸气",
+          "transmission": "10AT",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5766,
+            "width": 2060,
+            "height": 1942,
+            "wheelbase": 3407,
+            "weight": 2800,
+            "power": 420,
+            "torque": 624,
+            "displacement": 6.2,
+            "zero_to_hundred": 6.0,
+            "top_speed": 210,
+            "fuel_consumption": 15.5
+          },
+          "price_range": "120-170万元"
+        }
+      ]
+    }
+  ]
+}

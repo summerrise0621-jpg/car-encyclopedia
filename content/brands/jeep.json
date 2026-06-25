@@ -1,0 +1,19 @@
+{
+  "id": "jeep",
+  "name_cn": "吉普",
+  "name_en": "Jeep",
+  "country": "美国",
+  "region": "usa",
+  "founded_year": 1941,
+  "logo": "/images/brands/jeep.svg",
+  "intro": "吉普是美国最著名的越野汽车品牌，诞生于1941年二战时期，最初为美军提供军用越野车。品牌以卓越的越野能力和自由冒险精神闻名全球，Wrangler牧马人已成为越野文化的象征性符号。",
+  "history": [
+    {"year": 1941, "event": "威利斯公司为美军生产第一辆Jeep越野车"},
+    {"year": 1945, "event": "推出首款民用Jeep车型CJ-2A"},
+    {"year": 1963, "event": "Wagoneer问世，开创豪华SUV概念"},
+    {"year": 1987, "event": "Wrangler牧马人问世，成为越野经典"},
+    {"year": 1993, "event": "Grand Cherokee大切诺基上市，定位高端SUV"},
+    {"year": 2021, "event": "Wrangler 4xe插电混动版推出，开启电气化时代"}
+  ],
+  "official_site": "https://www.jeep.com"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "lamborghini-urus",
+  "brand_id": "lamborghini",
+  "name_cn": "兰博基尼Urus",
+  "name_en": "Lamborghini Urus",
+  "intro": "兰博基尼Urus是全球首款超级SUV，将兰博基尼的超跑基因注入SUV车型，以超凡的性能和实用性重新定义了豪华高性能SUV市场。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "urus-performante",
+      "name": "Urus Performante",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "urus-performante",
+          "name": "Urus Performante",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "4.0L 双涡轮增压V8",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5137,
+            "width": 2026,
+            "height": 1618,
+            "wheelbase": 3006,
+            "weight": 2197,
+            "power": 666,
+            "torque": 850,
+            "displacement": 4.0,
+            "zero_to_hundred": 3.3,
+            "top_speed": 306,
+            "fuel_consumption": 14.1
+          },
+          "price_range": "329.8-380.0万元"
+        }
+      ]
+    }
+  ]
+}

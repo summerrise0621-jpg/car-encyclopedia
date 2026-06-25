@@ -1,0 +1,41 @@
+{
+  "id": "chevrolet-camaro",
+  "brand_id": "chevrolet",
+  "name_cn": "雪佛兰科迈罗",
+  "name_en": "Chevrolet Camaro",
+  "intro": "雪佛兰科迈罗是美式肌肉车的经典代表，因《变形金刚》电影中的大黄蜂角色而家喻户晓，以强劲的V8动力和经典美式设计著称。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "camaro-vi",
+      "name": "第六代",
+      "year_start": 2016,
+      "variants": [
+        {
+          "id": "camaro-ss",
+          "name": "SS",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "6.2L V8自然吸气",
+          "transmission": "6MT/10AT",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4785,
+            "width": 1897,
+            "height": 1348,
+            "wheelbase": 2811,
+            "weight": 1680,
+            "power": 455,
+            "torque": 617,
+            "displacement": 6.2,
+            "zero_to_hundred": 4.0,
+            "top_speed": 290,
+            "fuel_consumption": 13.0
+          },
+          "price_range": "70-100万元"
+        }
+      ]
+    }
+  ]
+}

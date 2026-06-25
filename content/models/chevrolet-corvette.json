@@ -1,0 +1,41 @@
+{
+  "id": "chevrolet-corvette",
+  "brand_id": "chevrolet",
+  "name_cn": "雪佛兰科尔维特",
+  "name_en": "Chevrolet Corvette",
+  "intro": "雪佛兰科尔维特是美国最具代表性的超级跑车，自1953年问世以来历经八代进化，C8首次采用中置发动机布局，以超跑性能和相对亲民的价格闻名。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "corvette-c8",
+      "name": "C8",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "corvette-stingray",
+          "name": "Stingray",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "6.2L V8自然吸气",
+          "transmission": "8DCT",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4630,
+            "width": 1935,
+            "height": 1235,
+            "wheelbase": 2723,
+            "weight": 1530,
+            "power": 495,
+            "torque": 630,
+            "displacement": 6.2,
+            "zero_to_hundred": 3.0,
+            "top_speed": 312,
+            "fuel_consumption": 12.5
+          },
+          "price_range": "120-180万元"
+        }
+      ]
+    }
+  ]
+}

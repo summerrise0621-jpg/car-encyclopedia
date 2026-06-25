@@ -1,0 +1,41 @@
+{
+  "id": "chery-arrizo8",
+  "brand_id": "chery",
+  "name_cn": "奇瑞艾瑞泽8",
+  "name_en": "Chery Arrizo 8",
+  "intro": "奇瑞艾瑞泽8是品牌旗舰轿车，以越级的尺寸、丰富的智能配置和出色的性价比为卖点，代表了奇瑞轿车产品的最新设计水平。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "arrizo8-i",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "arrizo8-16t",
+          "name": "1.6T",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "1.6T 涡轮增压四缸",
+          "transmission": "7DCT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4780,
+            "width": 1843,
+            "height": 1469,
+            "wheelbase": 2790,
+            "weight": 1420,
+            "power": 197,
+            "torque": 290,
+            "displacement": 1.6,
+            "zero_to_hundred": 7.9,
+            "top_speed": 210,
+            "fuel_consumption": 6.5
+          },
+          "price_range": "10.89-13.89万元"
+        }
+      ]
+    }
+  ]
+}

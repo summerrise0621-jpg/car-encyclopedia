@@ -1,0 +1,41 @@
+{
+  "id": "peugeot-3008",
+  "brand_id": "peugeot",
+  "name_cn": "标致3008",
+  "name_en": "Peugeot 3008",
+  "intro": "标致3008是品牌旗下的紧凑型SUV，以时尚的法式设计、创新的i-Cockpit座舱和出色的驾驶体验著称，是欧洲最畅销的SUV车型之一。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "3008-3",
+      "name": "第三代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "3008-gt",
+          "name": "3008 GT",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "phev",
+          "engine": "1.6L 涡轮增压四缸+电动机",
+          "transmission": "8速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4542,
+            "width": 1895,
+            "height": 1642,
+            "wheelbase": 2739,
+            "weight": 1780,
+            "power": 225,
+            "torque": 360,
+            "displacement": 1.6,
+            "zero_to_hundred": 7.5,
+            "top_speed": 230,
+            "fuel_consumption": 1.5
+          },
+          "price_range": "20.97-27.97万元"
+        }
+      ]
+    }
+  ]
+}

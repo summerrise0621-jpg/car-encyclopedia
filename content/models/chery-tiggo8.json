@@ -1,0 +1,41 @@
+{
+  "id": "chery-tiggo8",
+  "brand_id": "chery",
+  "name_cn": "奇瑞瑞虎8",
+  "name_en": "Chery Tiggo 8",
+  "intro": "奇瑞瑞虎8是品牌旗下中型SUV，以高性价比、七座布局和丰富的配置著称，是中国家庭SUV市场的热门选择。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "tiggo8-pro",
+      "name": "瑞虎8 Pro",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "tiggo8-pro-16t",
+          "name": "1.6T",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "1.6T 涡轮增压四缸",
+          "transmission": "7DCT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4722,
+            "width": 1860,
+            "height": 1745,
+            "wheelbase": 2710,
+            "weight": 1560,
+            "power": 197,
+            "torque": 290,
+            "displacement": 1.6,
+            "zero_to_hundred": 8.5,
+            "top_speed": 200,
+            "fuel_consumption": 7.0
+          },
+          "price_range": "11.99-15.29万元"
+        }
+      ]
+    }
+  ]
+}
