@@ -1,0 +1,19 @@
+{
+  "id": "hyundai",
+  "name_cn": "现代",
+  "name_en": "Hyundai",
+  "country": "韩国",
+  "region": "korea",
+  "founded_year": 1967,
+  "logo": "/logos/hyundai.svg",
+  "intro": "现代汽车公司是韩国最大的汽车制造商，也是全球第三大汽车集团（现代起亚集团）。现代以其高性价比、创新设计和可靠性闻名，近年来在电动车领域也取得了显著进展。",
+  "history": [
+    { "year": 1967, "event": "现代汽车公司在首尔成立" },
+    { "year": 1991, "event": "开发出首款自主发动机Alpha" },
+    { "year": 2004, "event": "推出途胜（Tucson）紧凑型SUV" },
+    { "year": 2020, "event": "推出IONIQ品牌，专注电动化" },
+    { "year": 2022, "event": "IONIQ 5获得多个国际大奖" }
+  ],
+  "official_site": "https://www.hyundai.com",
+  "sources": ["Wikipedia", "Hyundai官方网站"]
+}

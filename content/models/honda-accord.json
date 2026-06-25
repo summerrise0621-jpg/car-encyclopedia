@@ -1,0 +1,42 @@
+{
+  "id": "honda-accord",
+  "brand_id": "honda",
+  "name_cn": "雅阁",
+  "name_en": "Honda Accord",
+  "intro": "本田雅阁是本田品牌的中型轿车，自1976年诞生以来一直是中型轿车市场的标杆车型。雅阁以出色的驾驶质感、宽敞的空间和可靠的品质著称。新一代雅阁提供燃油和插电混动版本。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "accord-11g",
+      "name": "第十一代",
+      "year_start": 2023,
+      "platform": "Honda Architecture",
+      "variants": [
+        {
+          "id": "accord-260turbo",
+          "name": "260TURBO",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "1.5T涡轮增压四缸",
+          "transmission": "CVT无级变速",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4980,
+            "width": 1862,
+            "height": 1449,
+            "wheelbase": 2830,
+            "weight": 1520,
+            "power": 192,
+            "torque": 260,
+            "displacement": 1498,
+            "zero_to_hundred": 8.8,
+            "top_speed": 200,
+            "fuel_consumption": 6.6
+          },
+          "price_range": "17.98-25.98万元"
+        }
+      ]
+    }
+  ]
+}

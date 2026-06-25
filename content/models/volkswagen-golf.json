@@ -1,0 +1,42 @@
+{
+  "id": "volkswagen-golf",
+  "brand_id": "volkswagen",
+  "name_cn": "高尔夫",
+  "name_en": "Volkswagen Golf",
+  "intro": "大众高尔夫是全球最经典的紧凑型掀背车，自1974年诞生以来已历经八代。高尔夫以出色的驾驶品质和实用性著称，是紧凑型车的标杆。GTI和R版本更是性能钢炮的代表。",
+  "category": "hatchback",
+  "generations": [
+    {
+      "id": "mk8",
+      "name": "第八代",
+      "year_start": 2020,
+      "platform": "MQB Evo",
+      "variants": [
+        {
+          "id": "golf-280tsi",
+          "name": "280TSI DSG",
+          "year": 2023,
+          "body_type": "掀背车",
+          "powertrain": "petrol",
+          "engine": "1.4T涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4296,
+            "width": 1788,
+            "height": 1471,
+            "wheelbase": 2636,
+            "weight": 1350,
+            "power": 150,
+            "torque": 250,
+            "displacement": 1395,
+            "zero_to_hundred": 8.5,
+            "top_speed": 210,
+            "fuel_consumption": 5.8
+          },
+          "price_range": "12.98-16.58万元"
+        }
+      ]
+    }
+  ]
+}

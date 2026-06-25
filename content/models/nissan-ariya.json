@@ -1,0 +1,39 @@
+{
+  "id": "nissan-ariya",
+  "brand_id": "nissan",
+  "name_cn": "艾睿雅",
+  "name_en": "Nissan Ariya",
+  "intro": "日产艾睿雅是日产品牌的纯电动紧凑型SUV，基于CMF-EV纯电平台打造。Ariya以优雅的外观设计和先进的ProPILOT自动驾驶辅助系统著称，是日产电动化战略的重要车型。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "ariya-first",
+      "name": "第一代",
+      "year_start": 2022,
+      "platform": "CMF-EV",
+      "variants": [
+        {
+          "id": "ariya-awd",
+          "name": "四驱长续航版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4603,
+            "width": 1900,
+            "height": 1658,
+            "wheelbase": 2775,
+            "weight": 2150,
+            "power": 290,
+            "torque": 600,
+            "zero_to_hundred": 5.1,
+            "top_speed": 200
+          },
+          "price_range": "28.48-34.28万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "byd-han",
+  "brand_id": "byd",
+  "name_cn": "汉",
+  "name_en": "BYD Han",
+  "intro": "比亚迪汉是比亚迪品牌的旗舰轿车，提供DM-i插电混动和EV纯电两种动力版本。汉以中国传统文化元素的设计、刀片电池技术和出色的性能著称，是国产豪华轿车的标杆。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "han-first",
+      "name": "第一代改款",
+      "year_start": 2022,
+      "platform": "e平台3.0",
+      "variants": [
+        {
+          "id": "han-ev",
+          "name": "EV 610km版",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4995,
+            "width": 1910,
+            "height": 1495,
+            "wheelbase": 2920,
+            "weight": 2020,
+            "power": 180,
+            "torque": 350,
+            "zero_to_hundred": 7.9,
+            "top_speed": 185
+          },
+          "price_range": "20.98-32.98万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tesla-models",
+  "brand_id": "tesla",
+  "name_cn": "Model S",
+  "name_en": "Tesla Model S",
+  "intro": "特斯拉Model S是特斯拉品牌的旗舰纯电动轿车，以极致的性能和超长续航著称。Plaid版本0-100km/h加速仅需2.1秒，是世界上加速最快的量产轿车之一。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "models-refresh",
+      "name": "改款 (Plaid)",
+      "year_start": 2021,
+      "platform": "Tesla Platform",
+      "variants": [
+        {
+          "id": "models-plaid",
+          "name": "Plaid版",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4970,
+            "width": 1964,
+            "height": 1445,
+            "wheelbase": 2960,
+            "weight": 2162,
+            "power": 750,
+            "torque": 1420,
+            "zero_to_hundred": 2.1,
+            "top_speed": 322
+          },
+          "price_range": "78.99-100.99万元"
+        }
+      ]
+    }
+  ]
+}

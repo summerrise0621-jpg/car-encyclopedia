@@ -1,0 +1,42 @@
+{
+  "id": "byd-song",
+  "brand_id": "byd",
+  "name_cn": "宋",
+  "name_en": "BYD Song",
+  "intro": "比亚迪宋是比亚迪品牌的紧凑型SUV，提供DM-i插电混动和EV纯电版本。宋以超高的性价比、出色的燃油经济性和丰富的配置著称，是中国SUV市场的销量冠军。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "song-plus-dmi",
+      "name": "宋PLUS DM-i",
+      "year_start": 2021,
+      "platform": "DM-i超级混动",
+      "variants": [
+        {
+          "id": "song-plus-dmi-110",
+          "name": "DM-i 110km旗舰PLUS",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "phev",
+          "engine": "1.5L自然吸气四缸+电机",
+          "transmission": "E-CVT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4785,
+            "width": 1890,
+            "height": 1660,
+            "wheelbase": 2765,
+            "weight": 1780,
+            "power": 173,
+            "torque": 316,
+            "displacement": 1498,
+            "zero_to_hundred": 7.9,
+            "top_speed": 170,
+            "fuel_consumption": 0.9
+          },
+          "price_range": "15.48-18.98万元"
+        }
+      ]
+    }
+  ]
+}

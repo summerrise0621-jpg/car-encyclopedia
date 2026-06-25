@@ -1,0 +1,42 @@
+{
+  "id": "hyundai-tucson",
+  "brand_id": "hyundai",
+  "name_cn": "途胜L",
+  "name_en": "Hyundai Tucson",
+  "intro": "现代途胜L是现代品牌的紧凑型SUV，以大胆前卫的设计语言著称。新一代途胜L采用参数化宝石设计，外观极具辨识度。提供燃油和混动两种动力选择。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "tucson-nx4",
+      "name": "第四代 (NX4)",
+      "year_start": 2021,
+      "platform": "N3",
+      "variants": [
+        {
+          "id": "tucson-15t",
+          "name": "1.5T 两驱旗舰版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "1.5T涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4670,
+            "width": 1865,
+            "height": 1690,
+            "wheelbase": 2755,
+            "weight": 1500,
+            "power": 200,
+            "torque": 253,
+            "displacement": 1497,
+            "zero_to_hundred": 8.8,
+            "top_speed": 195,
+            "fuel_consumption": 6.7
+          },
+          "price_range": "16.18-22.58万元"
+        }
+      ]
+    }
+  ]
+}

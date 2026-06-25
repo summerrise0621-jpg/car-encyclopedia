@@ -1,0 +1,39 @@
+{
+  "id": "tesla-model3",
+  "brand_id": "tesla",
+  "name_cn": "Model 3",
+  "name_en": "Tesla Model 3",
+  "intro": "特斯拉Model 3是特斯拉品牌的入门级纯电动轿车，也是全球最畅销的电动车之一。Model 3以极简的内饰设计、强大的自动驾驶能力和出色的续航表现著称。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "model3-highland",
+      "name": "焕新版 (Highland)",
+      "year_start": 2024,
+      "platform": "Tesla Platform",
+      "variants": [
+        {
+          "id": "model3-longrange",
+          "name": "长续航全轮驱动版",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4720,
+            "width": 1849,
+            "height": 1442,
+            "wheelbase": 2875,
+            "weight": 1823,
+            "power": 331,
+            "torque": 559,
+            "zero_to_hundred": 4.4,
+            "top_speed": 200
+          },
+          "price_range": "24.59-33.59万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "nissan",
+  "name_cn": "日产",
+  "name_en": "Nissan",
+  "country": "日本",
+  "region": "japan",
+  "founded_year": 1933,
+  "logo": "/images/brands/nissan.png",
+  "intro": "日产汽车是日本三大汽车制造商之一，以技术创新和性价比著称。日产是全球最早量产纯电动车的企业之一，聆风（Leaf）是全球最畅销的电动车。日产与雷诺组成联盟，是全球最大的汽车集团之一。",
+  "history": [
+    {"year": 1933, "event": "日产汽车公司成立"},
+    {"year": 1969, "event": "推出GT-R跑车，奠定性能车地位"},
+    {"year": 1999, "event": "与雷诺结成联盟"},
+    {"year": 2010, "event": "推出聆风纯电动车"},
+    {"year": 2016, "event": "推出ProPILOT自动驾驶辅助技术"},
+    {"year": 2022, "event": "Ariya纯电SUV上市"}
+  ],
+  "official_site": "https://www.nissan.com"
+}

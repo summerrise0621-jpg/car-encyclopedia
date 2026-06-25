@@ -1,0 +1,39 @@
+{
+  "id": "xpeng-p7",
+  "brand_id": "xpeng",
+  "name_cn": "P7",
+  "name_en": "Xpeng P7",
+  "intro": "小鹏P7是小鹏品牌的智能电动轿跑，以流畅的溜背造型和先进的智能化体验著称。P7是国内最早实现高速NGP导航辅助驾驶的车型之一，智能驾驶能力位居行业前列。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "p7-first",
+      "name": "第一代",
+      "year_start": 2020,
+      "platform": "SEPA平台",
+      "variants": [
+        {
+          "id": "p7-670e",
+          "name": "670E+",
+          "year": 2023,
+          "body_type": "四门轿跑",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4880,
+            "width": 1896,
+            "height": 1450,
+            "wheelbase": 2998,
+            "weight": 1920,
+            "power": 203,
+            "torque": 440,
+            "zero_to_hundred": 6.7,
+            "top_speed": 170
+          },
+          "price_range": "20.99-27.49万元"
+        }
+      ]
+    }
+  ]
+}

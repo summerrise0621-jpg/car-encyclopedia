@@ -1,0 +1,19 @@
+{
+  "id": "nio",
+  "name_cn": "蔚来",
+  "name_en": "NIO",
+  "country": "中国",
+  "region": "china",
+  "founded_year": 2014,
+  "logo": "/images/brands/nio.png",
+  "intro": "蔚来是中国高端智能电动汽车品牌，以用户社区和创新服务著称。蔚来首创换电模式，拥有全球最大的换电站网络。NIO House和NIO App构建了独特的用户生态。蔚来在Formula E电动方程式赛事中多次夺冠。",
+  "history": [
+    {"year": 2014, "event": "蔚来汽车成立"},
+    {"year": 2016, "event": "EP9电动超跑刷新纽北最快电动车圈速"},
+    {"year": 2018, "event": "ES8上市，开始量产交付"},
+    {"year": 2020, "event": "推出BaaS电池租用服务"},
+    {"year": 2022, "event": "ET5/ET7轿车上市"},
+    {"year": 2023, "event": "推出第三代换电站"}
+  ],
+  "official_site": "https://www.nio.com"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hyundai-ioniq5",
+  "brand_id": "hyundai",
+  "name_cn": "IONIQ 5",
+  "name_en": "Hyundai IONIQ 5",
+  "intro": "现代IONIQ 5是现代品牌的纯电动紧凑型SUV，基于E-GMP纯电平台打造。IONIQ 5以复古未来主义的设计、800V超快充技术和宽敞的车内空间著称，是现代电动化战略的代表作。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "ioniq5-first",
+      "name": "第一代",
+      "year_start": 2021,
+      "platform": "E-GMP",
+      "variants": [
+        {
+          "id": "ioniq5-longrange",
+          "name": "长续航四驱版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4635,
+            "width": 1890,
+            "height": 1605,
+            "wheelbase": 3000,
+            "weight": 2100,
+            "power": 239,
+            "torque": 605,
+            "zero_to_hundred": 5.1,
+            "top_speed": 185
+          },
+          "price_range": "26.98-33.98万元"
+        }
+      ]
+    }
+  ]
+}

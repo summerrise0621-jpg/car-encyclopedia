@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+build/
+
+# Misc
+.DS_Store
+*.pem
+.env*.local
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Vercel
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Large media files (don't commit to git)
+*.mp4
+*.mov
+*.avi
+*.wmv
+public/images/originals/
+public/images/large/
+
+# Keep thumbnails and small images
+!public/images/thumbnails/
+!public/images/brands/

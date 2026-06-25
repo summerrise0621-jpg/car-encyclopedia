@@ -1,0 +1,42 @@
+{
+  "id": "ford-explorer",
+  "brand_id": "ford",
+  "name_cn": "探险者",
+  "name_en": "Ford Explorer",
+  "intro": "福特探险者是福特品牌的中大型SUV，以美式硬朗风格和强大的动力著称。探险者采用纵置后驱平台，提供出色的驾驶质感和越野能力。国产版搭载2.3T EcoBoost发动机。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "explorer-u625",
+      "name": "第六代 (国产版)",
+      "year_start": 2020,
+      "platform": "CD6",
+      "variants": [
+        {
+          "id": "explorer-23t",
+          "name": "EcoBoost 285 四驱版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "2.3T涡轮增压四缸",
+          "transmission": "10速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5075,
+            "width": 2004,
+            "height": 1778,
+            "wheelbase": 3025,
+            "weight": 2050,
+            "power": 276,
+            "torque": 425,
+            "displacement": 2261,
+            "zero_to_hundred": 7.6,
+            "top_speed": 220,
+            "fuel_consumption": 9.0
+          },
+          "price_range": "30.98-39.98万元"
+        }
+      ]
+    }
+  ]
+}

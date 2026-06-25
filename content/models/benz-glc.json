@@ -1,0 +1,42 @@
+{
+  "id": "benz-glc",
+  "brand_id": "benz",
+  "name_cn": "奔驰GLC",
+  "name_en": "Mercedes-Benz GLC",
+  "intro": "奔驰GLC是梅赛德斯-奔驰的中型豪华SUV，是品牌最畅销的SUV车型。GLC以优雅的设计、豪华的内饰和出色的行驶品质著称，新款提供7座版本选择。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "x254",
+      "name": "第二代 (X254)",
+      "year_start": 2023,
+      "platform": "MRA2",
+      "variants": [
+        {
+          "id": "glc260l",
+          "name": "GLC 260 L 4MATIC",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸+48V轻混",
+          "transmission": "9速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4826,
+            "width": 1890,
+            "height": 1714,
+            "wheelbase": 2888,
+            "weight": 1875,
+            "power": 204,
+            "torque": 320,
+            "displacement": 1999,
+            "zero_to_hundred": 8.2,
+            "top_speed": 220,
+            "fuel_consumption": 7.6
+          },
+          "price_range": "42.72-53.13万元"
+        }
+      ]
+    }
+  ]
+}

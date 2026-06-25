@@ -1,0 +1,39 @@
+{
+  "id": "byd-seal",
+  "brand_id": "byd",
+  "name_cn": "海豹",
+  "name_en": "BYD Seal",
+  "intro": "比亚迪海豹是比亚迪品牌的纯电动中型轿车，基于e平台3.0打造。海豹以运动化的外观设计、CTB电池车身一体化技术和出色的操控性能著称，是比亚迪最具运动气质的车型。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "seal-first",
+      "name": "第一代",
+      "year_start": 2022,
+      "platform": "e平台3.0",
+      "variants": [
+        {
+          "id": "seal-awd",
+          "name": "四驱性能版",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4800,
+            "width": 1875,
+            "height": 1460,
+            "wheelbase": 2920,
+            "weight": 2150,
+            "power": 390,
+            "torque": 670,
+            "zero_to_hundred": 3.8,
+            "top_speed": 180
+          },
+          "price_range": "17.98-24.98万元"
+        }
+      ]
+    }
+  ]
+}

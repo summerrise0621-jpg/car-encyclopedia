@@ -1,0 +1,42 @@
+{
+  "id": "mazda-mazda3",
+  "brand_id": "mazda",
+  "name_cn": "马自达3 昂克赛拉",
+  "name_en": "Mazda3",
+  "intro": "马自达3是马自达品牌的紧凑型轿车，以「魂动」设计语言和出色的驾驶乐趣著称。搭载创驰蓝天发动机，动力响应灵敏，是同级别中驾驶感受最好的车型之一。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "mazda3-bp",
+      "name": "第四代 (BP)",
+      "year_start": 2019,
+      "platform": "Skyactiv-Vehicle Architecture",
+      "variants": [
+        {
+          "id": "mazda3-20l",
+          "name": "2.0L 自动质雅版",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0L自然吸气四缸",
+          "transmission": "6速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4662,
+            "width": 1797,
+            "height": 1445,
+            "wheelbase": 2726,
+            "weight": 1370,
+            "power": 158,
+            "torque": 202,
+            "displacement": 1998,
+            "zero_to_hundred": 9.5,
+            "top_speed": 203,
+            "fuel_consumption": 5.8
+          },
+          "price_range": "11.59-18.99万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "byd",
+  "name_cn": "比亚迪",
+  "name_en": "BYD",
+  "country": "中国",
+  "region": "china",
+  "founded_year": 1995,
+  "logo": "/logos/byd.svg",
+  "intro": "比亚迪股份有限公司是中国最大的新能源汽车制造商，也是全球领先的电池和电动汽车制造商。比亚迪以其刀片电池技术和垂直整合能力闻名，在全球新能源汽车市场占据重要地位。",
+  "history": [
+    { "year": 1995, "event": "比亚迪公司在深圳成立，最初生产电池" },
+    { "year": 2003, "event": "收购秦川汽车，进入汽车行业" },
+    { "year": 2008, "event": "推出F3DM，全球首款量产插电混动车" },
+    { "year": 2020, "event": "发布刀片电池技术" },
+    { "year": 2022, "event": "停产纯燃油车，全面转向新能源" },
+    { "year": 2023, "event": "年销量突破300万辆，成为全球新能源销冠" }
+  ],
+  "official_site": "https://www.byd.com",
+  "sources": ["Wikipedia", "BYD官方网站"]
+}

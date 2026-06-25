@@ -1,0 +1,42 @@
+{
+  "id": "geely-xingyue-l",
+  "brand_id": "geely",
+  "name_cn": "星越L",
+  "name_en": "Geely Xingyue L",
+  "intro": "吉利星越L是吉利品牌的中型SUV，基于CMA超级母体架构打造。星越L以越级的空间、豪华的内饰和沃尔沃技术加持的动力系统著称，是吉利品牌的旗舰SUV。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "xingyue-l-first",
+      "name": "第一代",
+      "year_start": 2021,
+      "platform": "CMA",
+      "variants": [
+        {
+          "id": "xingyue-l-20td",
+          "name": "2.0TD自动四驱旗舰型",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4770,
+            "width": 1895,
+            "height": 1689,
+            "wheelbase": 2842,
+            "weight": 1720,
+            "power": 238,
+            "torque": 350,
+            "displacement": 1998,
+            "zero_to_hundred": 7.7,
+            "top_speed": 215,
+            "fuel_consumption": 7.8
+          },
+          "price_range": "13.72-18.52万元"
+        }
+      ]
+    }
+  ]
+}

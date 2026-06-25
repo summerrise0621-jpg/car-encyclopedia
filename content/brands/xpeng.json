@@ -1,0 +1,19 @@
+{
+  "id": "xpeng",
+  "name_cn": "小鹏",
+  "name_en": "Xpeng",
+  "country": "中国",
+  "region": "china",
+  "founded_year": 2014,
+  "logo": "/images/brands/xpeng.png",
+  "intro": "小鹏汽车是中国领先的智能电动汽车制造商，以自动驾驶技术和智能化体验著称。小鹏是国内最早实现城市NGP导航辅助驾驶落地的品牌之一。XNGP系统在全国多个城市开放，智能驾驶能力位居行业前列。",
+  "history": [
+    {"year": 2014, "event": "小鹏汽车成立"},
+    {"year": 2018, "event": "G3紧凑型SUV上市"},
+    {"year": 2020, "event": "P7智能轿跑上市，引发市场关注"},
+    {"year": 2022, "event": "G9旗舰SUV上市，搭载XNGP"},
+    {"year": 2023, "event": "X9 MPV上市，G6轿跑SUV上市"},
+    {"year": 2024, "event": "MONA系列发布，覆盖更广泛市场"}
+  ],
+  "official_site": "https://www.xiaopeng.com"
+}

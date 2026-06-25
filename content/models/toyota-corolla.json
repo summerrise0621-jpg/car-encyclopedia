@@ -1,0 +1,42 @@
+{
+  "id": "toyota-corolla",
+  "brand_id": "toyota",
+  "name_cn": "卡罗拉",
+  "name_en": "Toyota Corolla",
+  "intro": "丰田卡罗拉是全球累计销量最高的轿车，自1966年诞生以来累计销售超过5000万辆。卡罗拉以可靠性、燃油经济性和低维护成本著称，是家用轿车的典范。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "corolla-e210",
+      "name": "第十二代 (E210)",
+      "year_start": 2019,
+      "platform": "TNGA-C",
+      "variants": [
+        {
+          "id": "corolla-15l",
+          "name": "1.5L CVT",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "1.5L自然吸气三缸",
+          "transmission": "CVT无级变速",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4635,
+            "width": 1780,
+            "height": 1435,
+            "wheelbase": 2700,
+            "weight": 1340,
+            "power": 121,
+            "torque": 148,
+            "displacement": 1490,
+            "zero_to_hundred": 11.0,
+            "top_speed": 180,
+            "fuel_consumption": 5.6
+          },
+          "price_range": "10.98-15.98万元"
+        }
+      ]
+    }
+  ]
+}

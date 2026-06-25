@@ -1,0 +1,42 @@
+{
+  "id": "toyota-camry",
+  "brand_id": "toyota",
+  "name_cn": "凯美瑞",
+  "name_en": "Toyota Camry",
+  "intro": "丰田凯美瑞是全球最畅销的中型轿车之一，以可靠性、舒适性和燃油经济性著称。新一代凯美瑞采用TNGA架构，操控性能大幅提升，提供燃油和混动两种动力选择。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "camry-xv80",
+      "name": "第九代 (XV80)",
+      "year_start": 2024,
+      "platform": "TNGA-K",
+      "variants": [
+        {
+          "id": "camry-25hev",
+          "name": "2.5HEV",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "hybrid",
+          "engine": "2.5L自然吸气四缸+电机",
+          "transmission": "E-CVT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4920,
+            "width": 1840,
+            "height": 1455,
+            "wheelbase": 2825,
+            "weight": 1620,
+            "power": 225,
+            "torque": 221,
+            "displacement": 2487,
+            "zero_to_hundred": 7.5,
+            "top_speed": 180,
+            "fuel_consumption": 4.3
+          },
+          "price_range": "17.18-25.98万元"
+        }
+      ]
+    }
+  ]
+}

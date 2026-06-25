@@ -1,0 +1,39 @@
+{
+  "id": "nio-es6",
+  "brand_id": "nio",
+  "name_cn": "ES6",
+  "name_en": "NIO ES6",
+  "intro": "蔚来ES6是蔚来的中型智能电动SUV，以换电服务和用户社区著称。ES6采用全铝车身和双电机四驱系统，提供出色的驾驶性能。支持蔚来换电站3分钟换电，补能体验领先行业。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "es6-second",
+      "name": "第二代",
+      "year_start": 2023,
+      "platform": "NT2.0",
+      "variants": [
+        {
+          "id": "es6-75kwh",
+          "name": "75kWh标准续航版",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4854,
+            "width": 1995,
+            "height": 1703,
+            "wheelbase": 2915,
+            "weight": 2310,
+            "power": 360,
+            "torque": 700,
+            "zero_to_hundred": 4.5,
+            "top_speed": 200
+          },
+          "price_range": "33.80-39.60万元"
+        }
+      ]
+    }
+  ]
+}

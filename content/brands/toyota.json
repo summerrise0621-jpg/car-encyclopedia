@@ -1,0 +1,20 @@
+{
+  "id": "toyota",
+  "name_cn": "丰田",
+  "name_en": "Toyota",
+  "country": "日本",
+  "region": "japan",
+  "founded_year": 1937,
+  "logo": "/logos/toyota.svg",
+  "intro": "丰田汽车公司是日本最大的汽车制造商，也是全球最大的汽车制造商之一。以可靠性、耐用性和燃油经济性著称，丰田的精益生产方式（TPS）对全球制造业产生了深远影响。",
+  "history": [
+    { "year": 1937, "event": "丰田汽车工业株式会社成立" },
+    { "year": 1957, "event": "皇冠（Crown）首次出口到美国" },
+    { "year": 1966, "event": "推出花冠（Corolla），成为全球最畅销车型" },
+    { "year": 1989, "event": "创立豪华品牌雷克萨斯（Lexus）" },
+    { "year": 1997, "event": "推出普锐斯（Prius），开创混合动力时代" },
+    { "year": 2022, "event": "发布bZ4X纯电SUV" }
+  ],
+  "official_site": "https://www.toyota.com",
+  "sources": ["Wikipedia", "Toyota官方网站"]
+}

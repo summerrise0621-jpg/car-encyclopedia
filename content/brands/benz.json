@@ -1,0 +1,20 @@
+{
+  "id": "benz",
+  "name_cn": "奔驰",
+  "name_en": "Mercedes-Benz",
+  "country": "德国",
+  "region": "europe",
+  "founded_year": 1926,
+  "logo": "/logos/benz.svg",
+  "intro": "梅赛德斯-奔驰是德国戴姆勒公司旗下的豪华汽车品牌，被公认为世界上最成功的豪华汽车品牌之一。奔驰以其卓越的品质、舒适性和安全性闻名，是汽车工业的先驱。",
+  "history": [
+    { "year": 1886, "event": "卡尔·本茨发明了第一辆汽油驱动的汽车" },
+    { "year": 1926, "event": "戴姆勒-奔驰公司成立" },
+    { "year": 1951, "event": "推出300 SL鸥翼门跑车" },
+    { "year": 1972, "event": "推出S级（W116），确立豪华轿车标杆" },
+    { "year": 1997, "event": "推出M级SUV" },
+    { "year": 2019, "event": "推出EQC纯电SUV，开启电动化战略" }
+  ],
+  "official_site": "https://www.mercedes-benz.com",
+  "sources": ["Wikipedia", "Mercedes-Benz官方网站"]
+}

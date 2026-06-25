@@ -1,0 +1,39 @@
+{
+  "id": "xpeng-g6",
+  "brand_id": "xpeng",
+  "name_cn": "G6",
+  "name_en": "Xpeng G6",
+  "intro": "小鹏G6是小鹏品牌的智能电动轿跑SUV，基于SEPA2.0扶摇架构打造。G6搭载800V SiC高压平台和3C电芯，充电10分钟续航300km。标配XNGP智能辅助驾驶，性价比突出。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "g6-first",
+      "name": "第一代",
+      "year_start": 2023,
+      "platform": "SEPA2.0",
+      "variants": [
+        {
+          "id": "g6-580max",
+          "name": "580 Max",
+          "year": 2024,
+          "body_type": "轿跑SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4753,
+            "width": 1920,
+            "height": 1650,
+            "wheelbase": 2890,
+            "weight": 2010,
+            "power": 190,
+            "torque": 440,
+            "zero_to_hundred": 6.7,
+            "top_speed": 200
+          },
+          "price_range": "20.99-27.69万元"
+        }
+      ]
+    }
+  ]
+}

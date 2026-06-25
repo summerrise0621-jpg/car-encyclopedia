@@ -1,0 +1,19 @@
+{
+  "id": "bmw",
+  "name_cn": "宝马",
+  "name_en": "BMW",
+  "country": "德国",
+  "region": "europe",
+  "founded_year": 1916,
+  "logo": "/images/brands/bmw.png",
+  "intro": "宝马（Bayerische Motoren Werke AG）是德国豪华汽车制造商，总部位于慕尼黑。以生产高性能豪华轿车和SUV闻名，品牌口号「终极驾驶机器」深入人心。宝马集团旗下还拥有MINI和劳斯莱斯品牌。",
+  "history": [
+    {"year": 1916, "event": "宝马公司成立于慕尼黑，最初生产航空发动机"},
+    {"year": 1928, "event": "开始生产汽车，推出第一款轿车Dixi"},
+    {"year": 1972, "event": "推出第一代5系轿车"},
+    {"year": 1975, "event": "推出第一代3系轿车，成为品牌核心车型"},
+    {"year": 1999, "event": "推出X5，正式进军SUV市场"},
+    {"year": 2013, "event": "推出i3和i8，开启电动化转型"}
+  ],
+  "official_site": "https://www.bmw.com"
+}

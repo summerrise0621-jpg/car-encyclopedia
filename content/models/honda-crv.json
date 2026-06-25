@@ -1,0 +1,42 @@
+{
+  "id": "honda-crv",
+  "brand_id": "honda",
+  "name_cn": "CR-V",
+  "name_en": "Honda CR-V",
+  "intro": "本田CR-V是本田品牌的紧凑型SUV，是全球最受欢迎的SUV之一。CR-V以宽敞的内部空间、出色的燃油经济性和可靠的品质著称。新一代CR-V提供燃油和混动版本。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "crv-rs",
+      "name": "第六代 (RS)",
+      "year_start": 2023,
+      "platform": "Honda Architecture",
+      "variants": [
+        {
+          "id": "crv-240turbo",
+          "name": "240TURBO",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "1.5T涡轮增压四缸",
+          "transmission": "CVT无级变速",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4703,
+            "width": 1866,
+            "height": 1680,
+            "wheelbase": 2701,
+            "weight": 1555,
+            "power": 193,
+            "torque": 243,
+            "displacement": 1498,
+            "zero_to_hundred": 9.3,
+            "top_speed": 190,
+            "fuel_consumption": 6.7
+          },
+          "price_range": "18.59-24.99万元"
+        }
+      ]
+    }
+  ]
+}

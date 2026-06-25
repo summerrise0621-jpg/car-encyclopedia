@@ -1,0 +1,42 @@
+{
+  "id": "mazda-cx5",
+  "brand_id": "mazda",
+  "name_cn": "CX-5",
+  "name_en": "Mazda CX-5",
+  "intro": "马自达CX-5是马自达品牌的紧凑型SUV，以出色的操控性和「魂动」设计著称。CX-5在同级别SUV中驾驶感受最为运动，同时保持了良好的实用性和燃油经济性。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "cx5-ke",
+      "name": "第二代 (KF)",
+      "year_start": 2017,
+      "platform": "Skyactiv-Vehicle Architecture",
+      "variants": [
+        {
+          "id": "cx5-25l",
+          "name": "2.5L 自动四驱旗舰版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "2.5L自然吸气四缸",
+          "transmission": "6速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4575,
+            "width": 1842,
+            "height": 1685,
+            "wheelbase": 2700,
+            "weight": 1560,
+            "power": 196,
+            "torque": 252,
+            "displacement": 2488,
+            "zero_to_hundred": 8.7,
+            "top_speed": 195,
+            "fuel_consumption": 7.3
+          },
+          "price_range": "17.58-23.68万元"
+        }
+      ]
+    }
+  ]
+}

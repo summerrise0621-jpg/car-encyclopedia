@@ -1,0 +1,21 @@
+{
+  "id": "tesla",
+  "name_cn": "特斯拉",
+  "name_en": "Tesla",
+  "country": "美国",
+  "region": "usa",
+  "founded_year": 2003,
+  "logo": "/logos/tesla.svg",
+  "intro": "特斯拉公司是美国一家电动汽车及能源公司，由马丁·艾伯哈德和马克·塔彭宁于2003年创立。特斯拉以其革命性的电动汽车技术和自动驾驶系统闻名，推动了全球汽车产业向电动化转型。",
+  "history": [
+    { "year": 2003, "event": "特斯拉在加利福尼亚州成立" },
+    { "year": 2008, "event": "推出第一款电动车Roadster" },
+    { "year": 2012, "event": "推出Model S豪华电动轿车" },
+    { "year": 2015, "event": "推出Model X电动SUV" },
+    { "year": 2017, "event": "推出Model 3平价电动车" },
+    { "year": 2019, "event": "推出Model Y紧凑型SUV" },
+    { "year": 2023, "event": "Cybertruck开始交付" }
+  ],
+  "official_site": "https://www.tesla.com",
+  "sources": ["Wikipedia", "Tesla官方网站"]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "nio-et7",
+  "brand_id": "nio",
+  "name_cn": "ET7",
+  "name_en": "NIO ET7",
+  "intro": "蔚来ET7是蔚来的旗舰纯电动轿车，以豪华配置和先进的自动驾驶技术著称。ET7搭载150kWh固态电池可选，续航超过1000km。NAD自动驾驶系统配备33个感知硬件，能力领先行业。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "et7-first",
+      "name": "第一代",
+      "year_start": 2022,
+      "platform": "NT2.0",
+      "variants": [
+        {
+          "id": "et7-100kwh",
+          "name": "100kWh首发版",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5101,
+            "width": 1987,
+            "height": 1509,
+            "wheelbase": 3060,
+            "weight": 2379,
+            "power": 480,
+            "torque": 850,
+            "zero_to_hundred": 3.8,
+            "top_speed": 200
+          },
+          "price_range": "42.80-53.60万元"
+        }
+      ]
+    }
+  ]
+}

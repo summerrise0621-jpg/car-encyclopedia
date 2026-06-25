@@ -1,0 +1,42 @@
+{
+  "id": "ford-mustang",
+  "brand_id": "ford",
+  "name_cn": "野马",
+  "name_en": "Ford Mustang",
+  "intro": "福特野马是美国肌肉车的代表，自1964年问世以来一直是美国汽车文化的象征。新一代Mustang搭载5.0L V8发动机，提供纯粹的美式驾驶体验。Mach-E电动版则代表了品牌的电动化方向。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "mustang-s650",
+      "name": "第七代 (S650)",
+      "year_start": 2024,
+      "platform": "S650",
+      "variants": [
+        {
+          "id": "mustang-gt",
+          "name": "Mustang GT",
+          "year": 2024,
+          "body_type": "双门轿跑",
+          "powertrain": "petrol",
+          "engine": "5.0L V8自然吸气",
+          "transmission": "10速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4811,
+            "width": 1916,
+            "height": 1389,
+            "wheelbase": 2720,
+            "weight": 1700,
+            "power": 488,
+            "torque": 567,
+            "displacement": 5038,
+            "zero_to_hundred": 4.3,
+            "top_speed": 250,
+            "fuel_consumption": 12.2
+          },
+          "price_range": "36.98-40.18万元"
+        }
+      ]
+    }
+  ]
+}

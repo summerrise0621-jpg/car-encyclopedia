@@ -1,0 +1,66 @@
+{
+  "id": "bmw-3-series",
+  "brand_id": "bmw",
+  "name_cn": "宝马3系",
+  "name_en": "BMW 3 Series",
+  "intro": "宝马3系是宝马品牌最经典的车型系列，自1975年诞生以来一直是运动型豪华轿车的标杆。3系以出色的操控性能和驾驶乐趣著称，是全球最畅销的豪华轿车之一。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "g20",
+      "name": "第七代 (G20/G28)",
+      "year_start": 2019,
+      "platform": "CLAR",
+      "variants": [
+        {
+          "id": "325li",
+          "name": "325Li",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4828,
+            "width": 1827,
+            "height": 1463,
+            "wheelbase": 2961,
+            "weight": 1610,
+            "power": 184,
+            "torque": 300,
+            "displacement": 1998,
+            "zero_to_hundred": 7.3,
+            "top_speed": 235,
+            "fuel_consumption": 6.2
+          },
+          "price_range": "29.99-36.39万元"
+        },
+        {
+          "id": "330li",
+          "name": "330Li",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸高功率",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4828,
+            "width": 1827,
+            "height": 1463,
+            "wheelbase": 2961,
+            "weight": 1640,
+            "power": 245,
+            "torque": 400,
+            "displacement": 1998,
+            "zero_to_hundred": 5.9,
+            "top_speed": 250,
+            "fuel_consumption": 6.9
+          },
+          "price_range": "36.39-39.99万元"
+        }
+      ]
+    }
+  ]
+}

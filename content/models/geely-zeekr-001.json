@@ -1,0 +1,39 @@
+{
+  "id": "geely-zeekr-001",
+  "brand_id": "geely",
+  "name_cn": "极氪001",
+  "name_en": "Zeekr 001",
+  "intro": "极氪001是极氪品牌的旗舰纯电猎装轿跑，基于SEA浩瀚架构打造。001以猎装车的独特造型、出色的驾驶性能和800V超快充技术著称，是国产纯电性能车的标杆。",
+  "category": "hatchback",
+  "generations": [
+    {
+      "id": "zeekr001-first",
+      "name": "第一代改款",
+      "year_start": 2024,
+      "platform": "SEA浩瀚架构",
+      "variants": [
+        {
+          "id": "zeekr001-you",
+          "name": "YOU版 四驱",
+          "year": 2024,
+          "body_type": "猎装轿跑",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4970,
+            "width": 1999,
+            "height": 1560,
+            "wheelbase": 3005,
+            "weight": 2350,
+            "power": 400,
+            "torque": 768,
+            "zero_to_hundred": 3.3,
+            "top_speed": 250
+          },
+          "price_range": "26.90-32.90万元"
+        }
+      ]
+    }
+  ]
+}

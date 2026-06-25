@@ -1,0 +1,42 @@
+{
+  "id": "bmw-x3",
+  "brand_id": "bmw",
+  "name_cn": "宝马X3",
+  "name_en": "BMW X3",
+  "intro": "宝马X3是宝马品牌的中型豪华SUV，以出色的驾驶操控和实用性著称。X3是宝马SUV家族的核心车型，兼顾城市驾驶和轻度越野需求。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "g45",
+      "name": "第四代 (G45)",
+      "year_start": 2025,
+      "platform": "CLAR",
+      "variants": [
+        {
+          "id": "x3-xdrive30",
+          "name": "X3 xDrive30L",
+          "year": 2025,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4755,
+            "width": 1920,
+            "height": 1660,
+            "wheelbase": 2865,
+            "weight": 1820,
+            "power": 190,
+            "torque": 400,
+            "displacement": 1998,
+            "zero_to_hundred": 6.6,
+            "top_speed": 230,
+            "fuel_consumption": 7.5
+          },
+          "price_range": "39.28-47.98万元"
+        }
+      ]
+    }
+  ]
+}

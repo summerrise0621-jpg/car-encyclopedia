@@ -1,0 +1,19 @@
+{
+  "id": "ford",
+  "name_cn": "福特",
+  "name_en": "Ford",
+  "country": "美国",
+  "region": "usa",
+  "founded_year": 1903,
+  "logo": "/images/brands/ford.png",
+  "intro": "福特汽车是美国历史最悠久的汽车制造商之一，由亨利·福特创立。福特发明了流水线生产方式，使汽车走入普通家庭。F系列皮卡连续数十年蝉联美国最畅销车型。福特野马是美国肌肉车的代表。",
+  "history": [
+    {"year": 1903, "event": "福特汽车公司成立"},
+    {"year": 1908, "event": "推出Model T，开启汽车大众化时代"},
+    {"year": 1913, "event": "引入流水线生产方式"},
+    {"year": 1964, "event": "推出野马（Mustang），开创Pony Car时代"},
+    {"year": 1966, "event": "GT40在勒芒24小时耐力赛击败法拉利"},
+    {"year": 2021, "event": "Mustang Mach-E纯电SUV上市"}
+  ],
+  "official_site": "https://www.ford.com"
+}

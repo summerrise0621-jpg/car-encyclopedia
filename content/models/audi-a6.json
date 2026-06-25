@@ -1,0 +1,42 @@
+{
+  "id": "audi-a6",
+  "brand_id": "audi",
+  "name_cn": "奥迪A6L",
+  "name_en": "Audi A6L",
+  "intro": "奥迪A6L是奥迪品牌的中大型豪华轿车，长期作为中国公务用车的代表。A6L以沉稳大气的设计、先进的科技配置和出色的行驶品质著称，是行政级轿车市场的常青树。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "a6l-c8",
+      "name": "第五代 (C8) 改款",
+      "year_start": 2022,
+      "platform": "MLB Evo",
+      "variants": [
+        {
+          "id": "a6l-45tfsi",
+          "name": "A6L 45 TFSI quattro",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5050,
+            "width": 1886,
+            "height": 1475,
+            "wheelbase": 3024,
+            "weight": 1850,
+            "power": 245,
+            "torque": 370,
+            "displacement": 1984,
+            "zero_to_hundred": 6.7,
+            "top_speed": 250,
+            "fuel_consumption": 7.3
+          },
+          "price_range": "42.79-65.68万元"
+        }
+      ]
+    }
+  ]
+}

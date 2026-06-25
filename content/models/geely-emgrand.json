@@ -1,0 +1,42 @@
+{
+  "id": "geely-emgrand",
+  "brand_id": "geely",
+  "name_cn": "帝豪",
+  "name_en": "Geely Emgrand",
+  "intro": "吉利帝豪是吉利品牌的入门级紧凑型轿车，以高性价比和时尚设计著称。帝豪是吉利销量最高的轿车系列，累计销量超过300万辆，是中国自主品牌轿车的代表作。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "emgrand-fourth",
+      "name": "第四代",
+      "year_start": 2021,
+      "platform": "BMA",
+      "variants": [
+        {
+          "id": "emgrand-15l",
+          "name": "1.5L CVT旗舰型",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "1.5L自然吸气四缸",
+          "transmission": "CVT无级变速",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4638,
+            "width": 1820,
+            "height": 1460,
+            "wheelbase": 2650,
+            "weight": 1260,
+            "power": 114,
+            "torque": 147,
+            "displacement": 1498,
+            "zero_to_hundred": 12.5,
+            "top_speed": 175,
+            "fuel_consumption": 5.8
+          },
+          "price_range": "6.98-9.88万元"
+        }
+      ]
+    }
+  ]
+}

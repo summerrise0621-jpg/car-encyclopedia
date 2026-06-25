@@ -1,0 +1,39 @@
+{
+  "id": "tesla-modely",
+  "brand_id": "tesla",
+  "name_cn": "Model Y",
+  "name_en": "Tesla Model Y",
+  "intro": "特斯拉Model Y是特斯拉品牌的纯电动中型SUV，基于Model 3平台打造。Model Y以出色的空间利用率、强劲的性能和先进的自动驾驶能力著称，是全球销量最高的电动车之一。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "modely-juniper",
+      "name": "焕新版 (Juniper)",
+      "year_start": 2025,
+      "platform": "Tesla Platform",
+      "variants": [
+        {
+          "id": "modely-longrange",
+          "name": "长续航全轮驱动版",
+          "year": 2025,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4797,
+            "width": 1920,
+            "height": 1624,
+            "wheelbase": 2890,
+            "weight": 1992,
+            "power": 331,
+            "torque": 559,
+            "zero_to_hundred": 4.8,
+            "top_speed": 217
+          },
+          "price_range": "26.35-36.39万元"
+        }
+      ]
+    }
+  ]
+}

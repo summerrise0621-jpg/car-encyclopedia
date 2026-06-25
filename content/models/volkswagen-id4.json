@@ -1,0 +1,39 @@
+{
+  "id": "volkswagen-id4",
+  "brand_id": "volkswagen",
+  "name_cn": "ID.4",
+  "name_en": "Volkswagen ID.4",
+  "intro": "大众ID.4是大众品牌基于MEB纯电平台打造的紧凑型SUV。ID.4是大众电动化战略的核心车型，以扎实的底盘调校和可靠的三电系统著称。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "id4-first",
+      "name": "第一代",
+      "year_start": 2021,
+      "platform": "MEB",
+      "variants": [
+        {
+          "id": "id4-pro",
+          "name": "ID.4 Pro",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4612,
+            "width": 1852,
+            "height": 1640,
+            "wheelbase": 2765,
+            "weight": 2120,
+            "power": 150,
+            "torque": 310,
+            "zero_to_hundred": 8.5,
+            "top_speed": 160
+          },
+          "price_range": "19.59-29.39万元"
+        }
+      ]
+    }
+  ]
+}

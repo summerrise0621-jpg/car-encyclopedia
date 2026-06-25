@@ -1,0 +1,42 @@
+{
+  "id": "volkswagen-passat",
+  "brand_id": "volkswagen",
+  "name_cn": "帕萨特",
+  "name_en": "Volkswagen Passat",
+  "intro": "大众帕萨特是大众品牌的中型轿车，在中国市场拥有极高的知名度。帕萨特以稳重大气的设计和可靠的品质著称，是商务用车的经典选择。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "passat-pro",
+      "name": "帕萨特Pro",
+      "year_start": 2024,
+      "platform": "MQB Evo",
+      "variants": [
+        {
+          "id": "passat-380tsi",
+          "name": "380TSI",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 5006,
+            "width": 1850,
+            "height": 1489,
+            "wheelbase": 2871,
+            "weight": 1580,
+            "power": 220,
+            "torque": 350,
+            "displacement": 1984,
+            "zero_to_hundred": 7.4,
+            "top_speed": 240,
+            "fuel_consumption": 6.7
+          },
+          "price_range": "18.19-25.29万元"
+        }
+      ]
+    }
+  ]
+}

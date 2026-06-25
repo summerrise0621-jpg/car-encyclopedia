@@ -1,0 +1,42 @@
+{
+  "id": "bmw-5-series",
+  "brand_id": "bmw",
+  "name_cn": "宝马5系",
+  "name_en": "BMW 5 Series",
+  "intro": "宝马5系是宝马品牌的中大型豪华轿车，定位介于3系和7系之间。5系兼顾运动性和舒适性，是商务精英的首选座驾。新一代5系提供燃油和纯电两种动力选择。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "g60",
+      "name": "第八代 (G60/G68)",
+      "year_start": 2024,
+      "platform": "CLAR",
+      "variants": [
+        {
+          "id": "530li",
+          "name": "530Li",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5175,
+            "width": 1900,
+            "height": 1520,
+            "wheelbase": 3105,
+            "weight": 1780,
+            "power": 190,
+            "torque": 400,
+            "displacement": 1998,
+            "zero_to_hundred": 6.5,
+            "top_speed": 250,
+            "fuel_consumption": 7.0
+          },
+          "price_range": "43.99-52.59万元"
+        }
+      ]
+    }
+  ]
+}

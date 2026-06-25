@@ -1,0 +1,42 @@
+{
+  "id": "audi-q5",
+  "brand_id": "audi",
+  "name_cn": "奥迪Q5L",
+  "name_en": "Audi Q5L",
+  "intro": "奥迪Q5L是奥迪品牌的中型豪华SUV，提供加长版轴距。Q5L以Quattro四驱系统和精致内饰著称，兼顾城市驾驶和长途旅行需求。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "q5l-fy",
+      "name": "第二代改款",
+      "year_start": 2021,
+      "platform": "MLB Evo",
+      "variants": [
+        {
+          "id": "q5l-40tfsi",
+          "name": "Q5L 40 TFSI quattro",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4770,
+            "width": 1893,
+            "height": 1667,
+            "wheelbase": 2908,
+            "weight": 1870,
+            "power": 150,
+            "torque": 320,
+            "displacement": 1984,
+            "zero_to_hundred": 8.4,
+            "top_speed": 210,
+            "fuel_consumption": 7.3
+          },
+          "price_range": "39.68-48.70万元"
+        }
+      ]
+    }
+  ]
+}

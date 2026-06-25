@@ -1,0 +1,39 @@
+{
+  "id": "nio-et5",
+  "brand_id": "nio",
+  "name_cn": "ET5",
+  "name_en": "NIO ET5",
+  "intro": "蔚来ET5是蔚来的中型智能电动轿车，定位介于ET7和ET7之间。ET5以时尚的设计、丰富的智能化配置和换电服务著称。提供75kWh和100kWh两种电池包选择。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "et5-first",
+      "name": "第一代",
+      "year_start": 2022,
+      "platform": "NT2.0",
+      "variants": [
+        {
+          "id": "et5-75kwh",
+          "name": "75kWh标准续航版",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4790,
+            "width": 1960,
+            "height": 1499,
+            "wheelbase": 2888,
+            "weight": 2160,
+            "power": 360,
+            "torque": 700,
+            "zero_to_hundred": 4.0,
+            "top_speed": 200
+          },
+          "price_range": "29.80-35.60万元"
+        }
+      ]
+    }
+  ]
+}

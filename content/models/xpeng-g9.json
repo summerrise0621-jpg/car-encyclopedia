@@ -1,0 +1,39 @@
+{
+  "id": "xpeng-g9",
+  "brand_id": "xpeng",
+  "name_cn": "G9",
+  "name_en": "Xpeng G9",
+  "intro": "小鹏G9是小鹏品牌的旗舰中大型智能电动SUV。G9是国内首款搭载800V高压SiC平台的量产车，充电5分钟续航200km。XNGP城市导航辅助驾驶能力领先行业。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "g9-first",
+      "name": "第一代改款",
+      "year_start": 2022,
+      "platform": "SEPA2.0",
+      "variants": [
+        {
+          "id": "g9-702max",
+          "name": "702 Max",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4891,
+            "width": 1937,
+            "height": 1670,
+            "wheelbase": 2998,
+            "weight": 2145,
+            "power": 230,
+            "torque": 430,
+            "zero_to_hundred": 6.4,
+            "top_speed": 200
+          },
+          "price_range": "26.39-35.99万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "nissan-gtr",
+  "brand_id": "nissan",
+  "name_cn": "GT-R",
+  "name_en": "Nissan GT-R",
+  "intro": "日产GT-R是日产品牌的旗舰超级跑车，以「战神」之名享誉全球。GT-R搭载VR38DETT双涡轮增压V6发动机和ATTESA E-TS四驱系统，性能可比肩欧洲超跑，价格却相对亲民。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "gtr-r35",
+      "name": "R35",
+      "year_start": 2007,
+      "variants": [
+        {
+          "id": "gtr-nismo",
+          "name": "GT-R NISMO",
+          "year": 2024,
+          "body_type": "双门轿跑",
+          "powertrain": "petrol",
+          "engine": "3.8L V6双涡轮增压",
+          "transmission": "6速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4710,
+            "width": 1895,
+            "height": 1370,
+            "wheelbase": 2780,
+            "weight": 1740,
+            "power": 600,
+            "torque": 652,
+            "displacement": 3799,
+            "zero_to_hundred": 2.5,
+            "top_speed": 315
+          },
+          "price_range": "168-235万元"
+        }
+      ]
+    }
+  ]
+}

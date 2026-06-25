@@ -1,50 +1,74 @@
 # 🚗 汽车百科 (Car Encyclopedia)
 
-汽车知识、品牌历史、技术资料的开放百科全书。
+一个可持续扩展的汽车百科站点，包含品牌历史、车型参数、媒体资源和智能搜索。
 
-## 📁 目录结构
+## 项目结构
 
 ```
-├── brands/      # 品牌介绍（奔驰、宝马、丰田等）
-├── tech/        # 汽车技术（发动机、变速箱、新能源等）
-├── history/     # 汽车发展历史
-├── guides/      # 购车指南、养车知识
-└── README.md
+car-encyclopedia/
+├── apps/
+│   └── web/              # Next.js 前端应用
+├── content/
+│   ├── brands/           # 品牌数据 (JSON)
+│   ├── models/           # 车系/车型数据 (JSON)
+│   └── media/            # 媒体资源元数据
+├── public/
+│   └── images/           # 图片资源
+├── scripts/
+│   ├── import/           # 数据导入脚本
+│   └── validate/         # 数据校验脚本
+└── docs/
+    ├── data-schema.md    # 数据模型文档
+    └── roadmap.md        # 项目路线图
 ```
 
-## 🏷️ 内容分类
+## 技术栈
 
-### 品牌 (brands/)
-- 德系：奔驰、宝马、奥迪、大众
-- 日系：丰田、本田、日产、马自达
-- 美系：福特、特斯拉、通用
-- 国产：比亚迪、吉利、蔚来、小鹏
+- **前端**: Next.js + TypeScript + Tailwind CSS
+- **内容**: JSON 结构化数据
+- **搜索**: FlexSearch (客户端静态搜索)
+- **部署**: Vercel / Cloudflare Pages
 
-### 技术 (tech/)
-- 发动机技术（涡轮增压、自然吸气、混动）
-- 变速箱（AT、CVT、DCT、手动）
-- 新能源（纯电动、插电混动、氢燃料）
-- 智能驾驶（L1-L5 自动驾驶分级）
+## 快速开始
 
-### 历史 (history/)
-- 汽车诞生与发展
-- 各品牌创立故事
-- 经典车型回顾
+```bash
+# 安装依赖
+cd apps/web && npm install
 
-### 指南 (guides/)
-- 新车选购建议
-- 二手车评估
-- 日常保养知识
-- 保险与年检
+# 启动开发服务器
+npm run dev
 
-## 🤝 如何贡献
+# 校验数据
+python scripts/validate/validate-data.py
 
-1. Fork 本仓库
-2. 创建分支 (`git checkout -b feature/新内容`)
-3. 提交更改 (`git commit -m '添加xxx内容'`)
-4. 推送分支 (`git push origin feature/新内容`)
-5. 创建 Pull Request
+# 构建
+npm run build
+```
 
-## 📄 许可证
+## 数据层级
 
-本项目采用 [MIT License](LICENSE) 开源。
+```
+Brand (品牌) → Series (车系) → Generation (代际) → Variant (车型配置)
+```
+
+示例:
+```
+BMW → 3 Series → G20 → 330i / M340i / 330e
+```
+
+## 内容来源
+
+- 维基百科 (CC BY-SA)
+- 品牌官方网站
+- 汽车之家、懂车帝等公开数据
+
+## 路线图
+
+- **V1**: 品牌页、车型页、基础搜索、响应式布局
+- **V2**: 车型对比、筛选器、图库优化
+- **V3**: 内容管理后台、批量导入
+- **V4**: 用户收藏、评分、国际化
+
+## 许可证
+
+[MIT License](LICENSE)

@@ -1,0 +1,66 @@
+{
+  "id": "benz-c-class",
+  "brand_id": "benz",
+  "name_cn": "奔驰C级",
+  "name_en": "Mercedes-Benz C-Class",
+  "intro": "奔驰C级是梅赛德斯-奔驰的中型豪华轿车，是品牌销量最高的车型之一。新一代C级采用与S级相似的设计语言，被誉为「小S级」，内饰豪华感和科技配置领先同级。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "w206",
+      "name": "第五代 (W206)",
+      "year_start": 2021,
+      "platform": "MRA2",
+      "variants": [
+        {
+          "id": "c200l",
+          "name": "C 200 L",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "1.5T涡轮增压四缸+48V轻混",
+          "transmission": "9速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4882,
+            "width": 1820,
+            "height": 1461,
+            "wheelbase": 2954,
+            "weight": 1625,
+            "power": 170,
+            "torque": 250,
+            "displacement": 1496,
+            "zero_to_hundred": 8.1,
+            "top_speed": 230,
+            "fuel_consumption": 6.35
+          },
+          "price_range": "32.52-40.81万元"
+        },
+        {
+          "id": "c260l",
+          "name": "C 260 L",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "1.5T涡轮增压四缸+48V轻混",
+          "transmission": "9速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4882,
+            "width": 1820,
+            "height": 1461,
+            "wheelbase": 2954,
+            "weight": 1650,
+            "power": 204,
+            "torque": 300,
+            "displacement": 1496,
+            "zero_to_hundred": 7.1,
+            "top_speed": 240,
+            "fuel_consumption": 6.45
+          },
+          "price_range": "35.37-43.62万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "benz-e-class",
+  "brand_id": "benz",
+  "name_cn": "奔驰E级",
+  "name_en": "Mercedes-Benz E-Class",
+  "intro": "奔驰E级是梅赛德斯-奔驰的中大型豪华轿车，是品牌商务轿车的中流砥柱。E级以豪华舒适和先进科技著称，是行政级轿车市场的标杆车型。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "w214",
+      "name": "第六代 (W214)",
+      "year_start": 2024,
+      "platform": "MRA2",
+      "variants": [
+        {
+          "id": "e260l",
+          "name": "E 260 L",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "engine": "2.0T涡轮增压四缸+48V轻混",
+          "transmission": "9速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5092,
+            "width": 1880,
+            "height": 1493,
+            "wheelbase": 3094,
+            "weight": 1780,
+            "power": 204,
+            "torque": 320,
+            "displacement": 1999,
+            "zero_to_hundred": 7.3,
+            "top_speed": 240,
+            "fuel_consumption": 7.1
+          },
+          "price_range": "44.72-53.88万元"
+        }
+      ]
+    }
+  ]
+}

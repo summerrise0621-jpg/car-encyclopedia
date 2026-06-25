@@ -1,0 +1,19 @@
+{
+  "id": "geely",
+  "name_cn": "吉利",
+  "name_en": "Geely",
+  "country": "中国",
+  "region": "china",
+  "founded_year": 1986,
+  "logo": "/images/brands/geely.png",
+  "intro": "吉利汽车是中国领先的民营汽车制造商，2010年收购沃尔沃汽车成为中国车企海外收购的标杆案例。吉利集团旗下拥有吉利、领克、极氪等多个品牌，覆盖从经济型到豪华型的全市场区间。",
+  "history": [
+    {"year": 1986, "event": "吉利集团成立"},
+    {"year": 1998, "event": "推出第一款轿车豪情"},
+    {"year": 2010, "event": "收购沃尔沃汽车100%股权"},
+    {"year": 2016, "event": "推出领克品牌"},
+    {"year": 2021, "event": "极氪品牌成立"},
+    {"year": 2023, "event": "银河系列新能源车型上市"}
+  ],
+  "official_site": "https://www.geely.com"
+}
