@@ -45,21 +45,23 @@ export default function SeriesCard({ series, brandName }: SeriesCardProps) {
     <Link href={`/series/${series.id}`}>
       <div className="group bg-white dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 overflow-hidden hover:shadow-lg hover:border-blue-300 dark:hover:border-blue-700 transition-all duration-200 cursor-pointer">
         {/* Image */}
-        <div className="relative h-40 bg-gray-100 dark:bg-gray-700 overflow-hidden">
+        <div className="relative h-40 bg-gradient-to-br from-gray-200 to-gray-300 dark:from-gray-700 dark:to-gray-800 overflow-hidden">
           <img
             src={series.image || `/series/${series.id}.jpg`}
             alt={series.name_cn}
             className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
             onError={(e) => {
               const target = e.target as HTMLImageElement;
-              // 尝试 SVG 备用
-              if (target.src.endsWith('.jpg')) {
-                target.src = `/series/${series.id}.svg`;
-              } else {
-                target.src = `data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250"><rect fill="%23f3f4f6" width="400" height="250"/><text x="200" y="125" text-anchor="middle" font-size="48">🚗</text></svg>`;
-              }
+              target.style.display = 'none';
             }}
           />
+          {/* Fallback placeholder - shows when image fails */}
+          <div className="absolute inset-0 flex items-center justify-center bg-gradient-to-br from-gray-100 to-gray-200 dark:from-gray-700 dark:to-gray-800 -z-10">
+            <div className="text-center">
+              <span className="text-4xl">🚗</span>
+              <p className="text-xs text-gray-400 dark:text-gray-500 mt-1">暂无图片</p>
+            </div>
+          </div>
           {/* Category badge overlay */}
           <div className="absolute top-2 left-2">
             <span className="text-xs px-2 py-1 bg-black/60 text-white rounded-md backdrop-blur-sm">

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllBrands, getBrand, getSeriesByBrand } from '@/lib/data';
 import SeriesCard from '@/components/SeriesCard';
+import BrandLogo from '@/components/BrandLogo';
 import Timeline from '@/components/Timeline';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
@@ -54,9 +55,14 @@ export default async function BrandPage({
             </nav>
 
             <div className="flex flex-col sm:flex-row items-center gap-6">
-              {/* Logo placeholder */}
-              <div className="w-24 h-24 bg-white/10 rounded-2xl flex items-center justify-center text-5xl backdrop-blur-sm">
-                {brand.name_cn.charAt(0)}
+              {/* Logo */}
+              <div className="w-24 h-24 bg-white/10 rounded-2xl flex items-center justify-center backdrop-blur-sm overflow-hidden">
+                <BrandLogo
+                  src={brand.logo || `/logos/${brand.id}.svg`}
+                  alt={brand.name_cn}
+                  fallbackChar={brand.name_cn.charAt(0)}
+                  className="w-20 h-20 text-5xl"
+                />
               </div>
 
               <div className="text-center sm:text-left">

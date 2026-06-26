@@ -25,18 +25,18 @@ export default function BrandCard({ brand }: BrandCardProps) {
         } p-6 hover:shadow-lg hover:scale-[1.02] transition-all duration-200 cursor-pointer`}
       >
         {/* Logo */}
-        <div className="w-16 h-16 mx-auto mb-4">
+        <div className="w-16 h-16 mx-auto mb-4 bg-gray-50 dark:bg-gray-700 rounded-full flex items-center justify-center overflow-hidden">
           <img
             src={brand.logo || `/logos/${brand.id}.svg`}
             alt={brand.name_cn}
-            className="w-full h-full object-contain"
+            className="w-14 h-14 object-contain"
             onError={(e) => {
-              // Fallback to first character if image fails
               const target = e.target as HTMLImageElement;
               target.style.display = 'none';
               const parent = target.parentElement;
               if (parent) {
-                parent.innerHTML = `<div class="w-16 h-16 bg-gray-100 dark:bg-gray-700 rounded-full flex items-center justify-center text-3xl">${brand.name_cn.charAt(0)}</div>`;
+                parent.classList.add('bg-gradient-to-br', 'from-blue-500', 'to-indigo-600');
+                parent.innerHTML = `<span class="text-2xl font-bold text-white">${brand.name_cn.charAt(0)}</span>`;
               }
             }}
           />

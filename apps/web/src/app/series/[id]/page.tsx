@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getAllSeries, getSeries, getBrand } from '@/lib/data';
 import SpecsTable from '@/components/SpecsTable';
+import SeriesLogo from '@/components/SeriesLogo';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
@@ -90,9 +91,11 @@ export default async function SeriesPage({
             </nav>
 
             <div className="flex flex-col sm:flex-row items-start gap-6">
-              <div className="w-20 h-20 bg-white/10 rounded-xl flex items-center justify-center text-4xl backdrop-blur-sm shrink-0">
-                {series.name_cn.charAt(0)}
-              </div>
+              <SeriesLogo
+                src={series.image || `/series/${series.id}.jpg`}
+                alt={series.name_cn}
+                fallbackChar={series.name_cn.charAt(0)}
+              />
 
               <div>
                 <h1 className="text-3xl font-bold">
