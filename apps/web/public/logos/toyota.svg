@@ -1,17 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#EB0A1E;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#EB0A1E;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  <circle cx="50" cy="50" r="48" fill="url(#bg)" stroke="white" stroke-width="2"/>
-  <text x="50" y="50" text-anchor="middle" dominant-baseline="central" 
-        font-family="Arial, sans-serif" font-weight="bold" font-size="36" fill="white">
-    丰
-  </text>
-  <text x="50" y="75" text-anchor="middle" 
-        font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
-    Toyota
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <ellipse cx="100" cy="90" rx="60" ry="45" fill="none" stroke="#CC0000" stroke-width="6"/>
+  <ellipse cx="100" cy="90" rx="38" ry="28" fill="none" stroke="#CC0000" stroke-width="6"/>
+  <ellipse cx="100" cy="140" rx="25" ry="18" fill="none" stroke="#CC0000" stroke-width="6"/>
 </svg>

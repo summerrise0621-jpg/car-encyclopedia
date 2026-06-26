@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/audi-a4.jpg"
+  "image": "/series/audi-a4.jpg",
+  "gallery": ["/series/audi-a4.jpg", "/series/audi-a4-2.jpg", "/series/audi-a4-3.jpg"],
+  "reviews": [
+    {
+      "title": "Audi A4 Review - Still a Great Executive Sedan?",
+      "url": "https://youtube.com/watch?v=0HIhB5bRBL0",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "奥迪A4L评测 | 行政座驾的标杆之选",
+      "url": "https://youtube.com/watch?v=Q3lEFbSbV5c",
+      "source": "汽车之家",
+      "type": "video"
+    }
+  ]
 }

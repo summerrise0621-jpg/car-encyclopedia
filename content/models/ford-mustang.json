@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/ford-mustang.jpg"
+  "image": "/series/ford-mustang.jpg",
+  "gallery": ["/series/ford-mustang.jpg", "/series/ford-mustang-2.jpg", "/series/ford-mustang-3.jpg"],
+  "reviews": [
+    {
+      "title": "Ford Mustang Dark Horse Review - The Best V8 Muscle Car!",
+      "url": "https://youtube.com/watch?v=KMWqJ6bVvyQ",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "福特Mustang评测 | 美式肌肉车的传承",
+      "url": "https://youtube.com/watch?v=9bGxwV4TpVQ",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

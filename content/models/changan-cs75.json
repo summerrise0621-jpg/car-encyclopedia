@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/changan-cs75.jpg"
+  "image": "/series/changan-cs75.jpg",
+  "gallery": [
+    "/series/changan-cs75.jpg",
+    "/series/changan-cs75-2.jpg",
+    "/series/changan-cs75-3.jpg"
+  ]
 }

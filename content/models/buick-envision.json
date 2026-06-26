@@ -1,1 +1,44 @@
-{"id":"buick-envision","brand_id":"buick","name_cn":"昂科威","name_en":"Envision","intro":"别克昂科威是一款中型SUV，兼顾城市驾驶舒适性与户外通过能力。","category":"suv","generations":[{"id":"envision-gen2","name":"第二代昂科威","year_start":2021,"variants":[{"id":"envision-2023","name":"2023款 昂科威Plus","year":2023,"body_type":"SUV","powertrain":"petrol","transmission":"9速手自一体","drivetrain":"awd","specs":{"length":4845,"width":1884,"height":1727,"wheelbase":2833,"weight":1765,"power":237,"torque":350,"zero_to_hundred":8.4,"top_speed":210},"price_range":"18.99-23.99万元"}]}],"image":"/series/buick-envision.jpg"}
+{
+  "id": "buick-envision",
+  "brand_id": "buick",
+  "name_cn": "昂科威",
+  "name_en": "Envision",
+  "intro": "别克昂科威是一款中型SUV，兼顾城市驾驶舒适性与户外通过能力。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "envision-gen2",
+      "name": "第二代昂科威",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "envision-2023",
+          "name": "2023款 昂科威Plus",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "transmission": "9速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4845,
+            "width": 1884,
+            "height": 1727,
+            "wheelbase": 2833,
+            "weight": 1765,
+            "power": 237,
+            "torque": 350,
+            "zero_to_hundred": 8.4,
+            "top_speed": 210
+          },
+          "price_range": "18.99-23.99万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/buick-envision.jpg",
+  "gallery": [
+    "/series/buick-envision.jpg",
+    "/series/buick-envision-2.jpg",
+    "/series/buick-envision-3.jpg"
+  ]
+}

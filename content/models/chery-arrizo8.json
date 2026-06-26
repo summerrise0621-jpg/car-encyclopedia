@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/chery-arrizo8.jpg"
+  "image": "/series/chery-arrizo8.jpg",
+  "gallery": [
+    "/series/chery-arrizo8.jpg",
+    "/series/chery-arrizo8-2.jpg",
+    "/series/chery-arrizo8-3.jpg"
+  ]
 }

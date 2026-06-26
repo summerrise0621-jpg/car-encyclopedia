@@ -1,0 +1,42 @@
+{
+  "id": "mclaren-p1",
+  "brand_id": "mclaren",
+  "name_cn": "迈凯伦P1",
+  "name_en": "McLaren P1",
+  "intro": "迈凯伦P1是品牌旗舰混动超级跑车，限量375台。搭载3.8L双涡轮V8+电机组合，是三大神车之一。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "p1-1",
+      "name": "P1",
+      "year_start": 2013,
+      "variants": [
+        {
+          "id": "p1-coupe",
+          "name": "P1",
+          "year": 2015,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "3.8L 双涡轮增压V8 + 电机",
+          "transmission": "7速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4588,
+            "width": 2144,
+            "height": 1188,
+            "wheelbase": 2670,
+            "weight": 1490,
+            "power": 916,
+            "torque": 900,
+            "displacement": 3.8,
+            "zero_to_hundred": 2.8,
+            "top_speed": 350,
+            "fuel_consumption": 8.3
+          },
+          "price_range": "1260.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/mclaren-p1.jpg"
+}

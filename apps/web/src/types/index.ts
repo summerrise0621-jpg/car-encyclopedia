@@ -63,6 +63,15 @@ export interface Generation {
   variants: Variant[];
 }
 
+export interface Review {
+  title: string;
+  url: string;
+  source: string;
+  type: 'video' | 'article' | 'test';
+  thumbnail?: string;
+  rating?: number;
+}
+
 export interface Series {
   id: string;
   brand_id: string;
@@ -71,6 +80,8 @@ export interface Series {
   intro: string;
   category: BodyType;
   image?: string;
+  gallery?: string[];
+  reviews?: Review[];
   generations: Generation[];
   media?: Media[];
 }

@@ -1,1 +1,65 @@
-{"id":"bentley-flying-spur","brand_id":"bentley","name_cn":"宾利飞驰","name_en":"Bentley Flying Spur","intro":"宾利飞驰是宾利旗下的超豪华四门轿车，集极致奢华与运动性能于一身，是全球最顶级的豪华轿车之一。","category":"sedan","generations":[{"id":"bentley-flying-spur-gen3","name":"第三代","year_start":2019,"variants":[{"id":"bentley-flying-spur-2024-v8","name":"Flying Spur V8","year":2024,"body_type":"四门轿车","powertrain":"petrol","transmission":"8速双离合变速箱","drivetrain":"awd","specs":{"length":5316,"width":2220,"height":1488,"wheelbase":3194,"weight":2437,"power":550,"torque":770,"zero_to_hundred":4.1,"top_speed":318},"price_range":"280.00-380.00万元"},{"id":"bentley-flying-spur-2024-w12","name":"Flying Spur W12","year":2024,"body_type":"四门轿车","powertrain":"petrol","transmission":"8速双离合变速箱","drivetrain":"awd","specs":{"length":5316,"width":2220,"height":1488,"wheelbase":3194,"weight":2530,"power":635,"torque":900,"zero_to_hundred":3.8,"top_speed":333},"price_range":"350.00-500.00万元"}]}],"image":"/series/bentley-flying-spur.jpg"}
+{
+  "id": "bentley-flying-spur",
+  "brand_id": "bentley",
+  "name_cn": "宾利飞驰",
+  "name_en": "Bentley Flying Spur",
+  "intro": "宾利飞驰是宾利旗下的超豪华四门轿车，集极致奢华与运动性能于一身，是全球最顶级的豪华轿车之一。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "bentley-flying-spur-gen3",
+      "name": "第三代",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "bentley-flying-spur-2024-v8",
+          "name": "Flying Spur V8",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "8速双离合变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5316,
+            "width": 2220,
+            "height": 1488,
+            "wheelbase": 3194,
+            "weight": 2437,
+            "power": 550,
+            "torque": 770,
+            "zero_to_hundred": 4.1,
+            "top_speed": 318
+          },
+          "price_range": "280.00-380.00万元"
+        },
+        {
+          "id": "bentley-flying-spur-2024-w12",
+          "name": "Flying Spur W12",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "8速双离合变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5316,
+            "width": 2220,
+            "height": 1488,
+            "wheelbase": 3194,
+            "weight": 2530,
+            "power": 635,
+            "torque": 900,
+            "zero_to_hundred": 3.8,
+            "top_speed": 333
+          },
+          "price_range": "350.00-500.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/bentley-flying-spur.jpg",
+  "gallery": [
+    "/series/bentley-flying-spur.jpg",
+    "/series/bentley-flying-spur-2.jpg",
+    "/series/bentley-flying-spur-3.jpg"
+  ]
+}

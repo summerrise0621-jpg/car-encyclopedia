@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/bmw-5-series.jpg"
+  "image": "/series/bmw-5-series.jpg",
+  "gallery": ["/series/bmw-5-series.jpg", "/series/bmw-5-series-2.jpg", "/series/bmw-5-series-3.jpg"],
+  "reviews": [
+    {
+      "title": "BMW 5 Series (G60) 2024 Review - A New Era of Luxury!",
+      "url": "https://youtube.com/watch?v=n7H0c_fD9bQ",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "全新宝马5系评测 | 豪华与科技并重",
+      "url": "https://youtube.com/watch?v=96OhGCaBi4g",
+      "source": "汽车之家",
+      "type": "video"
+    }
+  ]
 }

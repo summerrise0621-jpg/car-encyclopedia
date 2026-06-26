@@ -36,5 +36,20 @@
       ]
     }
   ],
-  "image": "/series/nio-et7.jpg"
+  "image": "/series/nio-et7.jpg",
+  "gallery": ["/series/nio-et7.jpg", "/series/nio-et7-2.jpg", "/series/nio-et7-3.jpg"],
+  "reviews": [
+    {
+      "title": "NIO ET7 Review - The Chinese Luxury Electric Sedan!",
+      "url": "https://youtube.com/watch?v=PGMu_Z6IqwQ",
+      "source": "Fully Charged",
+      "type": "video"
+    },
+    {
+      "title": "蔚来ET7深度评测 | 换电时代的豪华座驾",
+      "url": "https://youtube.com/watch?v=GkBX2OH2n9A",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

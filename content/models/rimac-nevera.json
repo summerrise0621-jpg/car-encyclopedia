@@ -1,0 +1,42 @@
+{
+  "id": "rimac-nevera",
+  "brand_id": "rimac",
+  "name_cn": "锐马克Nevera",
+  "name_en": "Rimac Nevera",
+  "intro": "锐马克Nevera是世界最强纯电超级跑车之一，搭载四电机系统，0-100km/h仅需1.97秒，限量150台。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "nevera-1",
+      "name": "Nevera",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "nevera-coupe",
+          "name": "Nevera",
+          "year": 2023,
+          "body_type": "coupe",
+          "powertrain": "electric",
+          "engine": "四电机",
+          "transmission": "单速",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4750,
+            "width": 2100,
+            "height": 1240,
+            "wheelbase": 2750,
+            "weight": 2150,
+            "power": 1914,
+            "torque": 2360,
+            "displacement": 0,
+            "zero_to_hundred": 1.97,
+            "top_speed": 412,
+            "fuel_consumption": 0
+          },
+          "price_range": "2000.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/rimac-nevera.jpg"
+}

@@ -39,5 +39,6 @@
       ]
     }
   ],
-  "image": "/series/honda-crv.jpg"
+  "image": "/series/honda-crv.jpg",
+  "gallery": ["/series/honda-crv.jpg", "/series/honda-crv-2.jpg", "/series/honda-crv-3.jpg"]
 }

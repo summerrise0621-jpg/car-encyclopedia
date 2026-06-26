@@ -1,1 +1,44 @@
-{"id":"buick-gl8","brand_id":"buick","name_cn":"GL8","name_en":"GL8","intro":"别克GL8是中国市场最受欢迎的MPV车型之一，被誉为'陆地公务舱'。","category":"mpv","generations":[{"id":"gl8-es","name":"第四代GL8","year_start":2016,"variants":[{"id":"gl8-2023","name":"2023款 GL8 陆尊","year":2023,"body_type":"MPV","powertrain":"petrol","transmission":"9速手自一体","drivetrain":"fwd","specs":{"length":5238,"width":1878,"height":1776,"wheelbase":3088,"weight":1930,"power":237,"torque":350,"zero_to_hundred":9.1,"top_speed":200},"price_range":"23.29-53.99万元"}]}],"image":"/series/buick-gl8.jpg"}
+{
+  "id": "buick-gl8",
+  "brand_id": "buick",
+  "name_cn": "GL8",
+  "name_en": "GL8",
+  "intro": "别克GL8是中国市场最受欢迎的MPV车型之一，被誉为'陆地公务舱'。",
+  "category": "mpv",
+  "generations": [
+    {
+      "id": "gl8-es",
+      "name": "第四代GL8",
+      "year_start": 2016,
+      "variants": [
+        {
+          "id": "gl8-2023",
+          "name": "2023款 GL8 陆尊",
+          "year": 2023,
+          "body_type": "MPV",
+          "powertrain": "petrol",
+          "transmission": "9速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 5238,
+            "width": 1878,
+            "height": 1776,
+            "wheelbase": 3088,
+            "weight": 1930,
+            "power": 237,
+            "torque": 350,
+            "zero_to_hundred": 9.1,
+            "top_speed": 200
+          },
+          "price_range": "23.29-53.99万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/buick-gl8.jpg",
+  "gallery": [
+    "/series/buick-gl8.jpg",
+    "/series/buick-gl8-2.jpg",
+    "/series/buick-gl8-3.jpg"
+  ]
+}

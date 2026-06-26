@@ -1,17 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#CD9834;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#CD9834;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  <circle cx="50" cy="50" r="48" fill="url(#bg)" stroke="white" stroke-width="2"/>
-  <text x="50" y="50" text-anchor="middle" dominant-baseline="central" 
-        font-family="Arial, sans-serif" font-weight="bold" font-size="36" fill="white">
-    雪
-  </text>
-  <text x="50" y="75" text-anchor="middle" 
-        font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
-    Chevrole
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <path d="M100 45 L150 80 L155 100 L150 120 L100 155 L50 120 L45 100 L50 80 Z" fill="#C9A82C" stroke="#B89520" stroke-width="2"/>
+  <path d="M100 52 L143 83 L147 100 L143 117 L100 148 L57 117 L53 100 L57 83 Z" fill="#E2CC55"/>
 </svg>

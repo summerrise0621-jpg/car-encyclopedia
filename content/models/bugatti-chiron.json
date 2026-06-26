@@ -1,0 +1,47 @@
+{
+  "id": "bugatti-chiron",
+  "brand_id": "bugatti",
+  "name_cn": "布加迪Chiron",
+  "name_en": "Bugatti Chiron",
+  "intro": "布加迪Chiron是品牌旗舰超级跑车，搭载8.0L四涡轮增压W16发动机，是世界上最快的量产车之一。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "chiron-1",
+      "name": "Chiron",
+      "year_start": 2016,
+      "variants": [
+        {
+          "id": "chiron-sport",
+          "name": "Chiron Sport",
+          "year": 2021,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "8.0L 四涡轮增压W16",
+          "transmission": "7速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4544,
+            "width": 2038,
+            "height": 1212,
+            "wheelbase": 2711,
+            "weight": 1978,
+            "power": 1500,
+            "torque": 1600,
+            "displacement": 8.0,
+            "zero_to_hundred": 2.4,
+            "top_speed": 420,
+            "fuel_consumption": 22.5
+          },
+          "price_range": "2600.0-5000.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/bugatti-chiron.jpg",
+  "gallery": [
+    "/series/bugatti-chiron.jpg",
+    "/series/bugatti-chiron-2.jpg",
+    "/series/bugatti-chiron-3.jpg"
+  ]
+}

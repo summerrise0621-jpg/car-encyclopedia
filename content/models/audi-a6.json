@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/audi-a6.jpg"
+  "image": "/series/audi-a6.jpg",
+  "gallery": ["/series/audi-a6.jpg", "/series/audi-a6-2.jpg", "/series/audi-a6-3.jpg"],
+  "reviews": [
+    {
+      "title": "Audi A6 Review - Tech-Focused Luxury Sedan!",
+      "url": "https://youtube.com/watch?v=Vqt7aDNpD1Y",
+      "source": "Doug DeMuro",
+      "type": "video"
+    },
+    {
+      "title": "奥迪A6L深度评测 | 科技豪华新诠释",
+      "url": "https://youtube.com/watch?v=vqFEWfL43Cs",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/chery-tiggo8.jpg"
+  "image": "/series/chery-tiggo8.jpg",
+  "gallery": [
+    "/series/chery-tiggo8.jpg",
+    "/series/chery-tiggo8-2.jpg",
+    "/series/chery-tiggo8-3.jpg"
+  ]
 }

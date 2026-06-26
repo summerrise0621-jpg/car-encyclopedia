@@ -1,0 +1,47 @@
+{
+  "id": "bugatti-divo",
+  "brand_id": "bugatti",
+  "name_cn": "布加迪Divo",
+  "name_en": "Bugatti Divo",
+  "intro": "布加迪Divo是以赛道为核心的限量超跑，基于Chiron平台打造，限量40台，注重弯道性能和下压力。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "divo-1",
+      "name": "Divo",
+      "year_start": 2018,
+      "variants": [
+        {
+          "id": "divo-coupe",
+          "name": "Divo",
+          "year": 2020,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "8.0L 四涡轮增压W16",
+          "transmission": "7速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4639,
+            "width": 2060,
+            "height": 1212,
+            "wheelbase": 2711,
+            "weight": 1960,
+            "power": 1500,
+            "torque": 1600,
+            "displacement": 8.0,
+            "zero_to_hundred": 2.4,
+            "top_speed": 380,
+            "fuel_consumption": 22.5
+          },
+          "price_range": "4500.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/bugatti-divo.jpg",
+  "gallery": [
+    "/series/bugatti-divo.jpg",
+    "/series/bugatti-divo-2.jpg",
+    "/series/bugatti-divo-3.jpg"
+  ]
+}

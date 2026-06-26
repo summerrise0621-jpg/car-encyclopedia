@@ -1,0 +1,47 @@
+{
+  "id": "bugatti-veyron",
+  "brand_id": "bugatti",
+  "name_cn": "布加迪威航",
+  "name_en": "Bugatti Veyron",
+  "intro": "布加迪威航是品牌复兴后的首款超级跑车，搭载8.0L四涡轮增压W16发动机，曾创下世界最快量产车记录。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "veyron-1",
+      "name": "Veyron",
+      "year_start": 2005,
+      "variants": [
+        {
+          "id": "veyron-ss",
+          "name": "Veyron Super Sport",
+          "year": 2010,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "8.0L 四涡轮增压W16",
+          "transmission": "7速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4462,
+            "width": 1998,
+            "height": 1159,
+            "wheelbase": 2710,
+            "weight": 1838,
+            "power": 1200,
+            "torque": 1500,
+            "displacement": 8.0,
+            "zero_to_hundred": 2.5,
+            "top_speed": 431,
+            "fuel_consumption": 23.1
+          },
+          "price_range": "2000.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/bugatti-veyron.jpg",
+  "gallery": [
+    "/series/bugatti-veyron.jpg",
+    "/series/bugatti-veyron-2.jpg",
+    "/series/bugatti-veyron-3.jpg"
+  ]
+}

@@ -38,5 +38,6 @@
       ]
     }
   ],
-  "image": "/series/porsche-cayenne.jpg"
+  "image": "/series/porsche-cayenne.jpg",
+  "gallery": ["/series/porsche-cayenne.jpg", "/series/porsche-cayenne-2.jpg", "/series/porsche-cayenne-3.jpg"]
 }

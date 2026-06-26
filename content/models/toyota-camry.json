@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/toyota-camry.jpg"
+  "image": "/series/toyota-camry.jpg",
+  "gallery": ["/series/toyota-camry.jpg", "/series/toyota-camry-2.jpg", "/series/toyota-camry-3.jpg"],
+  "reviews": [
+    {
+      "title": "Toyota Camry 2024 Review - Still the Best Mid-Size Sedan?",
+      "url": "https://youtube.com/watch?v=_z0d9CBr-0I",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "全新丰田凯美瑞评测 | 家用轿车之王",
+      "url": "https://youtube.com/watch?v=XUWxOFRVqTQ",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

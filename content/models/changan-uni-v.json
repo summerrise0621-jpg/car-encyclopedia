@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/changan-uni-v.jpg"
+  "image": "/series/changan-uni-v.jpg",
+  "gallery": [
+    "/series/changan-uni-v.jpg",
+    "/series/changan-uni-v-2.jpg",
+    "/series/changan-uni-v-3.jpg"
+  ]
 }

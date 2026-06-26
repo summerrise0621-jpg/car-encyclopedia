@@ -5,6 +5,7 @@ import SpecsTable from '@/components/SpecsTable';
 import SeriesLogo from '@/components/SeriesLogo';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import { GallerySection, ReviewsSection } from '@/components/SeriesMedia';
 
 export async function generateStaticParams() {
   const allSeries = getAllSeries();
@@ -221,6 +222,16 @@ export default async function SeriesPage({
               返回首页
             </Link>
           </div>
+
+          {/* 图库 */}
+          {series.gallery && series.gallery.length > 0 && (
+            <GallerySection seriesName={series.name_cn} gallery={series.gallery} />
+          )}
+
+          {/* 评测与视频 */}
+          {series.reviews && series.reviews.length > 0 && (
+            <ReviewsSection reviews={series.reviews} />
+          )}
         </div>
       </main>
 

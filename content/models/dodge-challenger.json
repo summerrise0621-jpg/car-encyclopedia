@@ -1,1 +1,44 @@
-{"id":"dodge-challenger","brand_id":"dodge","name_cn":"挑战者","name_en":"Challenger","intro":"道奇Challenger是一款经典的美式肌肉跑车，与福特野马和雪佛兰科迈罗齐名。","category":"coupe","generations":[{"id":"challenger-la","name":"第三代Challenger","year_start":2008,"variants":[{"id":"challenger-2023","name":"2023款 Challenger R/T","year":2023,"body_type":"跑车","powertrain":"petrol","transmission":"8速手自一体","drivetrain":"rwd","specs":{"length":5022,"width":1923,"height":1450,"wheelbase":2946,"weight":1886,"power":375,"torque":529,"zero_to_hundred":5.1,"top_speed":250},"price_range":"28.00-42.00万元"}]}],"image":"/series/dodge-challenger.jpg"}
+{
+  "id": "dodge-challenger",
+  "brand_id": "dodge",
+  "name_cn": "挑战者",
+  "name_en": "Challenger",
+  "intro": "道奇Challenger是一款经典的美式肌肉跑车，与福特野马和雪佛兰科迈罗齐名。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "challenger-la",
+      "name": "第三代Challenger",
+      "year_start": 2008,
+      "variants": [
+        {
+          "id": "challenger-2023",
+          "name": "2023款 Challenger R/T",
+          "year": 2023,
+          "body_type": "跑车",
+          "powertrain": "petrol",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5022,
+            "width": 1923,
+            "height": 1450,
+            "wheelbase": 2946,
+            "weight": 1886,
+            "power": 375,
+            "torque": 529,
+            "zero_to_hundred": 5.1,
+            "top_speed": 250
+          },
+          "price_range": "28.00-42.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/dodge-challenger.jpg",
+  "gallery": [
+    "/series/dodge-challenger.jpg",
+    "/series/dodge-challenger-2.jpg",
+    "/series/dodge-challenger-3.jpg"
+  ]
+}

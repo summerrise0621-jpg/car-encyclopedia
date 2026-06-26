@@ -1,1 +1,44 @@
-{"id":"dodge-charger","brand_id":"dodge","name_cn":"挑战者","name_en":"Charger","intro":"道奇Charger是一款全尺寸肌肉轿车，是美式高性能轿车的代表。","category":"sedan","generations":[{"id":"charger-ld","name":"第七代Charger","year_start":2011,"variants":[{"id":"charger-2023","name":"2023款 Charger R/T","year":2023,"body_type":"四门轿车","powertrain":"petrol","transmission":"8速手自一体","drivetrain":"rwd","specs":{"length":5101,"width":1905,"height":1483,"wheelbase":3053,"weight":1960,"power":370,"torque":529,"zero_to_hundred":5.2,"top_speed":250},"price_range":"30.00-45.00万元"}]}],"image":"/series/dodge-charger.jpg"}
+{
+  "id": "dodge-charger",
+  "brand_id": "dodge",
+  "name_cn": "挑战者",
+  "name_en": "Charger",
+  "intro": "道奇Charger是一款全尺寸肌肉轿车，是美式高性能轿车的代表。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "charger-ld",
+      "name": "第七代Charger",
+      "year_start": 2011,
+      "variants": [
+        {
+          "id": "charger-2023",
+          "name": "2023款 Charger R/T",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5101,
+            "width": 1905,
+            "height": 1483,
+            "wheelbase": 3053,
+            "weight": 1960,
+            "power": 370,
+            "torque": 529,
+            "zero_to_hundred": 5.2,
+            "top_speed": 250
+          },
+          "price_range": "30.00-45.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/dodge-charger.jpg",
+  "gallery": [
+    "/series/dodge-charger.jpg",
+    "/series/dodge-charger-2.jpg",
+    "/series/dodge-charger-3.jpg"
+  ]
+}

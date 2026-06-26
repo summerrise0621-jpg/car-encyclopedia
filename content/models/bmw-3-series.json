@@ -63,5 +63,20 @@
       ]
     }
   ],
-  "image": "/series/bmw-3-series.jpg"
+  "image": "/series/bmw-3-series.jpg",
+  "gallery": ["/series/bmw-3-series.jpg", "/series/bmw-3-series-2.jpg", "/series/bmw-3-series-3.jpg"],
+  "reviews": [
+    {
+      "title": "BMW 3 Series (G20) Review - Still the Best Sport Sedan?",
+      "url": "https://youtube.com/watch?v=8JRYCUqA5pk",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "全新宝马3系评测 | 运动标杆依然在线",
+      "url": "https://youtube.com/watch?v=hKMv7MuVsWE",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

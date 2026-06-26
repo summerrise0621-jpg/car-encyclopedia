@@ -1,0 +1,42 @@
+{
+  "id": "mclaren-720s",
+  "brand_id": "mclaren",
+  "name_cn": "迈凯伦720S",
+  "name_en": "McLaren 720S",
+  "intro": "迈凯伦720S是品牌Super Series系列的核心车型，搭载4.0L双涡轮V8发动机，以极致轻量化和空气动力学设计著称。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "720s-1",
+      "name": "720S",
+      "year_start": 2017,
+      "variants": [
+        {
+          "id": "720s-coupe",
+          "name": "720S Coupe",
+          "year": 2023,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "4.0L 双涡轮增压V8",
+          "transmission": "7速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4543,
+            "width": 2059,
+            "height": 1196,
+            "wheelbase": 2670,
+            "weight": 1283,
+            "power": 720,
+            "torque": 770,
+            "displacement": 4.0,
+            "zero_to_hundred": 2.9,
+            "top_speed": 341,
+            "fuel_consumption": 12.2
+          },
+          "price_range": "340.0-400.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/mclaren-720s.jpg"
+}

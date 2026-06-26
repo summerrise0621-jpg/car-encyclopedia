@@ -1,0 +1,42 @@
+{
+  "id": "koenigsegg-jesko",
+  "brand_id": "koenigsegg",
+  "name_cn": "柯尼塞格Jesko",
+  "name_en": "Koenigsegg Jesko",
+  "intro": "柯尼塞格Jesko以创始人之子命名，搭载5.0L双涡轮V8发动机，配合9速多离合变速箱，目标极速超480km/h。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "jesko-1",
+      "name": "Jesko",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "jesko-absolut",
+          "name": "Jesko Absolut",
+          "year": 2022,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "5.0L 双涡轮增压V8",
+          "transmission": "9速多离合(LST)",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4610,
+            "width": 2030,
+            "height": 1210,
+            "wheelbase": 2700,
+            "weight": 1320,
+            "power": 1600,
+            "torque": 1500,
+            "displacement": 5.0,
+            "zero_to_hundred": 2.5,
+            "top_speed": 483,
+            "fuel_consumption": 17.5
+          },
+          "price_range": "2800.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/koenigsegg-jesko.jpg"
+}

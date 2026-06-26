@@ -36,5 +36,20 @@
       ]
     }
   ],
-  "image": "/series/xpeng-p7.jpg"
+  "image": "/series/xpeng-p7.jpg",
+  "gallery": ["/series/xpeng-p7.jpg", "/series/xpeng-p7-2.jpg", "/series/xpeng-p7-3.jpg"],
+  "reviews": [
+    {
+      "title": "XPENG P7 Review - China's Smartest Electric Car!",
+      "url": "https://youtube.com/watch?v=PBGe2LZmKbg",
+      "source": "Fully Charged",
+      "type": "video"
+    },
+    {
+      "title": "小鹏P7深度评测 | 智能轿跑新选择",
+      "url": "https://youtube.com/watch?v=8YMqZJXmJc4",
+      "source": "大家车言论",
+      "type": "video"
+    }
+  ]
 }

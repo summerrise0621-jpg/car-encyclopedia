@@ -62,5 +62,6 @@
       ]
     }
   ],
-  "image": "/series/bmw-x5.jpg"
+  "image": "/series/bmw-x5.jpg",
+  "gallery": ["/series/bmw-x5.jpg", "/series/bmw-x5-2.jpg", "/series/bmw-x5-3.jpg"]
 }

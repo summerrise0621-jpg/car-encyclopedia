@@ -1,0 +1,42 @@
+{
+  "id": "pagani-huayra",
+  "brand_id": "pagani",
+  "name_cn": "帕加尼Huayra",
+  "name_en": "Pagani Huayra",
+  "intro": "帕加尼Huayra是品牌第二代旗舰超跑，以风神命名，搭载AMG V12双涡轮发动机，每处细节都是艺术品级。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "huayra-1",
+      "name": "Huayra",
+      "year_start": 2011,
+      "variants": [
+        {
+          "id": "huayra-bc",
+          "name": "Huayra BC",
+          "year": 2017,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "6.0L 双涡轮增压V12",
+          "transmission": "7速序列式",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4605,
+            "width": 2036,
+            "height": 1169,
+            "wheelbase": 2795,
+            "weight": 1218,
+            "power": 800,
+            "torque": 1100,
+            "displacement": 6.0,
+            "zero_to_hundred": 2.8,
+            "top_speed": 370,
+            "fuel_consumption": 15.8
+          },
+          "price_range": "2200.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/pagani-huayra.jpg"
+}

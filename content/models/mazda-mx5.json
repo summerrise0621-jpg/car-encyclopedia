@@ -39,5 +39,19 @@
       ]
     }
   ],
-  "image": "/series/mazda-mx5.jpg"
+  "image": "/series/mazda-mx5.jpg",
+  "reviews": [
+    {
+      "title": "Mazda MX-5 Miata Review - The Best Driver's Car!",
+      "url": "https://youtube.com/watch?v=o7sxXa0Fjmg",
+      "source": "Top Gear",
+      "type": "video"
+    },
+    {
+      "title": "马自达MX-5评测 | 最纯粹的驾驶乐趣",
+      "url": "https://youtube.com/watch?v=p3gC4uSN4Bg",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

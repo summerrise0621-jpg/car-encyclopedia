@@ -39,5 +39,6 @@
       ]
     }
   ],
-  "image": "/series/benz-glc.jpg"
+  "image": "/series/benz-glc.jpg",
+  "gallery": ["/series/benz-glc.jpg", "/series/benz-glc-2.jpg", "/series/benz-glc-3.jpg"]
 }

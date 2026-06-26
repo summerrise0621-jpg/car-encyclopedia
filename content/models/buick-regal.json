@@ -1,1 +1,44 @@
-{"id":"buick-regal","brand_id":"buick","name_cn":"君威","name_en":"Regal","intro":"别克君威是一款中型轿车，以运动化的设计和良好的驾驶质感著称。","category":"sedan","generations":[{"id":"regal-gen3","name":"第三代君威","year_start":2017,"variants":[{"id":"regal-2023","name":"2023款 君威","year":2023,"body_type":"四门轿车","powertrain":"petrol","transmission":"9速手自一体","drivetrain":"fwd","specs":{"length":4913,"width":1863,"height":1462,"wheelbase":2829,"weight":1530,"power":237,"torque":350,"zero_to_hundred":7.2,"top_speed":230},"price_range":"17.28-21.68万元"}]}],"image":"/series/buick-regal.jpg"}
+{
+  "id": "buick-regal",
+  "brand_id": "buick",
+  "name_cn": "君威",
+  "name_en": "Regal",
+  "intro": "别克君威是一款中型轿车，以运动化的设计和良好的驾驶质感著称。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "regal-gen3",
+      "name": "第三代君威",
+      "year_start": 2017,
+      "variants": [
+        {
+          "id": "regal-2023",
+          "name": "2023款 君威",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "9速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4913,
+            "width": 1863,
+            "height": 1462,
+            "wheelbase": 2829,
+            "weight": 1530,
+            "power": 237,
+            "torque": 350,
+            "zero_to_hundred": 7.2,
+            "top_speed": 230
+          },
+          "price_range": "17.28-21.68万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/buick-regal.jpg",
+  "gallery": [
+    "/series/buick-regal.jpg",
+    "/series/buick-regal-2.jpg",
+    "/series/buick-regal-3.jpg"
+  ]
+}

@@ -1,1 +1,44 @@
-{"id":"aston-martin-vantage","brand_id":"aston-martin","name_cn":"阿斯顿·马丁Vantage","name_en":"Aston Martin Vantage","intro":"阿斯顿·马丁Vantage是阿斯顿·马丁旗下最具运动性的跑车，以纯粹的驾驶乐趣和动感设计著称。","category":"coupe","generations":[{"id":"aston-martin-vantage-gen3","name":"第三代","year_start":2024,"variants":[{"id":"aston-martin-vantage-2024-v8","name":"Vantage","year":2024,"body_type":"跑车","powertrain":"petrol","transmission":"8速自动变速箱","drivetrain":"rwd","specs":{"length":4466,"width":1942,"height":1275,"wheelbase":2705,"weight":1605,"power":665,"torque":800,"zero_to_hundred":3.5,"top_speed":325},"price_range":"220.00-280.00万元"}]}],"image":"/series/aston-martin-vantage.jpg"}
+{
+  "id": "aston-martin-vantage",
+  "brand_id": "aston-martin",
+  "name_cn": "阿斯顿·马丁Vantage",
+  "name_en": "Aston Martin Vantage",
+  "intro": "阿斯顿·马丁Vantage是阿斯顿·马丁旗下最具运动性的跑车，以纯粹的驾驶乐趣和动感设计著称。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "aston-martin-vantage-gen3",
+      "name": "第三代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "aston-martin-vantage-2024-v8",
+          "name": "Vantage",
+          "year": 2024,
+          "body_type": "跑车",
+          "powertrain": "petrol",
+          "transmission": "8速自动变速箱",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4466,
+            "width": 1942,
+            "height": 1275,
+            "wheelbase": 2705,
+            "weight": 1605,
+            "power": 665,
+            "torque": 800,
+            "zero_to_hundred": 3.5,
+            "top_speed": 325
+          },
+          "price_range": "220.00-280.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/aston-martin-vantage.jpg",
+  "gallery": [
+    "/series/aston-martin-vantage.jpg",
+    "/series/aston-martin-vantage-2.jpg",
+    "/series/aston-martin-vantage-3.jpg"
+  ]
+}

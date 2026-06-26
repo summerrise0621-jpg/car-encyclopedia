@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/byd-qin.jpg"
+  "image": "/series/byd-qin.jpg",
+  "gallery": [
+    "/series/byd-qin.jpg",
+    "/series/byd-qin-2.jpg",
+    "/series/byd-qin-3.jpg"
+  ]
 }

@@ -39,5 +39,6 @@
       ]
     }
   ],
-  "image": "/series/toyota-rav4.jpg"
+  "image": "/series/toyota-rav4.jpg",
+  "gallery": ["/series/toyota-rav4.jpg", "/series/toyota-rav4-2.jpg", "/series/toyota-rav4-3.jpg"]
 }

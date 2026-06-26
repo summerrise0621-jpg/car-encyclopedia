@@ -38,5 +38,6 @@
       ]
     }
   ],
-  "image": "/series/rolls-royce-cullinan.jpg"
+  "image": "/series/rolls-royce-cullinan.jpg",
+  "gallery": ["/series/rolls-royce-cullinan.jpg", "/series/rolls-royce-cullinan-2.jpg", "/series/rolls-royce-cullinan-3.jpg"]
 }

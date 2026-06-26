@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/cadillac-ct5.jpg"
+  "image": "/series/cadillac-ct5.jpg",
+  "gallery": [
+    "/series/cadillac-ct5.jpg",
+    "/series/cadillac-ct5-2.jpg",
+    "/series/cadillac-ct5-3.jpg"
+  ]
 }

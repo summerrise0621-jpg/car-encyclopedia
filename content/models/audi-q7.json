@@ -38,5 +38,6 @@
       ]
     }
   ],
-  "image": "/series/audi-q7.jpg"
+  "image": "/series/audi-q7.jpg",
+  "gallery": ["/series/audi-q7.jpg", "/series/audi-q7-2.jpg", "/series/audi-q7-3.jpg"]
 }

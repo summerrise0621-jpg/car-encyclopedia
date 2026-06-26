@@ -39,5 +39,6 @@
       ]
     }
   ],
-  "image": "/series/bmw-x3.jpg"
+  "image": "/series/bmw-x3.jpg",
+  "gallery": ["/series/bmw-x3.jpg", "/series/bmw-x3-2.jpg", "/series/bmw-x3-3.jpg"]
 }

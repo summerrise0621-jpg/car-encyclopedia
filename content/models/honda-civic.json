@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/honda-civic.jpg"
+  "image": "/series/honda-civic.jpg",
+  "gallery": ["/series/honda-civic.jpg", "/series/honda-civic-2.jpg", "/series/honda-civic-3.jpg"],
+  "reviews": [
+    {
+      "title": "Honda Civic 2024 Review - The Best Compact Car!",
+      "url": "https://youtube.com/watch?v=SoKLBCciKAM",
+      "source": "Doug DeMuro",
+      "type": "video"
+    },
+    {
+      "title": "本田思域深度评测 | 运动家轿新选择",
+      "url": "https://youtube.com/watch?v=5Nzg8Kd3e8U",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

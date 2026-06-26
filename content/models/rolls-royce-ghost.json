@@ -38,5 +38,20 @@
       ]
     }
   ],
-  "image": "/series/rolls-royce-ghost.jpg"
+  "image": "/series/rolls-royce-ghost.jpg",
+  "gallery": ["/series/rolls-royce-ghost.jpg", "/series/rolls-royce-ghost-2.jpg", "/series/rolls-royce-ghost-3.jpg"],
+  "reviews": [
+    {
+      "title": "Rolls-Royce Ghost Review - The Ultimate Luxury Car!",
+      "url": "https://youtube.com/watch?v=ET1L5GHZB1Y",
+      "source": "Doug DeMuro",
+      "type": "video"
+    },
+    {
+      "title": "劳斯莱斯古斯特评测 | 极致奢华的代名词",
+      "url": "https://youtube.com/watch?v=vRJCwY5wNuo",
+      "source": "汽车之家",
+      "type": "video"
+    }
+  ]
 }

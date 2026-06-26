@@ -33,6 +33,12 @@ export default function Navbar({ brandCount }: NavbarProps) {
             >
               搜索
             </Link>
+            <Link
+              href="/kids"
+              className="text-gray-700 hover:text-pink-600 dark:text-gray-300 dark:hover:text-pink-400 transition-colors"
+            >
+              🎮 儿童乐园
+            </Link>
             {brandCount !== undefined && (
               <span className="text-sm text-gray-500 dark:text-gray-400">
                 {brandCount} 个品牌
@@ -47,6 +53,12 @@ export default function Navbar({ brandCount }: NavbarProps) {
               className="text-gray-700 hover:text-blue-600 dark:text-gray-300"
             >
               🔍
+            </Link>
+            <Link
+              href="/kids"
+              className="text-gray-700 hover:text-pink-600 dark:text-gray-300"
+            >
+              🎮
             </Link>
             <Link
               href="/"

@@ -1,0 +1,42 @@
+{
+  "id": "koenigsegg-regera",
+  "brand_id": "koenigsegg",
+  "name_cn": "柯尼塞格Regera",
+  "name_en": "Koenigsegg Regera",
+  "intro": "柯尼塞格Regera是品牌首款混动超跑，采用独特的直接驱动系统取代传统变速箱，限量80台。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "regera-1",
+      "name": "Regera",
+      "year_start": 2015,
+      "variants": [
+        {
+          "id": "regera-coupe",
+          "name": "Regera",
+          "year": 2018,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "5.0L 双涡轮增压V8 + 三电机",
+          "transmission": "直接驱动(无变速箱)",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4560,
+            "width": 2050,
+            "height": 1110,
+            "wheelbase": 2662,
+            "weight": 1470,
+            "power": 1500,
+            "torque": 2000,
+            "displacement": 5.0,
+            "zero_to_hundred": 2.8,
+            "top_speed": 400,
+            "fuel_consumption": 12.0
+          },
+          "price_range": "1900.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/koenigsegg-regera.jpg"
+}

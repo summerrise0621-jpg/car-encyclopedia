@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/chevrolet-silverado.jpg"
+  "image": "/series/chevrolet-silverado.jpg",
+  "gallery": [
+    "/series/chevrolet-silverado.jpg",
+    "/series/chevrolet-silverado-2.jpg",
+    "/series/chevrolet-silverado-3.jpg"
+  ]
 }

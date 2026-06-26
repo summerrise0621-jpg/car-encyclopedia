@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/audi-etron.jpg"
+  "image": "/series/audi-etron.jpg",
+  "gallery": [
+    "/series/audi-etron.jpg",
+    "/series/audi-etron-2.jpg",
+    "/series/audi-etron-3.jpg"
+  ]
 }

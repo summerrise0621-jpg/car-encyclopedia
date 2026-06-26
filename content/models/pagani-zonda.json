@@ -1,0 +1,42 @@
+{
+  "id": "pagani-zonda",
+  "brand_id": "pagani",
+  "name_cn": "帕加尼Zonda",
+  "name_en": "Pagani Zonda",
+  "intro": "帕加尼Zonda是品牌首款量产超跑，以南美安第斯山脉的热风命名，搭载AMG V12发动机，是超跑界的传奇。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "zonda-r",
+      "name": "Zonda R",
+      "year_start": 2009,
+      "variants": [
+        {
+          "id": "zonda-r",
+          "name": "Zonda R",
+          "year": 2010,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "6.0L 自然吸气V12",
+          "transmission": "6速序列式",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4886,
+            "width": 2014,
+            "height": 1141,
+            "wheelbase": 2785,
+            "weight": 1070,
+            "power": 750,
+            "torque": 710,
+            "displacement": 6.0,
+            "zero_to_hundred": 2.7,
+            "top_speed": 350,
+            "fuel_consumption": 18.0
+          },
+          "price_range": "1500.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/pagani-zonda.jpg"
+}

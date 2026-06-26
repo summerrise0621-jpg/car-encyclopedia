@@ -1,0 +1,42 @@
+{
+  "id": "koenigsegg-gemera",
+  "brand_id": "koenigsegg",
+  "name_cn": "柯尼塞格Gemera",
+  "name_en": "Koenigsegg Gemera",
+  "intro": "柯尼塞格Gemera是品牌首款四座超跑，搭载2.0L三缸双涡轮+三电机组合，综合1700马力，定义了全新Mega-GT类别。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "gemera-1",
+      "name": "Gemera",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "gemera-coupe",
+          "name": "Gemera",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "5.0L 双涡轮增压V8 + 三电机",
+          "transmission": "直接驱动",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4975,
+            "width": 1988,
+            "height": 1295,
+            "wheelbase": 3000,
+            "weight": 1850,
+            "power": 2300,
+            "torque": 2750,
+            "displacement": 5.0,
+            "zero_to_hundred": 1.9,
+            "top_speed": 400,
+            "fuel_consumption": 8.0
+          },
+          "price_range": "2500.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/koenigsegg-gemera.jpg"
+}

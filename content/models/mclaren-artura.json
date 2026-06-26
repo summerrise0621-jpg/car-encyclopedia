@@ -1,0 +1,42 @@
+{
+  "id": "mclaren-artura",
+  "brand_id": "mclaren",
+  "name_cn": "迈凯伦Artura",
+  "name_en": "McLaren Artura",
+  "intro": "迈凯伦Artura是品牌首款量产插电混动超跑，基于全新MCLA碳纤维架构打造，搭载V6双涡轮+电机组合。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "artura-1",
+      "name": "Artura",
+      "year_start": 2021,
+      "variants": [
+        {
+          "id": "artura-coupe",
+          "name": "Artura",
+          "year": 2023,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "3.0L 双涡轮增压V6 + 电机",
+          "transmission": "8速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4539,
+            "width": 2080,
+            "height": 1193,
+            "wheelbase": 2640,
+            "weight": 1395,
+            "power": 680,
+            "torque": 720,
+            "displacement": 3.0,
+            "zero_to_hundred": 3.0,
+            "top_speed": 330,
+            "fuel_consumption": 4.6
+          },
+          "price_range": "238.0-280.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/mclaren-artura.jpg"
+}

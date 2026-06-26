@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/byd-yuan.jpg"
+  "image": "/series/byd-yuan.jpg",
+  "gallery": [
+    "/series/byd-yuan.jpg",
+    "/series/byd-yuan-2.jpg",
+    "/series/byd-yuan-3.jpg"
+  ]
 }

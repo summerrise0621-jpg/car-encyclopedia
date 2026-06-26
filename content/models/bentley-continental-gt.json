@@ -1,1 +1,79 @@
-{"id":"bentley-continental-gt","brand_id":"bentley","name_cn":"宾利欧陆GT","name_en":"Bentley Continental GT","intro":"宾利欧陆GT是宾利旗下的豪华GT跑车，搭载W12或V8发动机，以极致奢华与强劲性能完美融合著称。","category":"coupe","generations":[{"id":"bentley-continental-gt-gen3","name":"第三代","year_start":2018,"variants":[{"id":"bentley-continental-gt-2024-v8","name":"Continental GT V8","year":2024,"body_type":"跑车","powertrain":"petrol","transmission":"8速双离合变速箱","drivetrain":"awd","specs":{"length":4850,"width":2187,"height":1405,"wheelbase":2851,"weight":2165,"power":550,"torque":770,"zero_to_hundred":3.9,"top_speed":318},"price_range":"280.00-350.00万元"},{"id":"bentley-continental-gt-2024-w12","name":"Continental GT W12","year":2024,"body_type":"跑车","powertrain":"petrol","transmission":"8速双离合变速箱","drivetrain":"awd","specs":{"length":4850,"width":2187,"height":1405,"wheelbase":2851,"weight":2265,"power":659,"torque":900,"zero_to_hundred":3.6,"top_speed":333},"price_range":"350.00-450.00万元"}]}],"image":"/series/bentley-continental-gt.jpg"}
+{
+  "id": "bentley-continental-gt",
+  "brand_id": "bentley",
+  "name_cn": "宾利欧陆GT",
+  "name_en": "Bentley Continental GT",
+  "intro": "宾利欧陆GT是宾利旗下的豪华GT跑车，搭载W12或V8发动机，以极致奢华与强劲性能完美融合著称。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "bentley-continental-gt-gen3",
+      "name": "第三代",
+      "year_start": 2018,
+      "variants": [
+        {
+          "id": "bentley-continental-gt-2024-v8",
+          "name": "Continental GT V8",
+          "year": 2024,
+          "body_type": "跑车",
+          "powertrain": "petrol",
+          "transmission": "8速双离合变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4850,
+            "width": 2187,
+            "height": 1405,
+            "wheelbase": 2851,
+            "weight": 2165,
+            "power": 550,
+            "torque": 770,
+            "zero_to_hundred": 3.9,
+            "top_speed": 318
+          },
+          "price_range": "280.00-350.00万元"
+        },
+        {
+          "id": "bentley-continental-gt-2024-w12",
+          "name": "Continental GT W12",
+          "year": 2024,
+          "body_type": "跑车",
+          "powertrain": "petrol",
+          "transmission": "8速双离合变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4850,
+            "width": 2187,
+            "height": 1405,
+            "wheelbase": 2851,
+            "weight": 2265,
+            "power": 659,
+            "torque": 900,
+            "zero_to_hundred": 3.6,
+            "top_speed": 333
+          },
+          "price_range": "350.00-450.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/bentley-continental-gt.jpg",
+  "reviews": [
+    {
+      "title": "Bentley Continental GT Review - The Perfect Grand Tourer!",
+      "url": "https://youtube.com/watch?v=fVZo1nB-lf4",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "宾利欧陆GT深度评测 | GT跑车的巅峰之作",
+      "url": "https://youtube.com/watch?v=H6rQgXJHbZI",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ],
+  "gallery": [
+    "/series/bentley-continental-gt.jpg",
+    "/series/bentley-continental-gt-2.jpg",
+    "/series/bentley-continental-gt-3.jpg"
+  ]
+}

@@ -1,1 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><circle cx="32" cy="32" r="30" fill="#8B0000"/><text x="32" y="42" text-anchor="middle" font-size="28" fill="white" font-family="sans-serif">红</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect x="60" y="30" width="8" height="140" fill="#DAA520" rx="2"/><path d="M68,40 Q130,60 140,100 Q150,140 68,160" fill="#CC0000" stroke="#DAA520" stroke-width="2"/><path d="M68,50 Q120,65 128,100 Q136,135 68,150" fill="#FF2200"/></svg>

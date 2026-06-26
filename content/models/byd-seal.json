@@ -36,5 +36,20 @@
       ]
     }
   ],
-  "image": "/series/byd-seal.jpg"
+  "image": "/series/byd-seal.jpg",
+  "gallery": ["/series/byd-seal.jpg", "/series/byd-seal-2.jpg", "/series/byd-seal-3.jpg"],
+  "reviews": [
+    {
+      "title": "BYD Seal Review - The Electric Car That Beats Tesla!",
+      "url": "https://youtube.com/watch?v=HTMwYOPqOwQ",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "比亚迪海豹深度评测 | e平台3.0的巅峰之作",
+      "url": "https://youtube.com/watch?v=LX9bTJAq_QE",
+      "source": "大家车言论",
+      "type": "video"
+    }
+  ]
 }

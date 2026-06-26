@@ -36,5 +36,20 @@
       ]
     }
   ],
-  "image": "/series/byd-han.jpg"
+  "image": "/series/byd-han.jpg",
+  "gallery": ["/series/byd-han.jpg", "/series/byd-han-2.jpg", "/series/byd-han-3.jpg"],
+  "reviews": [
+    {
+      "title": "BYD Han EV Review - China's Tesla Killer?",
+      "url": "https://youtube.com/watch?v=lL5uG5S2eIY",
+      "source": "Fully Charged",
+      "type": "video"
+    },
+    {
+      "title": "比亚迪汉EV深度评测 | 国产旗舰轿车之光",
+      "url": "https://youtube.com/watch?v=yUuGdsNqRLk",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

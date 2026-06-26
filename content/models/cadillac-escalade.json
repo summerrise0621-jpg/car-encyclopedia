@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/cadillac-escalade.jpg"
+  "image": "/series/cadillac-escalade.jpg",
+  "gallery": [
+    "/series/cadillac-escalade.jpg",
+    "/series/cadillac-escalade-2.jpg",
+    "/series/cadillac-escalade-3.jpg"
+  ]
 }

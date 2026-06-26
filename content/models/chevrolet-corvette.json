@@ -38,5 +38,20 @@
       ]
     }
   ],
-  "image": "/series/chevrolet-corvette.jpg"
+  "image": "/series/chevrolet-corvette.jpg",
+  "gallery": ["/series/chevrolet-corvette.jpg", "/series/chevrolet-corvette-2.jpg", "/series/chevrolet-corvette-3.jpg"],
+  "reviews": [
+    {
+      "title": "Chevrolet Corvette C8 Review - The American Supercar!",
+      "url": "https://youtube.com/watch?v=jIAnD3pfcx0",
+      "source": "Doug DeMuro",
+      "type": "video"
+    },
+    {
+      "title": "雪佛兰科尔维特C8评测 | 中置引擎美式超跑",
+      "url": "https://youtube.com/watch?v=2u1gqew2rJE",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

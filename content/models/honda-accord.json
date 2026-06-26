@@ -39,5 +39,20 @@
       ]
     }
   ],
-  "image": "/series/honda-accord.jpg"
+  "image": "/series/honda-accord.jpg",
+  "gallery": ["/series/honda-accord.jpg", "/series/honda-accord-2.jpg", "/series/honda-accord-3.jpg"],
+  "reviews": [
+    {
+      "title": "Honda Accord 2024 Review - A Brilliant Family Sedan!",
+      "url": "https://youtube.com/watch?v=w5CQnCFqDEM",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "全新本田雅阁评测 | 中级轿车的标杆",
+      "url": "https://youtube.com/watch?v=MTKZo2f7XtI",
+      "source": "大家车言论",
+      "type": "video"
+    }
+  ]
 }

@@ -1,0 +1,42 @@
+{
+  "id": "pagani-utopia",
+  "brand_id": "pagani",
+  "name_cn": "帕加尼Utopia",
+  "name_en": "Pagani Utopia",
+  "intro": "帕加尼Utopia是品牌第三代旗舰超跑，搭载AMG V12双涡轮发动机，提供手动变速箱选项，延续纯粹驾驶理念。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "utopia-1",
+      "name": "Utopia",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "utopia-coupe",
+          "name": "Utopia",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "6.0L 双涡轮增压V12",
+          "transmission": "7速序列式/手动",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4848,
+            "width": 2050,
+            "height": 1185,
+            "wheelbase": 2800,
+            "weight": 1280,
+            "power": 864,
+            "torque": 1100,
+            "displacement": 6.0,
+            "zero_to_hundred": 2.8,
+            "top_speed": 350,
+            "fuel_consumption": 16.0
+          },
+          "price_range": "2500.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/pagani-utopia.jpg"
+}

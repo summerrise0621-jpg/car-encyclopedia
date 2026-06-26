@@ -36,5 +36,20 @@
       ]
     }
   ],
-  "image": "/series/tesla-model3.jpg"
+  "image": "/series/tesla-model3.jpg",
+  "gallery": ["/series/tesla-model3.jpg", "/series/tesla-model3-2.jpg", "/series/tesla-model3-3.jpg"],
+  "reviews": [
+    {
+      "title": "Tesla Model 3 Highland Review - The Best Tesla Yet!",
+      "url": "https://youtube.com/watch?v=TYeWdXiy1Go",
+      "source": "MKBHD",
+      "type": "video"
+    },
+    {
+      "title": "特斯拉Model 3焕新版评测 | 纯电标杆再进化",
+      "url": "https://youtube.com/watch?v=rYfp3cV1UVs",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

@@ -1,17 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#000000;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#000000;stop-opacity:0.8" />
-    </linearGradient>
-  </defs>
-  <circle cx="50" cy="50" r="48" fill="url(#bg)" stroke="white" stroke-width="2"/>
-  <text x="50" y="50" text-anchor="middle" dominant-baseline="central" 
-        font-family="Arial, sans-serif" font-weight="bold" font-size="36" fill="white">
-    雷
-  </text>
-  <text x="50" y="75" text-anchor="middle" 
-        font-family="Arial, sans-serif" font-size="10" fill="rgba(255,255,255,0.8)">
-    Lexus
-  </text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <ellipse cx="100" cy="100" rx="80" ry="55" fill="none" stroke="#B0B0B0" stroke-width="5"/>
+  <path d="M68 140 L68 70 L95 70 C110 70 115 82 110 92 C106 100 95 102 85 100 L105 140 L88 140 L72 108 L72 140 Z" fill="none" stroke="#B0B0B0" stroke-width="6" stroke-linejoin="round"/>
 </svg>

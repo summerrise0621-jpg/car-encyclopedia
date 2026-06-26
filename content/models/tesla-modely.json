@@ -36,5 +36,20 @@
       ]
     }
   ],
-  "image": "/series/tesla-modely.jpg"
+  "image": "/series/tesla-modely.jpg",
+  "gallery": ["/series/tesla-modely.jpg", "/series/tesla-modely-2.jpg", "/series/tesla-modely-3.jpg"],
+  "reviews": [
+    {
+      "title": "Tesla Model Y Review - The Best Selling Electric Car!",
+      "url": "https://youtube.com/watch?v=Da5V0pR7mas",
+      "source": "Doug DeMuro",
+      "type": "video"
+    },
+    {
+      "title": "特斯拉Model Y深度评测 | 最畅销纯电SUV",
+      "url": "https://youtube.com/watch?v=sk8r4RpPVwQ",
+      "source": "大家车言论",
+      "type": "video"
+    }
+  ]
 }

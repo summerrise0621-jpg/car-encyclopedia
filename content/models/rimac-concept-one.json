@@ -1,0 +1,42 @@
+{
+  "id": "rimac-concept-one",
+  "brand_id": "rimac",
+  "name_cn": "锐马克Concept_One",
+  "name_en": "Rimac Concept_One",
+  "intro": "锐马克Concept_One是品牌首款纯电超级跑车，证明了电动超跑的可行性，仅生产8台，具有里程碑意义。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "concept-one-1",
+      "name": "Concept_One",
+      "year_start": 2016,
+      "variants": [
+        {
+          "id": "concept-one-coupe",
+          "name": "Concept_One",
+          "year": 2017,
+          "body_type": "coupe",
+          "powertrain": "electric",
+          "engine": "四电机",
+          "transmission": "单速",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4548,
+            "width": 2000,
+            "height": 1158,
+            "wheelbase": 2650,
+            "weight": 1850,
+            "power": 1224,
+            "torque": 1600,
+            "displacement": 0,
+            "zero_to_hundred": 2.5,
+            "top_speed": 355,
+            "fuel_consumption": 0
+          },
+          "price_range": "800.0万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/rimac-concept-one.jpg"
+}

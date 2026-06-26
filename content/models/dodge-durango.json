@@ -1,1 +1,44 @@
-{"id":"dodge-durango","brand_id":"dodge","name_cn":"杜兰戈","name_en":"Durango","intro":"道奇Durango是一款中大型SUV，以强大的拖拽能力和运动性能著称。","category":"suv","generations":[{"id":"durango-gen3","name":"第三代Durango","year_start":2011,"variants":[{"id":"durango-2023","name":"2023款 Durango R/T","year":2023,"body_type":"SUV","powertrain":"petrol","transmission":"8速手自一体","drivetrain":"awd","specs":{"length":5101,"width":1925,"height":1801,"wheelbase":3043,"weight":2350,"power":360,"torque":529,"zero_to_hundred":6.2,"top_speed":240},"price_range":"35.00-55.00万元"}]}],"image":"/series/dodge-durango.jpg"}
+{
+  "id": "dodge-durango",
+  "brand_id": "dodge",
+  "name_cn": "杜兰戈",
+  "name_en": "Durango",
+  "intro": "道奇Durango是一款中大型SUV，以强大的拖拽能力和运动性能著称。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "durango-gen3",
+      "name": "第三代Durango",
+      "year_start": 2011,
+      "variants": [
+        {
+          "id": "durango-2023",
+          "name": "2023款 Durango R/T",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5101,
+            "width": 1925,
+            "height": 1801,
+            "wheelbase": 3043,
+            "weight": 2350,
+            "power": 360,
+            "torque": 529,
+            "zero_to_hundred": 6.2,
+            "top_speed": 240
+          },
+          "price_range": "35.00-55.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/dodge-durango.jpg",
+  "gallery": [
+    "/series/dodge-durango.jpg",
+    "/series/dodge-durango-2.jpg",
+    "/series/dodge-durango-3.jpg"
+  ]
+}

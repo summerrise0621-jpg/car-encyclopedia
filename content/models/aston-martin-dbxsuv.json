@@ -1,1 +1,44 @@
-{"id":"aston-martin-dbxsuv","brand_id":"aston-martin","name_cn":"阿斯顿·马丁DBX","name_en":"Aston Martin DBX","intro":"阿斯顿·马丁DBX是阿斯顿·马丁推出的首款SUV，搭载4.0升双涡轮增压V8发动机，将超跑性能与SUV实用性完美结合。","category":"suv","generations":[{"id":"aston-martin-dbxsuv-gen1","name":"第一代","year_start":2020,"variants":[{"id":"aston-martin-dbxsuv-2024-v8","name":"DBX707","year":2024,"body_type":"SUV","powertrain":"petrol","transmission":"9速自动变速箱","drivetrain":"awd","specs":{"length":5039,"width":2050,"height":1680,"wheelbase":3060,"weight":2245,"power":707,"torque":900,"zero_to_hundred":3.3,"top_speed":310},"price_range":"280.00-380.00万元"}]}],"image":"/series/aston-martin-dbxsuv.jpg"}
+{
+  "id": "aston-martin-dbxsuv",
+  "brand_id": "aston-martin",
+  "name_cn": "阿斯顿·马丁DBX",
+  "name_en": "Aston Martin DBX",
+  "intro": "阿斯顿·马丁DBX是阿斯顿·马丁推出的首款SUV，搭载4.0升双涡轮增压V8发动机，将超跑性能与SUV实用性完美结合。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "aston-martin-dbxsuv-gen1",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "aston-martin-dbxsuv-2024-v8",
+          "name": "DBX707",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "transmission": "9速自动变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5039,
+            "width": 2050,
+            "height": 1680,
+            "wheelbase": 3060,
+            "weight": 2245,
+            "power": 707,
+            "torque": 900,
+            "zero_to_hundred": 3.3,
+            "top_speed": 310
+          },
+          "price_range": "280.00-380.00万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/aston-martin-dbxsuv.jpg",
+  "gallery": [
+    "/series/aston-martin-dbxsuv.jpg",
+    "/series/aston-martin-dbxsuv-2.jpg",
+    "/series/aston-martin-dbxsuv-3.jpg"
+  ]
+}

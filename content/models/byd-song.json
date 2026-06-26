@@ -39,5 +39,6 @@
       ]
     }
   ],
-  "image": "/series/byd-song.jpg"
+  "image": "/series/byd-song.jpg",
+  "gallery": ["/series/byd-song.jpg", "/series/byd-song-2.jpg", "/series/byd-song-3.jpg"]
 }

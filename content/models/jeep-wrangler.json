@@ -62,5 +62,19 @@
       ]
     }
   ],
-  "image": "/series/jeep-wrangler.jpg"
+  "image": "/series/jeep-wrangler.jpg",
+  "reviews": [
+    {
+      "title": "Jeep Wrangler Review - The Ultimate Off-Road Vehicle!",
+      "url": "https://youtube.com/watch?v=vZZfMxsGWJE",
+      "source": "Doug DeMuro",
+      "type": "video"
+    },
+    {
+      "title": "Jeep牧马人深度评测 | 越野之王的日常表现",
+      "url": "https://youtube.com/watch?v=pYDM1rD2CWY",
+      "source": "38号车评中心",
+      "type": "video"
+    }
+  ]
 }

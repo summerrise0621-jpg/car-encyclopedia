@@ -62,5 +62,20 @@
       ]
     }
   ],
-  "image": "/series/benz-s-class.jpg"
+  "image": "/series/benz-s-class.jpg",
+  "gallery": ["/series/benz-s-class.jpg", "/series/benz-s-class-2.jpg", "/series/benz-s-class-3.jpg"],
+  "reviews": [
+    {
+      "title": "Mercedes S-Class (W223) Review - The Best Car in the World?",
+      "url": "https://youtube.com/watch?v=y1GMVGbLTQ0",
+      "source": "Carwow",
+      "type": "video"
+    },
+    {
+      "title": "奔驰S级深度评测 | 旗舰豪华新境界",
+      "url": "https://youtube.com/watch?v=gWqWqr9MuX4",
+      "source": "大家车言论",
+      "type": "video"
+    }
+  ]
 }
