@@ -40,7 +40,11 @@
     }
   ],
   "image": "/series/bmw-5-series.jpg",
-  "gallery": ["/series/bmw-5-series.jpg", "/series/bmw-5-series-2.jpg", "/series/bmw-5-series-3.jpg"],
+  "gallery": [
+    "/series/bmw-5-series.jpg",
+    "/series/bmw-5-series-2.jpg",
+    "/series/bmw-5-series-3.jpg"
+  ],
   "reviews": [
     {
       "title": "BMW 5 Series (G60) 2024 Review - A New Era of Luxury!",

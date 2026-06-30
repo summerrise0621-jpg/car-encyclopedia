@@ -39,5 +39,9 @@
     }
   ],
   "image": "/series/chevrolet-camaro.jpg",
-  "gallery": ["/series/chevrolet-camaro.jpg", "/series/chevrolet-camaro-2.jpg", "/series/chevrolet-camaro-3.jpg"]
+  "gallery": [
+    "/series/chevrolet-camaro.jpg",
+    "/series/chevrolet-camaro-2.jpg",
+    "/series/chevrolet-camaro-3.jpg"
+  ]
 }

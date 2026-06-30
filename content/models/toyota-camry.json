@@ -40,7 +40,9 @@
     }
   ],
   "image": "/series/toyota-camry.jpg",
-  "gallery": ["/series/toyota-camry.jpg", "/series/toyota-camry-2.jpg", "/series/toyota-camry-3.jpg"],
+  "gallery": [
+    "/series/toyota-camry.jpg"
+  ],
   "reviews": [
     {
       "title": "Toyota Camry 2024 Review - Still the Best Mid-Size Sedan?",

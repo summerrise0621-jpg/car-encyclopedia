@@ -63,5 +63,9 @@
     }
   ],
   "image": "/series/benz-g-class.jpg",
-  "gallery": ["/series/benz-g-class.jpg", "/series/benz-g-class-2.jpg", "/series/benz-g-class-3.jpg"]
+  "gallery": [
+    "/series/benz-g-class.jpg",
+    "/series/benz-g-class-2.jpg",
+    "/series/benz-g-class-3.jpg"
+  ]
 }

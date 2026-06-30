@@ -37,7 +37,9 @@
     }
   ],
   "image": "/series/tesla-modely.jpg",
-  "gallery": ["/series/tesla-modely.jpg", "/series/tesla-modely-2.jpg", "/series/tesla-modely-3.jpg"],
+  "gallery": [
+    "/series/tesla-modely.jpg"
+  ],
   "reviews": [
     {
       "title": "Tesla Model Y Review - The Best Selling Electric Car!",

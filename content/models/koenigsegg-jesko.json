@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/koenigsegg-jesko.jpg"
+  "image": "/series/koenigsegg-jesko.jpg",
+  "gallery": [
+    "/series/koenigsegg-jesko.jpg",
+    "/series/koenigsegg-jesko-2.jpg",
+    "/series/koenigsegg-jesko-3.jpg"
+  ]
 }

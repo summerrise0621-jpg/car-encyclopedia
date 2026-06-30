@@ -36,5 +36,8 @@
       ]
     }
   ],
-  "image": "/series/volkswagen-id4.jpg"
+  "image": "/series/volkswagen-id4.jpg",
+  "gallery": [
+    "/series/volkswagen-id4.jpg"
+  ]
 }

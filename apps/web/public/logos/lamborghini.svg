@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <path d="M100 15 L175 55 L175 145 L100 185 L25 145 L25 55 Z" fill="#DDB321" stroke="#8B6914" stroke-width="3"/>
-  <path d="M100 25 L165 60 L165 140 L100 175 L35 140 L35 60 Z" fill="#1A1A1A"/>
-  <path d="M85 95 L90 70 L95 72 L93 82 L98 68 L103 70 L100 85 L105 72 L110 74 L105 90 L112 80 L116 82 L108 98 L115 92 L118 96 L105 105 L110 115 L106 118 L100 108 L94 118 L90 115 L95 105 L82 96 L85 92 Z" fill="#DDB321"/>
-  <path d="M92 105 L95 125 L100 128 L105 125 L108 105" fill="#DDB321"/>
-  <circle cx="100" cy="65" r="4" fill="#DDB321"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="兰博基尼 Lamborghini">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <path d="M100 22 L154 50 L154 114 L100 150 L46 114 L46 50 Z" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#1D4ED8">LAMBO</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">兰博基尼</text>
 </svg>

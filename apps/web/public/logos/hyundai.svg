@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <ellipse cx="100" cy="100" rx="80" ry="55" fill="none" stroke="#C0C0C0" stroke-width="5"/>
-  <path d="M72 130 C72 130 80 70 95 70 C105 70 100 100 100 100 C100 100 105 130 115 130 C125 130 128 70 128 70" fill="none" stroke="#C0C0C0" stroke-width="8" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="现代 Hyundai">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#047857" stroke-width="6"/>
+  <path d="M100 25 L160 82 L100 139 L40 82 Z" fill="#D1FAE5" stroke="#047857" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#047857">HYUNDAI</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">现代</text>
 </svg>

@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/mclaren-720s.jpg"
+  "image": "/series/mclaren-720s.jpg",
+  "gallery": [
+    "/series/mclaren-720s.jpg"
+  ]
 }

@@ -16,7 +16,7 @@
           "name": "Concept_One",
           "year": 2017,
           "body_type": "coupe",
-          "powertrain": "electric",
+          "powertrain": "bev",
           "engine": "四电机",
           "transmission": "单速",
           "drivetrain": "awd",
@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/rimac-concept-one.jpg"
+  "image": "/series/rimac-concept-one.jpg",
+  "gallery": [
+    "/series/rimac-concept-one.jpg"
+  ]
 }

@@ -38,7 +38,9 @@
     }
   ],
   "image": "/series/nissan-gtr.jpg",
-  "gallery": ["/series/nissan-gtr.jpg", "/series/nissan-gtr-2.jpg", "/series/nissan-gtr-3.jpg"],
+  "gallery": [
+    "/series/nissan-gtr.jpg"
+  ],
   "reviews": [
     {
       "title": "Nissan GT-R Review - The Legendary Godzilla!",

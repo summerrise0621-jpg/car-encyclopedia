@@ -1,0 +1,47 @@
+{
+  "id": "jeep-gladiator",
+  "brand_id": "jeep",
+  "name_cn": "Jeep角斗士",
+  "name_en": "Jeep Gladiator",
+  "intro": "Jeep角斗士把牧马人的硬派越野结构与皮卡货斗结合，拥有可拆卸车顶、强大四驱和鲜明户外属性。",
+  "category": "pickup",
+  "image": "/series/jeep-gladiator.jpg",
+  "gallery": [
+    "/series/jeep-gladiator.jpg",
+    "/series/jeep-gladiator-2.jpg",
+    "/series/jeep-gladiator-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "gladiator-jt",
+      "name": "第一代 (JT)",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "gladiator-rubicon",
+          "name": "Gladiator Rubicon",
+          "year": 2024,
+          "body_type": "pickup",
+          "powertrain": "petrol",
+          "engine": "3.6L V6",
+          "transmission": "8速自动",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5591,
+            "width": 1894,
+            "height": 1905,
+            "wheelbase": 3488,
+            "weight": 2315,
+            "power": 285,
+            "torque": 353,
+            "zero_to_hundred": 8.6,
+            "top_speed": 160,
+            "displacement": 3.6,
+            "fuel_consumption": 11.2
+          },
+          "price_range": "50-60万元"
+        }
+      ]
+    }
+  ]
+}

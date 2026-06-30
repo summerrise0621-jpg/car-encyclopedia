@@ -1,0 +1,46 @@
+{
+  "id": "lamborghini-revuelto",
+  "brand_id": "lamborghini",
+  "name_cn": "兰博基尼Revuelto",
+  "name_en": "Lamborghini Revuelto",
+  "intro": "Revuelto是兰博基尼旗舰V12插电混动超跑，以V12发动机和三电机组合带来超过千匹马力，是Aventador继任者。",
+  "category": "coupe",
+  "image": "/series/lamborghini-revuelto.jpg",
+  "gallery": [
+    "/series/lamborghini-revuelto.jpg",
+    "/series/lamborghini-revuelto-2.jpg",
+    "/series/lamborghini-revuelto-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "revuelto-1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "revuelto",
+          "name": "Revuelto",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "phev",
+          "engine": "6.5L V12+三电机",
+          "transmission": "8速双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4947,
+            "width": 2033,
+            "height": 1160,
+            "wheelbase": 2779,
+            "weight": 1772,
+            "power": 1015,
+            "torque": 807,
+            "zero_to_hundred": 2.5,
+            "top_speed": 350,
+            "displacement": 6.5
+          },
+          "price_range": "629万元起"
+        }
+      ]
+    }
+  ]
+}

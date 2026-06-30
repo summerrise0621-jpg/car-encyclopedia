@@ -1,0 +1,45 @@
+{
+  "id": "mini-countryman",
+  "brand_id": "mini",
+  "name_cn": "MINI Countryman",
+  "name_en": "MINI Countryman",
+  "intro": "MINI Countryman是MINI家族中空间更大的紧凑型SUV，保留圆润可爱的设计，同时提供更高坐姿和更实用的后排、行李厢空间。",
+  "category": "suv",
+  "image": "/series/mini-countryman.jpg",
+  "gallery": [
+    "/series/mini-countryman.jpg"
+  ],
+  "generations": [
+    {
+      "id": "countryman-u25",
+      "name": "第三代 (U25)",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "countryman-c",
+          "name": "Countryman C",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "1.5L涡轮增压三缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4444,
+            "width": 1843,
+            "height": 1661,
+            "wheelbase": 2692,
+            "weight": 1535,
+            "power": 170,
+            "torque": 280,
+            "zero_to_hundred": 8.3,
+            "top_speed": 212,
+            "displacement": 1.5,
+            "fuel_consumption": 6.8
+          },
+          "price_range": "24-32万元"
+        }
+      ]
+    }
+  ]
+}

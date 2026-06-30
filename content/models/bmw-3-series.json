@@ -64,7 +64,11 @@
     }
   ],
   "image": "/series/bmw-3-series.jpg",
-  "gallery": ["/series/bmw-3-series.jpg", "/series/bmw-3-series-2.jpg", "/series/bmw-3-series-3.jpg"],
+  "gallery": [
+    "/series/bmw-3-series.jpg",
+    "/series/bmw-3-series-2.jpg",
+    "/series/bmw-3-series-3.jpg"
+  ],
   "reviews": [
     {
       "title": "BMW 3 Series (G20) Review - Still the Best Sport Sedan?",

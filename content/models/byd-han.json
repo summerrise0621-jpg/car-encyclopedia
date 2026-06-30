@@ -37,7 +37,11 @@
     }
   ],
   "image": "/series/byd-han.jpg",
-  "gallery": ["/series/byd-han.jpg", "/series/byd-han-2.jpg", "/series/byd-han-3.jpg"],
+  "gallery": [
+    "/series/byd-han.jpg",
+    "/series/byd-han-2.jpg",
+    "/series/byd-han-3.jpg"
+  ],
   "reviews": [
     {
       "title": "BYD Han EV Review - China's Tesla Killer?",

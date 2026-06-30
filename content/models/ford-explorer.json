@@ -40,5 +40,9 @@
     }
   ],
   "image": "/series/ford-explorer.jpg",
-  "gallery": ["/series/ford-explorer.jpg", "/series/ford-explorer-2.jpg", "/series/ford-explorer-3.jpg"]
+  "gallery": [
+    "/series/ford-explorer.jpg",
+    "/series/ford-explorer-2.jpg",
+    "/series/ford-explorer-3.jpg"
+  ]
 }

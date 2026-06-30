@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/kia-ev6.jpg"
+  "image": "/series/kia-ev6.jpg",
+  "gallery": [
+    "/series/kia-ev6.jpg",
+    "/series/kia-ev6-2.jpg",
+    "/series/kia-ev6-3.jpg"
+  ]
 }

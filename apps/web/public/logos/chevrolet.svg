@@ -1,4 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <path d="M100 45 L150 80 L155 100 L150 120 L100 155 L50 120 L45 100 L50 80 Z" fill="#C9A82C" stroke="#B89520" stroke-width="2"/>
-  <path d="M100 52 L143 83 L147 100 L143 117 L100 148 L57 117 L53 100 L57 83 Z" fill="#E2CC55"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="雪佛兰 Chevrolet">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#B91C1C" stroke-width="6"/>
+  <path d="M100 25 L160 82 L100 139 L40 82 Z" fill="#FEE2E2" stroke="#B91C1C" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#B91C1C">CHEVROL</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">雪佛兰</text>
 </svg>

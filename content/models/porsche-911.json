@@ -39,7 +39,9 @@
     }
   ],
   "image": "/series/porsche-911.jpg",
-  "gallery": ["/series/porsche-911.jpg", "/series/porsche-911-2.jpg", "/series/porsche-911-3.jpg"],
+  "gallery": [
+    "/series/porsche-911.jpg"
+  ],
   "reviews": [
     {
       "title": "Porsche 911 (992) Review - The Ultimate Sports Car!",

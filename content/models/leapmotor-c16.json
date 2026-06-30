@@ -1,1 +1,65 @@
-{"id":"leapmotor-c16","brand_id":"leapmotor","name_cn":"零跑C16","name_en":"Leapmotor C16","intro":"零跑C16是零跑汽车推出的中大型六座SUV，提供纯电和增程两种动力形式，主打家庭出行。","category":"suv","generations":[{"id":"leapmotor-c16-gen1","name":"第一代","year_start":2024,"variants":[{"id":"leapmotor-c16-2024-ev","name":"零跑C16 纯电版","year":2024,"body_type":"SUV","powertrain":"bev","transmission":"单速固定齿比变速箱","drivetrain":"rwd","specs":{"length":4915,"width":1905,"height":1770,"wheelbase":2825,"weight":2100,"power":170,"torque":320,"zero_to_hundred":7.8,"top_speed":170},"price_range":"15.58-18.58万元"},{"id":"leapmotor-c16-2024-reev","name":"零跑C16 增程版","year":2024,"body_type":"SUV","powertrain":"phev","transmission":"单速固定齿比变速箱","drivetrain":"rwd","specs":{"length":4915,"width":1905,"height":1770,"wheelbase":2825,"weight":2150,"power":170,"torque":320,"zero_to_hundred":8.0,"top_speed":170},"price_range":"15.58-17.98万元"}]}],"image":"/series/leapmotor-c16.jpg"}
+{
+  "id": "leapmotor-c16",
+  "brand_id": "leapmotor",
+  "name_cn": "零跑C16",
+  "name_en": "Leapmotor C16",
+  "intro": "零跑C16是零跑汽车推出的中大型六座SUV，提供纯电和增程两种动力形式，主打家庭出行。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "leapmotor-c16-gen1",
+      "name": "第一代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "leapmotor-c16-2024-ev",
+          "name": "零跑C16 纯电版",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比变速箱",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4915,
+            "width": 1905,
+            "height": 1770,
+            "wheelbase": 2825,
+            "weight": 2100,
+            "power": 170,
+            "torque": 320,
+            "zero_to_hundred": 7.8,
+            "top_speed": 170
+          },
+          "price_range": "15.58-18.58万元"
+        },
+        {
+          "id": "leapmotor-c16-2024-reev",
+          "name": "零跑C16 增程版",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "phev",
+          "transmission": "单速固定齿比变速箱",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4915,
+            "width": 1905,
+            "height": 1770,
+            "wheelbase": 2825,
+            "weight": 2150,
+            "power": 170,
+            "torque": 320,
+            "zero_to_hundred": 8.0,
+            "top_speed": 170
+          },
+          "price_range": "15.58-17.98万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/leapmotor-c16.jpg",
+  "gallery": [
+    "/series/leapmotor-c16.jpg",
+    "/series/leapmotor-c16-2.jpg",
+    "/series/leapmotor-c16-3.jpg"
+  ]
+}

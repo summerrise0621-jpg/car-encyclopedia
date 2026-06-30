@@ -1,0 +1,47 @@
+{
+  "id": "ferrari-roma",
+  "brand_id": "ferrari",
+  "name_cn": "法拉利Roma",
+  "name_en": "Ferrari Roma",
+  "intro": "法拉利Roma是一款前中置V8 GT跑车，以简洁优雅的车身线条、强劲动力和日常可用性展现意式“甜蜜生活”风格。",
+  "category": "coupe",
+  "image": "/series/ferrari-roma.jpg",
+  "gallery": [
+    "/series/ferrari-roma.jpg",
+    "/series/ferrari-roma-2.jpg",
+    "/series/ferrari-roma-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "roma-1",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "roma-v8",
+          "name": "Roma V8",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "petrol",
+          "engine": "3.9L双涡轮增压V8",
+          "transmission": "8速双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4656,
+            "width": 1974,
+            "height": 1301,
+            "wheelbase": 2670,
+            "weight": 1570,
+            "power": 620,
+            "torque": 760,
+            "zero_to_hundred": 3.4,
+            "top_speed": 320,
+            "displacement": 3.9,
+            "fuel_consumption": 11.2
+          },
+          "price_range": "241-276万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,1 +1,42 @@
-{"id":"lincoln-corsair","brand_id":"lincoln","name_cn":"冒险家","name_en":"Corsair","intro":"林肯冒险家是一款紧凑型豪华SUV，是林肯在中国市场的主力车型之一。","category":"suv","generations":[{"id":"corsair-gen1","name":"第一代冒险家","year_start":2019,"variants":[{"id":"corsair-2023","name":"2023款 冒险家","year":2023,"body_type":"SUV","powertrain":"petrol","transmission":"8速手自一体","drivetrain":"awd","specs":{"length":4615,"width":1887,"height":1630,"wheelbase":2711,"weight":1800,"power":245,"torque":390,"zero_to_hundred":7.3,"top_speed":220},"price_range":"24.68-34.58万元"}]}],"image":"/series/lincoln-corsair.jpg"}
+{
+  "id": "lincoln-corsair",
+  "brand_id": "lincoln",
+  "name_cn": "冒险家",
+  "name_en": "Corsair",
+  "intro": "林肯冒险家是一款紧凑型豪华SUV，是林肯在中国市场的主力车型之一。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "corsair-gen1",
+      "name": "第一代冒险家",
+      "year_start": 2019,
+      "variants": [
+        {
+          "id": "corsair-2023",
+          "name": "2023款 冒险家",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "transmission": "8速手自一体",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4615,
+            "width": 1887,
+            "height": 1630,
+            "wheelbase": 2711,
+            "weight": 1800,
+            "power": 245,
+            "torque": 390,
+            "zero_to_hundred": 7.3,
+            "top_speed": 220
+          },
+          "price_range": "24.68-34.58万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/lincoln-corsair.jpg",
+  "gallery": [
+    "/series/lincoln-corsair.jpg"
+  ]
+}

@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/subaru-wrx.jpg"
+  "image": "/series/subaru-wrx.jpg",
+  "gallery": [
+    "/series/subaru-wrx.jpg"
+  ]
 }

@@ -37,7 +37,9 @@
     }
   ],
   "image": "/series/tesla-model3.jpg",
-  "gallery": ["/series/tesla-model3.jpg", "/series/tesla-model3-2.jpg", "/series/tesla-model3-3.jpg"],
+  "gallery": [
+    "/series/tesla-model3.jpg"
+  ],
   "reviews": [
     {
       "title": "Tesla Model 3 Highland Review - The Best Tesla Yet!",

@@ -39,5 +39,10 @@
       ]
     }
   ],
-  "image": "/series/hyundai-tucson.jpg"
+  "image": "/series/hyundai-tucson.jpg",
+  "gallery": [
+    "/series/hyundai-tucson.jpg",
+    "/series/hyundai-tucson-2.jpg",
+    "/series/hyundai-tucson-3.jpg"
+  ]
 }

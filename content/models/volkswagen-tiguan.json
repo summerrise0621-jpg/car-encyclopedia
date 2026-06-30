@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/volkswagen-tiguan.jpg"
+  "image": "/series/volkswagen-tiguan.jpg",
+  "gallery": [
+    "/series/volkswagen-tiguan.jpg"
+  ]
 }

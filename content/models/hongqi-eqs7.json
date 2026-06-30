@@ -1,1 +1,44 @@
-{"id":"hongqi-eqs7","brand_id":"hongqi","name_cn":"红旗E-QS7","name_en":"Hongqi E-QS7","intro":"红旗E-QS7是红旗品牌的大型纯电SUV，基于FME平台打造，搭载双电机四驱系统，定位于高端新能源SUV市场。","category":"suv","generations":[{"id":"hongqi-eqs7-gen1","name":"第一代","year_start":2023,"variants":[{"id":"hongqi-eqs7-2023-long-range","name":"长续航版","year":2023,"body_type":"SUV","powertrain":"bev","transmission":"单速变速箱","drivetrain":"awd","specs":{"length":5209,"width":2010,"height":1731,"wheelbase":3110,"weight":2750,"power":455,"torque":700,"zero_to_hundred":4.8,"top_speed":200},"price_range":"50.98-77.98万元"}]}],"image":"/series/hongqi-eqs7.jpg"}
+{
+  "id": "hongqi-eqs7",
+  "brand_id": "hongqi",
+  "name_cn": "红旗E-QS7",
+  "name_en": "Hongqi E-QS7",
+  "intro": "红旗E-QS7是红旗品牌的大型纯电SUV，基于FME平台打造，搭载双电机四驱系统，定位于高端新能源SUV市场。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "hongqi-eqs7-gen1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "hongqi-eqs7-2023-long-range",
+          "name": "长续航版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5209,
+            "width": 2010,
+            "height": 1731,
+            "wheelbase": 3110,
+            "weight": 2750,
+            "power": 455,
+            "torque": 700,
+            "zero_to_hundred": 4.8,
+            "top_speed": 200
+          },
+          "price_range": "50.98-77.98万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/hongqi-eqs7.jpg",
+  "gallery": [
+    "/series/hongqi-eqs7.jpg",
+    "/series/hongqi-eqs7-2.jpg",
+    "/series/hongqi-eqs7-3.jpg"
+  ]
+}

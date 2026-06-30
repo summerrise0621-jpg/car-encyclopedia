@@ -1,0 +1,45 @@
+{
+  "id": "peugeot-508",
+  "brand_id": "peugeot",
+  "name_cn": "标致508",
+  "name_en": "Peugeot 508",
+  "intro": "标致508是一款强调法式设计和操控质感的中型轿车，溜背车身和獠牙式日行灯让它在同级中很有辨识度。",
+  "category": "sedan",
+  "image": "/series/peugeot-508.jpg",
+  "gallery": [
+    "/series/peugeot-508.jpg"
+  ],
+  "generations": [
+    {
+      "id": "508-2",
+      "name": "第二代",
+      "year_start": 2018,
+      "variants": [
+        {
+          "id": "508-gt",
+          "name": "508 GT",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "1.8L涡轮增压四缸",
+          "transmission": "8速自动",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4870,
+            "width": 1855,
+            "height": 1455,
+            "wheelbase": 2848,
+            "weight": 1520,
+            "power": 211,
+            "torque": 300,
+            "zero_to_hundred": 8.2,
+            "top_speed": 230,
+            "displacement": 1.8,
+            "fuel_consumption": 6.5
+          },
+          "price_range": "16-22万元"
+        }
+      ]
+    }
+  ]
+}

@@ -40,7 +40,11 @@
     }
   ],
   "image": "/series/honda-accord.jpg",
-  "gallery": ["/series/honda-accord.jpg", "/series/honda-accord-2.jpg", "/series/honda-accord-3.jpg"],
+  "gallery": [
+    "/series/honda-accord.jpg",
+    "/series/honda-accord-2.jpg",
+    "/series/honda-accord-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Honda Accord 2024 Review - A Brilliant Family Sedan!",

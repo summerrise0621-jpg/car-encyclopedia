@@ -37,7 +37,11 @@
     }
   ],
   "image": "/series/byd-seal.jpg",
-  "gallery": ["/series/byd-seal.jpg", "/series/byd-seal-2.jpg", "/series/byd-seal-3.jpg"],
+  "gallery": [
+    "/series/byd-seal.jpg",
+    "/series/byd-seal-2.jpg",
+    "/series/byd-seal-3.jpg"
+  ],
   "reviews": [
     {
       "title": "BYD Seal Review - The Electric Car That Beats Tesla!",

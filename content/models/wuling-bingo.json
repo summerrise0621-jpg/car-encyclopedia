@@ -1,1 +1,42 @@
-{"id":"wuling-bingo","brand_id":"wuling","name_cn":"五菱缤果","name_en":"Wuling Bingo","intro":"五菱缤果是五菱品牌的小型纯电动车，以复古可爱的外观设计和实用的空间为卖点，定位高于宏光MINI EV，主打女性消费群体。","category":"hatchback","generations":[{"id":"wuling-bingo-gen1","name":"第一代","year_start":2023,"variants":[{"id":"wuling-bingo-2023-333km","name":"333km 灵犀互联款","year":2023,"body_type":"两厢车","powertrain":"bev","transmission":"单速变速箱","drivetrain":"fwd","specs":{"length":3950,"width":1708,"height":1580,"wheelbase":2560,"weight":1070,"power":50,"torque":150,"zero_to_hundred":0.0,"top_speed":130},"price_range":"5.98-8.38万元"}]}],"image":"/series/wuling-bingo.jpg"}
+{
+  "id": "wuling-bingo",
+  "brand_id": "wuling",
+  "name_cn": "五菱缤果",
+  "name_en": "Wuling Bingo",
+  "intro": "五菱缤果是五菱品牌的小型纯电动车，以复古可爱的外观设计和实用的空间为卖点，定位高于宏光MINI EV，主打女性消费群体。",
+  "category": "hatchback",
+  "generations": [
+    {
+      "id": "wuling-bingo-gen1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "wuling-bingo-2023-333km",
+          "name": "333km 灵犀互联款",
+          "year": 2023,
+          "body_type": "两厢车",
+          "powertrain": "bev",
+          "transmission": "单速变速箱",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 3950,
+            "width": 1708,
+            "height": 1580,
+            "wheelbase": 2560,
+            "weight": 1070,
+            "power": 50,
+            "torque": 150,
+            "zero_to_hundred": 0.0,
+            "top_speed": 130
+          },
+          "price_range": "5.98-8.38万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/wuling-bingo.jpg",
+  "gallery": [
+    "/series/wuling-bingo.jpg"
+  ]
+}

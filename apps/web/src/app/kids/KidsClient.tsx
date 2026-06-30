@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useCallback } from 'react';
 import Link from 'next/link';
 import type { Brand, Series } from '@/types';
 
@@ -10,6 +10,21 @@ interface KidsClientProps {
 }
 
 type Tab = 'gallery' | 'quiz' | 'categories' | 'stats';
+type QuizQuestion = {
+  brand: Brand;
+  options: string[];
+  correctAnswer: string;
+  image: string;
+};
+
+function imageFallback(e: React.SyntheticEvent<HTMLImageElement>, fallback: string, className = 'text-4xl font-black text-indigo-700') {
+  const target = e.target as HTMLImageElement;
+  target.style.display = 'none';
+  const parent = target.parentElement;
+  if (parent) {
+    parent.innerHTML = `<span class="${className}">${fallback}</span>`;
+  }
+}
 
 export default function KidsClient({ brands, allSeries }: KidsClientProps) {
   const [activeTab, setActiveTab] = useState<Tab>('gallery');
@@ -33,9 +48,9 @@ export default function KidsClient({ brands, allSeries }: KidsClientProps) {
   });
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50">
+    <div className="min-h-screen bg-gradient-to-br from-sky-50 via-indigo-50 to-amber-50 text-slate-900">
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 text-white py-12">
+      <section className="bg-gradient-to-r from-indigo-700 via-purple-700 to-rose-700 text-white py-12 shadow-lg">
         <div className="max-w-7xl mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-4">
             🚗 儿童汽车乐园 🎮
@@ -110,7 +125,7 @@ function LogoGallery({
             placeholder="🔍 搜索品牌名称..."
             value={searchTerm}
             onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full px-4 py-3 rounded-xl border-2 border-purple-200 focus:border-purple-500 focus:outline-none text-lg"
+            className="w-full px-4 py-3 rounded-xl border-2 border-indigo-300 bg-white text-slate-900 placeholder:text-slate-500 focus:border-indigo-600 focus:outline-none text-lg shadow-sm"
           />
         </div>
         <div className="flex flex-wrap gap-2">
@@ -120,8 +135,8 @@ function LogoGallery({
               onClick={() => setSelectedRegion(region.id)}
               className={`px-4 py-2 rounded-lg font-medium transition-all ${
                 selectedRegion === region.id
-                  ? 'bg-purple-500 text-white shadow-md'
-                  : 'bg-white hover:bg-purple-100'
+                  ? 'bg-indigo-700 text-white shadow-md'
+                  : 'bg-white text-slate-800 border border-slate-200 hover:bg-indigo-50 hover:text-indigo-800'
               }`}
             >
               {region.label}
@@ -136,20 +151,17 @@ function LogoGallery({
           <Link
             key={brand.id}
             href={`/brand/${brand.id}`}
-            className="group bg-white rounded-2xl p-4 shadow-md hover:shadow-xl transition-all hover:scale-105 text-center"
+            className="group bg-white rounded-2xl p-4 shadow-md border border-slate-200 hover:shadow-xl transition-all hover:scale-105 text-center"
           >
-            <div className="w-20 h-20 mx-auto mb-3 bg-gradient-to-br from-gray-50 to-gray-100 rounded-xl flex items-center justify-center overflow-hidden">
+            <div className="w-20 h-20 mx-auto mb-3 bg-gradient-to-br from-white to-slate-100 border border-slate-200 rounded-xl flex items-center justify-center overflow-hidden">
               <img
                 src={brand.logo}
                 alt={brand.name_cn}
                 className="w-16 h-16 object-contain group-hover:scale-110 transition-transform"
+                loading="lazy"
+                decoding="async"
                 onError={(e) => {
-                  const target = e.target as HTMLImageElement;
-                  target.style.display = 'none';
-                  const parent = target.parentElement;
-                  if (parent) {
-                    parent.innerHTML = `<span class="text-3xl font-bold text-purple-500">${brand.name_cn.charAt(0)}</span>`;
-                  }
+                  imageFallback(e, brand.name_cn.charAt(0));
                 }}
               />
             </div>
@@ -183,7 +195,7 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
   const [currentQuestion, setCurrentQuestion] = useState(0);
   const [score, setScore] = useState(0);
   const [totalQuestions] = useState(10);
-  const [questions, setQuestions] = useState<any[]>([]);
+  const [questions, setQuestions] = useState<QuizQuestion[]>([]);
   const [selectedAnswer, setSelectedAnswer] = useState<string | null>(null);
   const [showExplanation, setShowExplanation] = useState(false);
 
@@ -192,6 +204,8 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
     const selected = shuffled.slice(0, totalQuestions);
     
     return selected.map(brand => {
+      const brandSeries = allSeries.filter(s => s.brand_id === brand.id);
+      const randomSeries = brandSeries[Math.floor(Math.random() * Math.max(brandSeries.length, 1))];
       const wrongAnswers = brands
         .filter(b => b.id !== brand.id)
         .sort(() => Math.random() - 0.5)
@@ -204,7 +218,7 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
         brand,
         options,
         correctAnswer: brand.name_cn,
-        image: type === 'logo' ? brand.logo : `/series/${allSeries.find(s => s.brand_id === brand.id)?.id || 'placeholder'}.jpg`,
+        image: type === 'logo' ? brand.logo : (randomSeries?.image || `/series/${randomSeries?.id || 'placeholder'}.jpg`),
       };
     });
   }, [brands, allSeries, totalQuestions]);
@@ -248,19 +262,19 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
         <div className="grid md:grid-cols-2 gap-6 max-w-2xl mx-auto">
           <button
             onClick={() => startGame('logo')}
-            className="bg-gradient-to-br from-blue-400 to-blue-600 text-white p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105"
+            className="bg-white text-slate-900 border-4 border-sky-500 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105 hover:bg-sky-50"
           >
             <div className="text-5xl mb-4">🎨</div>
             <h3 className="text-2xl font-bold mb-2">看车标猜品牌</h3>
-            <p className="opacity-90">看车标图案，选出正确的品牌名称</p>
+            <p className="text-slate-700">看车标图案，选出正确的品牌名称</p>
           </button>
           <button
             onClick={() => startGame('car')}
-            className="bg-gradient-to-br from-purple-400 to-purple-600 text-white p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105"
+            className="bg-white text-slate-900 border-4 border-purple-600 p-8 rounded-2xl shadow-lg hover:shadow-xl transition-all hover:scale-105 hover:bg-purple-50"
           >
             <div className="text-5xl mb-4">🚗</div>
             <h3 className="text-2xl font-bold mb-2">看车型猜品牌</h3>
-            <p className="opacity-90">看汽车照片，猜猜它是什么品牌</p>
+            <p className="text-slate-700">看汽车照片，猜猜它是什么品牌</p>
           </button>
         </div>
       </div>
@@ -331,18 +345,15 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
         <h3 className="text-lg font-bold text-gray-800 mb-4 text-center">
           {quizType === 'logo' ? '这是哪个品牌的车标？' : '这是哪个品牌的汽车？'}
         </h3>
-        <div className="w-48 h-48 mx-auto bg-gradient-to-br from-gray-50 to-gray-100 rounded-2xl flex items-center justify-center overflow-hidden mb-6">
+        <div className="w-48 h-48 mx-auto bg-gradient-to-br from-white to-slate-100 border border-slate-200 rounded-2xl flex items-center justify-center overflow-hidden mb-6">
           <img
             src={question.image}
             alt="猜猜这是什么品牌"
-            className="w-40 h-40 object-contain"
+            className={quizType === 'logo' ? 'w-40 h-40 object-contain' : 'w-full h-full object-cover'}
+            loading="lazy"
+            decoding="async"
             onError={(e) => {
-              const target = e.target as HTMLImageElement;
-              target.style.display = 'none';
-              const parent = target.parentElement;
-              if (parent) {
-                parent.innerHTML = `<span class="text-6xl">🚗</span>`;
-              }
+              imageFallback(e, '🚗', 'text-6xl');
             }}
           />
         </div>
@@ -357,14 +368,14 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
             
             if (showExplanation) {
               if (isCorrect) {
-                buttonClass += "bg-green-500 text-white";
+                buttonClass += "bg-emerald-700 text-white ring-4 ring-emerald-200";
               } else if (isSelected && !isCorrect) {
-                buttonClass += "bg-red-500 text-white";
+                buttonClass += "bg-red-700 text-white ring-4 ring-red-200";
               } else {
-                buttonClass += "bg-gray-100 text-gray-400";
+                buttonClass += "bg-slate-100 text-slate-500 border border-slate-200";
               }
             } else {
-              buttonClass += "bg-gray-100 hover:bg-purple-100 hover:text-purple-600 cursor-pointer";
+              buttonClass += "bg-white text-slate-900 border-2 border-slate-300 hover:bg-indigo-50 hover:text-indigo-800 hover:border-indigo-400 cursor-pointer";
             }
 
             return (
@@ -384,7 +395,7 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
 
         {/* Explanation */}
         {showExplanation && (
-          <div className="mt-6 p-4 bg-purple-50 rounded-xl">
+          <div className="mt-6 p-4 bg-indigo-50 border border-indigo-200 rounded-xl">
             <p className="text-purple-800 font-medium">
               {selectedAnswer === question.correctAnswer
                 ? '🎉 回答正确！太棒了！'
@@ -395,7 +406,7 @@ function LogoQuiz({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
             </p>
             <button
               onClick={nextQuestion}
-              className="mt-4 w-full py-3 bg-purple-500 text-white rounded-xl font-bold hover:bg-purple-600 transition-colors"
+              className="mt-4 w-full py-3 bg-indigo-700 text-white rounded-xl font-bold hover:bg-indigo-800 transition-colors"
             >
               {currentQuestion + 1 >= totalQuestions ? '查看成绩' : '下一题'}
             </button>
@@ -442,8 +453,8 @@ function CarCategories({ brands, allSeries }: { brands: Brand[]; allSeries: Seri
             onClick={() => setSelectedCategory(selectedCategory === cat.id ? null : cat.id)}
             className={`p-6 rounded-2xl transition-all ${
               selectedCategory === cat.id
-                ? 'bg-purple-500 text-white shadow-lg scale-105'
-                : 'bg-white hover:bg-purple-50 shadow-md'
+                ? 'bg-indigo-700 text-white shadow-lg scale-105'
+                : 'bg-white text-slate-900 hover:bg-indigo-50 shadow-md border border-slate-200'
             }`}
           >
             <div className="text-4xl mb-3">{cat.emoji}</div>
@@ -472,20 +483,17 @@ function CarCategories({ brands, allSeries }: { brands: Brand[]; allSeries: Seri
                 <Link
                   key={series.id}
                   href={`/series/${series.id}`}
-                  className="group bg-gray-50 rounded-xl p-3 hover:bg-purple-50 transition-colors"
+                  className="group bg-white rounded-xl p-3 hover:bg-indigo-50 transition-colors border border-slate-200"
                 >
-                  <div className="w-full h-24 bg-gradient-to-br from-gray-100 to-gray-200 rounded-lg flex items-center justify-center overflow-hidden mb-2">
+                  <div className="w-full h-24 bg-gradient-to-br from-white to-slate-100 border border-slate-200 rounded-lg flex items-center justify-center overflow-hidden mb-2">
                     <img
                       src={series.image || `/series/${series.id}.jpg`}
                       alt={series.name_cn}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform"
+                      loading="lazy"
+                      decoding="async"
                       onError={(e) => {
-                        const target = e.target as HTMLImageElement;
-                        target.style.display = 'none';
-                        const parent = target.parentElement;
-                        if (parent) {
-                          parent.innerHTML = `<span class="text-3xl">${categories.find(c => c.id === selectedCategory)?.emoji || '🚗'}</span>`;
-                        }
+                        imageFallback(e, categories.find(c => c.id === selectedCategory)?.emoji || '🚗', 'text-3xl');
                       }}
                     />
                   </div>
@@ -515,14 +523,14 @@ function FunStats({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
       value: brands.length,
       suffix: '个',
       desc: '来自世界各地的知名汽车品牌',
-      color: 'from-blue-400 to-blue-600',
+      color: 'from-blue-700 to-blue-900',
     },
     {
       title: '🚗 车型系列',
       value: allSeries.length,
       suffix: '个',
       desc: '涵盖各种类型的汽车',
-      color: 'from-purple-400 to-purple-600',
+      color: 'from-purple-700 to-purple-900',
     },
     {
       title: '⚡ 最快车型',
@@ -533,7 +541,7 @@ function FunStats({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
       )),
       suffix: '秒',
       desc: '0-100km/h加速时间',
-      color: 'from-red-400 to-red-600',
+      color: 'from-red-700 to-red-900',
     },
     {
       title: '🏎️ 最高速度',
@@ -544,7 +552,7 @@ function FunStats({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
       )),
       suffix: 'km/h',
       desc: '最高时速记录',
-      color: 'from-orange-400 to-orange-600',
+      color: 'from-orange-700 to-orange-900',
     },
   ];
 
@@ -580,7 +588,7 @@ function FunStats({ brands, allSeries }: { brands: Brand[]; allSeries: Series[] 
         {stats.map((stat, index) => (
           <div
             key={index}
-            className={`bg-gradient-to-br ${stat.color} text-white rounded-2xl p-6 shadow-lg`}
+            className={`bg-gradient-to-br ${stat.color} text-white rounded-2xl p-6 shadow-lg ring-1 ring-black/10`}
           >
             <h3 className="text-lg font-bold mb-2">{stat.title}</h3>
             <div className="text-4xl font-bold mb-1">

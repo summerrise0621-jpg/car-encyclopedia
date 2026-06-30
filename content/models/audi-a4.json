@@ -40,7 +40,11 @@
     }
   ],
   "image": "/series/audi-a4.jpg",
-  "gallery": ["/series/audi-a4.jpg", "/series/audi-a4-2.jpg", "/series/audi-a4-3.jpg"],
+  "gallery": [
+    "/series/audi-a4.jpg",
+    "/series/audi-a4-2.jpg",
+    "/series/audi-a4-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Audi A4 Review - Still a Great Executive Sedan?",

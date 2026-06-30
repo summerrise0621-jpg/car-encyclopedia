@@ -37,5 +37,7 @@
     }
   ],
   "image": "/series/tesla-models.jpg",
-  "gallery": ["/series/tesla-models.jpg", "/series/tesla-models-2.jpg", "/series/tesla-models-3.jpg"]
+  "gallery": [
+    "/series/tesla-models.jpg"
+  ]
 }

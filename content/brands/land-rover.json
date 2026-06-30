@@ -5,14 +5,29 @@
   "country": "英国",
   "region": "europe",
   "founded_year": 1948,
-  "logo": "/images/brands/land-rover.svg",
+  "logo": "/logos/land-rover.svg",
   "intro": "路虎是英国豪华全地形SUV品牌，隶属于印度塔塔汽车旗下的捷豹路虎集团。品牌以卓越的越野能力和豪华质感闻名，揽胜系列是全球顶级豪华SUV的标杆。",
   "history": [
-    {"year": 1948, "event": "路虎Series I在阿姆斯特丹车展首次亮相"},
-    {"year": 1970, "event": "揽胜(Range Rover)车型发布，开创豪华越野车先河"},
-    {"year": 1989, "event": "发现(Discovery)车型推出，拓展产品线"},
-    {"year": 2008, "event": "福特将捷豹路虎出售给印度塔塔汽车"},
-    {"year": 2023, "event": "全新揽胜和卫士持续热销，电动化转型加速"}
+    {
+      "year": 1948,
+      "event": "路虎Series I在阿姆斯特丹车展首次亮相"
+    },
+    {
+      "year": 1970,
+      "event": "揽胜(Range Rover)车型发布，开创豪华越野车先河"
+    },
+    {
+      "year": 1989,
+      "event": "发现(Discovery)车型推出，拓展产品线"
+    },
+    {
+      "year": 2008,
+      "event": "福特将捷豹路虎出售给印度塔塔汽车"
+    },
+    {
+      "year": 2023,
+      "event": "全新揽胜和卫士持续热销，电动化转型加速"
+    }
   ],
   "official_site": "https://www.landrover.com"
 }

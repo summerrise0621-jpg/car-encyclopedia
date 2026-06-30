@@ -36,5 +36,8 @@
       ]
     }
   ],
-  "image": "/series/nio-et5.jpg"
+  "image": "/series/nio-et5.jpg",
+  "gallery": [
+    "/series/nio-et5.jpg"
+  ]
 }

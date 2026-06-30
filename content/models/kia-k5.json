@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/kia-k5.jpg"
+  "image": "/series/kia-k5.jpg",
+  "gallery": [
+    "/series/kia-k5.jpg",
+    "/series/kia-k5-2.jpg",
+    "/series/kia-k5-3.jpg"
+  ]
 }

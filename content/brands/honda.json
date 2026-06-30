@@ -5,15 +5,33 @@
   "country": "日本",
   "region": "japan",
   "founded_year": 1948,
-  "logo": "/images/brands/honda.png",
+  "logo": "/logos/honda.svg",
   "intro": "本田技研工业是日本知名汽车和摩托车制造商，以技术创新和运动精神著称。本田在发动机技术方面有深厚积累，同时也是全球最大的摩托车制造商。旗下思域和雅阁等车型深受消费者喜爱。",
   "history": [
-    {"year": 1948, "event": "本田技研工业株式会社成立"},
-    {"year": 1963, "event": "推出第一款汽车T360微型卡车"},
-    {"year": 1972, "event": "推出思域（Civic），以燃油经济性著称"},
-    {"year": 1976, "event": "推出雅阁（Accord），进军中型轿车市场"},
-    {"year": 1990, "event": "推出NSX超级跑车"},
-    {"year": 2022, "event": "e:NP1等纯电车型上市"}
+    {
+      "year": 1948,
+      "event": "本田技研工业株式会社成立"
+    },
+    {
+      "year": 1963,
+      "event": "推出第一款汽车T360微型卡车"
+    },
+    {
+      "year": 1972,
+      "event": "推出思域（Civic），以燃油经济性著称"
+    },
+    {
+      "year": 1976,
+      "event": "推出雅阁（Accord），进军中型轿车市场"
+    },
+    {
+      "year": 1990,
+      "event": "推出NSX超级跑车"
+    },
+    {
+      "year": 2022,
+      "event": "e:NP1等纯电车型上市"
+    }
   ],
   "official_site": "https://www.honda.com"
 }

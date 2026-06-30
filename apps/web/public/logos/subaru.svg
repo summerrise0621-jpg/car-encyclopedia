@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect x="20" y="50" width="160" height="100" rx="15" fill="#1A3A7A"/>
-  <polygon points="100,60 108,78 128,78 112,90 118,108 100,96 82,108 88,90 72,78 92,78" fill="#C0C0C0"/>
-  <circle cx="70" cy="80" r="6" fill="#C0C0C0"/>
-  <circle cx="130" cy="80" r="6" fill="#C0C0C0"/>
-  <circle cx="85" cy="115" r="5" fill="#C0C0C0"/>
-  <circle cx="115" cy="115" r="5" fill="#C0C0C0"/>
-  <circle cx="100" cy="128" r="4" fill="#C0C0C0"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="斯巴鲁 Subaru">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#BE123C" stroke-width="6"/>
+  <circle cx="100" cy="82" r="52" fill="#FFE4E6" stroke="#BE123C" stroke-width="8"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#BE123C">SUBARU</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">斯巴鲁</text>
 </svg>

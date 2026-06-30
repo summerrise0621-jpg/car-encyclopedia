@@ -1,0 +1,46 @@
+{
+  "id": "mini-clubman",
+  "brand_id": "mini",
+  "name_cn": "MINI Clubman",
+  "name_en": "MINI Clubman",
+  "intro": "MINI Clubman采用旅行车比例和独特对开尾门，兼具MINI的个性外观与更强装载能力，是很有辨识度的精品小车。",
+  "category": "wagon",
+  "image": "/series/mini-clubman.jpg",
+  "gallery": [
+    "/series/mini-clubman.jpg"
+  ],
+  "generations": [
+    {
+      "id": "clubman-f54",
+      "name": "第二代 (F54)",
+      "year_start": 2015,
+      "year_end": 2024,
+      "variants": [
+        {
+          "id": "clubman-s",
+          "name": "Clubman Cooper S",
+          "year": 2023,
+          "body_type": "wagon",
+          "powertrain": "petrol",
+          "engine": "2.0L涡轮增压四缸",
+          "transmission": "7速双离合",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4263,
+            "width": 1800,
+            "height": 1482,
+            "wheelbase": 2670,
+            "weight": 1490,
+            "power": 192,
+            "torque": 280,
+            "zero_to_hundred": 7.2,
+            "top_speed": 228,
+            "displacement": 2.0,
+            "fuel_consumption": 6.6
+          },
+          "price_range": "29-34万元"
+        }
+      ]
+    }
+  ]
+}

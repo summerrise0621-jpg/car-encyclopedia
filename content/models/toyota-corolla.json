@@ -40,7 +40,9 @@
     }
   ],
   "image": "/series/toyota-corolla.jpg",
-  "gallery": ["/series/toyota-corolla.jpg", "/series/toyota-corolla-2.jpg", "/series/toyota-corolla-3.jpg"],
+  "gallery": [
+    "/series/toyota-corolla.jpg"
+  ],
   "reviews": [
     {
       "title": "Toyota Corolla Review - The World's Best-Selling Car!",

@@ -40,5 +40,9 @@
     }
   ],
   "image": "/series/benz-e-class.jpg",
-  "gallery": ["/series/benz-e-class.jpg", "/series/benz-e-class-2.jpg", "/series/benz-e-class-3.jpg"]
+  "gallery": [
+    "/series/benz-e-class.jpg",
+    "/series/benz-e-class-2.jpg",
+    "/series/benz-e-class-3.jpg"
+  ]
 }

@@ -64,7 +64,11 @@
     }
   ],
   "image": "/series/benz-c-class.jpg",
-  "gallery": ["/series/benz-c-class.jpg", "/series/benz-c-class-2.jpg", "/series/benz-c-class-3.jpg"],
+  "gallery": [
+    "/series/benz-c-class.jpg",
+    "/series/benz-c-class-2.jpg",
+    "/series/benz-c-class-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Mercedes-Benz C-Class (W206) Review - Baby S-Class!",

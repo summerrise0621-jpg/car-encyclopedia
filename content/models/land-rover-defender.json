@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/land-rover-defender.jpg"
+  "image": "/series/land-rover-defender.jpg",
+  "gallery": [
+    "/series/land-rover-defender.jpg",
+    "/series/land-rover-defender-2.jpg",
+    "/series/land-rover-defender-3.jpg"
+  ]
 }

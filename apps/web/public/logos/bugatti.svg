@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><ellipse cx="100" cy="100" rx="85" ry="60" fill="none" stroke="#CC0000" stroke-width="4"/><ellipse cx="100" cy="100" rx="75" ry="50" fill="#CC0000"/><text x="100" y="85" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="28" fill="#FFFFFF">EB</text><text x="100" y="125" text-anchor="middle" font-family="Arial,sans-serif" font-size="14" fill="#FFD700">BUGATTI</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="布加迪 Bugatti">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <path d="M100 22 L154 50 L154 114 L100 150 L46 114 L46 50 Z" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#1D4ED8">BUGATTI</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">布加迪</text>
+</svg>

@@ -36,5 +36,8 @@
       ]
     }
   ],
-  "image": "/series/nissan-ariya.jpg"
+  "image": "/series/nissan-ariya.jpg",
+  "gallery": [
+    "/series/nissan-ariya.jpg"
+  ]
 }

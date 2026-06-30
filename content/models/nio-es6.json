@@ -37,5 +37,7 @@
     }
   ],
   "image": "/series/nio-es6.jpg",
-  "gallery": ["/series/nio-es6.jpg", "/series/nio-es6-2.jpg", "/series/nio-es6-3.jpg"]
+  "gallery": [
+    "/series/nio-es6.jpg"
+  ]
 }

@@ -39,5 +39,8 @@
       ]
     }
   ],
-  "image": "/series/volkswagen-golf.jpg"
+  "image": "/series/volkswagen-golf.jpg",
+  "gallery": [
+    "/series/volkswagen-golf.jpg"
+  ]
 }

@@ -40,7 +40,11 @@
     }
   ],
   "image": "/series/ford-mustang.jpg",
-  "gallery": ["/series/ford-mustang.jpg", "/series/ford-mustang-2.jpg", "/series/ford-mustang-3.jpg"],
+  "gallery": [
+    "/series/ford-mustang.jpg",
+    "/series/ford-mustang-2.jpg",
+    "/series/ford-mustang-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Ford Mustang Dark Horse Review - The Best V8 Muscle Car!",

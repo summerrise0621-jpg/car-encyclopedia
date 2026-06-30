@@ -5,15 +5,33 @@
   "country": "德国",
   "region": "europe",
   "founded_year": 1937,
-  "logo": "/images/brands/volkswagen.png",
+  "logo": "/logos/volkswagen.svg",
   "intro": "大众汽车是德国最大的汽车制造商，也是全球最大的汽车集团之一。Volkswagen意为「人民的汽车」，以生产高品质、高性价比的家用车闻名。大众集团旗下拥有大众、奥迪、保时捷等多个品牌。",
   "history": [
-    {"year": 1937, "event": "大众汽车公司成立"},
-    {"year": 1938, "event": "甲壳虫原型车问世"},
-    {"year": 1974, "event": "第一代高尔夫问世，成为经典车型"},
-    {"year": 1984, "event": "进入中国市场，成立上海大众"},
-    {"year": 2002, "event": "推出辉腾，进军豪华车市场"},
-    {"year": 2020, "event": "ID.系列电动车上市，加速电动化转型"}
+    {
+      "year": 1937,
+      "event": "大众汽车公司成立"
+    },
+    {
+      "year": 1938,
+      "event": "甲壳虫原型车问世"
+    },
+    {
+      "year": 1974,
+      "event": "第一代高尔夫问世，成为经典车型"
+    },
+    {
+      "year": 1984,
+      "event": "进入中国市场，成立上海大众"
+    },
+    {
+      "year": 2002,
+      "event": "推出辉腾，进军豪华车市场"
+    },
+    {
+      "year": 2020,
+      "event": "ID.系列电动车上市，加速电动化转型"
+    }
   ],
   "official_site": "https://www.volkswagen.com"
 }

@@ -1,1 +1,44 @@
-{"id":"hongqi-h9","brand_id":"hongqi","name_cn":"红旗H9","name_en":"Hongqi H9","intro":"红旗H9是红旗品牌的旗舰豪华轿车，采用全新设计语言，定位中大型豪华轿车。以大气庄重的外观和豪华的内饰著称，搭载2.0T和3.0T发动机。","category":"sedan","generations":[{"id":"hongqi-h9-gen1","name":"第一代","year_start":2020,"variants":[{"id":"hongqi-h9-2020-2.0t","name":"2.0T 智联旗享版","year":2020,"body_type":"四门轿车","powertrain":"petrol","transmission":"7挡双离合","drivetrain":"rwd","specs":{"length":5137,"width":1904,"height":1493,"wheelbase":3060,"weight":1875,"power":252,"torque":380,"zero_to_hundred":7.8,"top_speed":230},"price_range":"30.98-53.98万元"}]}],"image":"/series/hongqi-h9.jpg"}
+{
+  "id": "hongqi-h9",
+  "brand_id": "hongqi",
+  "name_cn": "红旗H9",
+  "name_en": "Hongqi H9",
+  "intro": "红旗H9是红旗品牌的旗舰豪华轿车，采用全新设计语言，定位中大型豪华轿车。以大气庄重的外观和豪华的内饰著称，搭载2.0T和3.0T发动机。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "hongqi-h9-gen1",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "hongqi-h9-2020-2.0t",
+          "name": "2.0T 智联旗享版",
+          "year": 2020,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "7挡双离合",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5137,
+            "width": 1904,
+            "height": 1493,
+            "wheelbase": 3060,
+            "weight": 1875,
+            "power": 252,
+            "torque": 380,
+            "zero_to_hundred": 7.8,
+            "top_speed": 230
+          },
+          "price_range": "30.98-53.98万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/hongqi-h9.jpg",
+  "gallery": [
+    "/series/hongqi-h9.jpg",
+    "/series/hongqi-h9-2.jpg",
+    "/series/hongqi-h9-3.jpg"
+  ]
+}

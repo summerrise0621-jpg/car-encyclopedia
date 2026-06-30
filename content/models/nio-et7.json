@@ -37,7 +37,9 @@
     }
   ],
   "image": "/series/nio-et7.jpg",
-  "gallery": ["/series/nio-et7.jpg", "/series/nio-et7-2.jpg", "/series/nio-et7-3.jpg"],
+  "gallery": [
+    "/series/nio-et7.jpg"
+  ],
   "reviews": [
     {
       "title": "NIO ET7 Review - The Chinese Luxury Electric Sedan!",

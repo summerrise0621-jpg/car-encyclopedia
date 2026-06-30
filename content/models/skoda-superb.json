@@ -1,1 +1,42 @@
-{"id":"skoda-superb","brand_id":"skoda","name_cn":"斯柯达速派","name_en":"Skoda Superb","intro":"斯柯达速派是斯柯达的旗舰轿车，基于大众MQB平台打造，以宽敞的后排空间和高配置水平著称，是中大型轿车市场的高性价比之选。","category":"sedan","generations":[{"id":"skoda-superb-gen4","name":"第四代","year_start":2024,"variants":[{"id":"skoda-superb-2024-tsi","name":"速派 TSI 190","year":2024,"body_type":"四门轿车","powertrain":"petrol","transmission":"7速双离合变速箱","drivetrain":"fwd","specs":{"length":4912,"width":1867,"height":1478,"wheelbase":2841,"weight":1550,"power":190,"torque":320,"zero_to_hundred":7.4,"top_speed":230},"price_range":"18.99-25.99万元"}]}],"image":"/series/skoda-superb.jpg"}
+{
+  "id": "skoda-superb",
+  "brand_id": "skoda",
+  "name_cn": "斯柯达速派",
+  "name_en": "Skoda Superb",
+  "intro": "斯柯达速派是斯柯达的旗舰轿车，基于大众MQB平台打造，以宽敞的后排空间和高配置水平著称，是中大型轿车市场的高性价比之选。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "skoda-superb-gen4",
+      "name": "第四代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "skoda-superb-2024-tsi",
+          "name": "速派 TSI 190",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "7速双离合变速箱",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4912,
+            "width": 1867,
+            "height": 1478,
+            "wheelbase": 2841,
+            "weight": 1550,
+            "power": 190,
+            "torque": 320,
+            "zero_to_hundred": 7.4,
+            "top_speed": 230
+          },
+          "price_range": "18.99-25.99万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/skoda-superb.jpg",
+  "gallery": [
+    "/series/skoda-superb.jpg"
+  ]
+}

@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <circle cx="100" cy="100" r="90" fill="#001E50" stroke="#C0C0C0" stroke-width="4"/>
-  <circle cx="100" cy="100" r="80" fill="none" stroke="#C0C0C0" stroke-width="3"/>
-  <path d="M78 75 L100 60 L122 75 L122 130 L100 145 L78 130 Z" fill="none" stroke="#fff" stroke-width="6" stroke-linejoin="round"/>
-  <path d="M100 60 L100 145" fill="none" stroke="#fff" stroke-width="5"/>
-  <path d="M78 90 L100 78 L122 90" fill="none" stroke="#fff" stroke-width="4"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="大众 Volkswagen">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <circle cx="100" cy="82" r="52" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#1D4ED8">VW</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">大众</text>
 </svg>

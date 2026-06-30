@@ -1,1 +1,44 @@
-{"id":"genesis-g70","brand_id":"genesis","name_cn":"G70","name_en":"G70","intro":"捷尼赛思G70是一款紧凑型豪华运动轿车，对标宝马3系和奔驰C级。","category":"sedan","generations":[{"id":"g70-gen1","name":"第一代G70","year_start":2017,"variants":[{"id":"g70-2023","name":"2023款 G70","year":2023,"body_type":"四门轿车","powertrain":"petrol","transmission":"8速手自一体","drivetrain":"rwd","specs":{"length":4685,"width":1850,"height":1400,"wheelbase":2835,"weight":1595,"power":252,"torque":353,"zero_to_hundred":6.1,"top_speed":250},"price_range":"24.98-33.98万元"}]}],"image":"/series/genesis-g70.jpg"}
+{
+  "id": "genesis-g70",
+  "brand_id": "genesis",
+  "name_cn": "G70",
+  "name_en": "G70",
+  "intro": "捷尼赛思G70是一款紧凑型豪华运动轿车，对标宝马3系和奔驰C级。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "g70-gen1",
+      "name": "第一代G70",
+      "year_start": 2017,
+      "variants": [
+        {
+          "id": "g70-2023",
+          "name": "2023款 G70",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "8速手自一体",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4685,
+            "width": 1850,
+            "height": 1400,
+            "wheelbase": 2835,
+            "weight": 1595,
+            "power": 252,
+            "torque": 353,
+            "zero_to_hundred": 6.1,
+            "top_speed": 250
+          },
+          "price_range": "24.98-33.98万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/genesis-g70.jpg",
+  "gallery": [
+    "/series/genesis-g70.jpg",
+    "/series/genesis-g70-2.jpg",
+    "/series/genesis-g70-3.jpg"
+  ]
+}

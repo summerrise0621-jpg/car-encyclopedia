@@ -1,6 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <path d="M70 45 L90 45 L100 60 L110 45 L130 45 L120 85 L130 125 L110 125 L100 110 L90 125 L70 125 L80 85 Z" fill="#CC0000" transform="rotate(-12 100 85)"/>
-  <path d="M70 45 L90 45 L100 60 L110 45 L130 45 L120 85 L130 125 L110 125 L100 110 L90 125 L70 125 L80 85 Z" fill="#C4A747"/>
-  <path d="M82 45 L102 45 L112 60 L122 45 L142 45 L132 85 L142 125 L122 125 L112 110 L102 125 L82 125 L92 85 Z" fill="#CC0000"/>
-  <path d="M94 45 L114 45 L124 60 L134 45 L154 45 L144 85 L154 125 L134 125 L124 110 L114 125 L94 125 L104 85 Z" fill="#003478"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="别克 Buick">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#B91C1C" stroke-width="6"/>
+  <path d="M100 22 L154 50 L154 114 L100 150 L46 114 L46 50 Z" fill="#FEE2E2" stroke="#B91C1C" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#B91C1C">BUICK</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">别克</text>
 </svg>

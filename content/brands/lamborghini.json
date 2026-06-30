@@ -5,14 +5,29 @@
   "country": "意大利",
   "region": "europe",
   "founded_year": 1963,
-  "logo": "/images/brands/lamborghini.svg",
+  "logo": "/logos/lamborghini.svg",
   "intro": "兰博基尼是意大利超级跑车制造商，隶属于大众汽车集团旗下。品牌以极具攻击性的设计和狂暴的性能著称，公牛标志象征着不屈的力量，是全球超跑爱好者的梦想之车。",
   "history": [
-    {"year": 1963, "event": "费鲁吉欧·兰博基尼创立公司，立志打造超越法拉利的超跑"},
-    {"year": 1966, "event": "传奇车型Miura发布，开创中置发动机超跑先河"},
-    {"year": 1974, "event": "Countach以其楔形设计震惊世界"},
-    {"year": 1998, "event": "大众汽车集团收购兰博基尼"},
-    {"year": 2018, "event": "Urus超级SUV上市，大幅拓展市场"}
+    {
+      "year": 1963,
+      "event": "费鲁吉欧·兰博基尼创立公司，立志打造超越法拉利的超跑"
+    },
+    {
+      "year": 1966,
+      "event": "传奇车型Miura发布，开创中置发动机超跑先河"
+    },
+    {
+      "year": 1974,
+      "event": "Countach以其楔形设计震惊世界"
+    },
+    {
+      "year": 1998,
+      "event": "大众汽车集团收购兰博基尼"
+    },
+    {
+      "year": 2018,
+      "event": "Urus超级SUV上市，大幅拓展市场"
+    }
   ],
   "official_site": "https://www.lamborghini.com"
 }

@@ -63,5 +63,9 @@
     }
   ],
   "image": "/series/bmw-7-series.jpg",
-  "gallery": ["/series/bmw-7-series.jpg", "/series/bmw-7-series-2.jpg", "/series/bmw-7-series-3.jpg"]
+  "gallery": [
+    "/series/bmw-7-series.jpg",
+    "/series/bmw-7-series-2.jpg",
+    "/series/bmw-7-series-3.jpg"
+  ]
 }

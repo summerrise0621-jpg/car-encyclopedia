@@ -1,0 +1,44 @@
+{
+  "id": "rimac-nevera-r",
+  "brand_id": "rimac",
+  "name_cn": "锐马克Nevera R",
+  "name_en": "Rimac Nevera R",
+  "intro": "Nevera R是Rimac电动超跑的更激进版本，突出赛道性能、空气动力学和四电机扭矩矢量控制。",
+  "category": "coupe",
+  "image": "/series/rimac-nevera-r.jpg",
+  "gallery": [
+    "/series/rimac-nevera-r.jpg"
+  ],
+  "generations": [
+    {
+      "id": "nevera-r-1",
+      "name": "第一代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "nevera-r",
+          "name": "Nevera R",
+          "year": 2024,
+          "body_type": "coupe",
+          "powertrain": "bev",
+          "transmission": "单速电驱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4750,
+            "width": 1986,
+            "height": 1208,
+            "wheelbase": 2745,
+            "weight": 2300,
+            "power": 2107,
+            "torque": 2340,
+            "zero_to_hundred": 1.8,
+            "top_speed": 412,
+            "range": 490,
+            "battery": 108
+          },
+          "price_range": "约230万欧元"
+        }
+      ]
+    }
+  ]
+}

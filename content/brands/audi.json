@@ -5,15 +5,33 @@
   "country": "德国",
   "region": "europe",
   "founded_year": 1909,
-  "logo": "/images/brands/audi.png",
+  "logo": "/logos/audi.svg",
   "intro": "奥迪是德国大众集团旗下的豪华汽车品牌，总部位于英戈尔施塔特。以四环标志闻名，代表四家公司的合并。奥迪以先进技术和精致工艺著称，是全球最受欢迎的豪华品牌之一。",
   "history": [
-    {"year": 1909, "event": "奥古斯特·霍希创立奥迪公司"},
-    {"year": 1932, "event": "四家公司合并为汽车联盟，四环标志诞生"},
-    {"year": 1968, "event": "推出奥迪100，奠定品牌基础"},
-    {"year": 1980, "event": "推出Quattro四驱系统，开创四驱轿车时代"},
-    {"year": 1994, "event": "推出A4系列，成为销量支柱"},
-    {"year": 2018, "event": "推出e-tron纯电SUV，开启电动化"}
+    {
+      "year": 1909,
+      "event": "奥古斯特·霍希创立奥迪公司"
+    },
+    {
+      "year": 1932,
+      "event": "四家公司合并为汽车联盟，四环标志诞生"
+    },
+    {
+      "year": 1968,
+      "event": "推出奥迪100，奠定品牌基础"
+    },
+    {
+      "year": 1980,
+      "event": "推出Quattro四驱系统，开创四驱轿车时代"
+    },
+    {
+      "year": 1994,
+      "event": "推出A4系列，成为销量支柱"
+    },
+    {
+      "year": 2018,
+      "event": "推出e-tron纯电SUV，开启电动化"
+    }
   ],
   "official_site": "https://www.audi.com"
 }

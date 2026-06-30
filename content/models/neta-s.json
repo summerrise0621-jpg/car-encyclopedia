@@ -1,1 +1,42 @@
-{"id":"neta-s","brand_id":"neta","name_cn":"哪吒S","name_en":"Neta S","intro":"哪吒S是哪吒品牌的中大型轿跑车，定位运动型智能轿跑。搭载双电机四驱系统和先进的智能驾驶辅助系统，以高性能和智能化为卖点。","category":"coupe","generations":[{"id":"neta-s-gen1","name":"第一代","year_start":2022,"variants":[{"id":"neta-s-2023-715km","name":"715km 后驱大版","year":2023,"body_type":"跑车","powertrain":"bev","transmission":"单速变速箱","drivetrain":"rwd","specs":{"length":4980,"width":1980,"height":1450,"wheelbase":2980,"weight":1990,"power":170,"torque":310,"zero_to_hundred":6.9,"top_speed":190},"price_range":"15.98-26.98万元"}]}],"image":"/series/neta-s.jpg"}
+{
+  "id": "neta-s",
+  "brand_id": "neta",
+  "name_cn": "哪吒S",
+  "name_en": "Neta S",
+  "intro": "哪吒S是哪吒品牌的中大型轿跑车，定位运动型智能轿跑。搭载双电机四驱系统和先进的智能驾驶辅助系统，以高性能和智能化为卖点。",
+  "category": "coupe",
+  "generations": [
+    {
+      "id": "neta-s-gen1",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "neta-s-2023-715km",
+          "name": "715km 后驱大版",
+          "year": 2023,
+          "body_type": "跑车",
+          "powertrain": "bev",
+          "transmission": "单速变速箱",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4980,
+            "width": 1980,
+            "height": 1450,
+            "wheelbase": 2980,
+            "weight": 1990,
+            "power": 170,
+            "torque": 310,
+            "zero_to_hundred": 6.9,
+            "top_speed": 190
+          },
+          "price_range": "15.98-26.98万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/neta-s.jpg",
+  "gallery": [
+    "/series/neta-s.jpg"
+  ]
+}

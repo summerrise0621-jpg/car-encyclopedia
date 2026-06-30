@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/volvo-xc90.jpg"
+  "image": "/series/volvo-xc90.jpg",
+  "gallery": [
+    "/series/volvo-xc90.jpg"
+  ]
 }

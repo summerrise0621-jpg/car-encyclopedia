@@ -1,0 +1,47 @@
+{
+  "id": "land-rover-discovery",
+  "brand_id": "land-rover",
+  "name_cn": "路虎发现",
+  "name_en": "Land Rover Discovery",
+  "intro": "路虎发现是兼顾豪华、七座空间与越野能力的中大型SUV，擅长长途旅行、复杂路况和家庭出行。",
+  "category": "suv",
+  "image": "/series/land-rover-discovery.jpg",
+  "gallery": [
+    "/series/land-rover-discovery.jpg",
+    "/series/land-rover-discovery-2.jpg",
+    "/series/land-rover-discovery-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "discovery-l462",
+      "name": "第五代 (L462)",
+      "year_start": 2017,
+      "variants": [
+        {
+          "id": "discovery-p360",
+          "name": "Discovery P360",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "hybrid",
+          "engine": "3.0L直六涡轮增压+48V",
+          "transmission": "8速自动",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4956,
+            "width": 2073,
+            "height": 1888,
+            "wheelbase": 2923,
+            "weight": 2437,
+            "power": 360,
+            "torque": 500,
+            "zero_to_hundred": 6.5,
+            "top_speed": 209,
+            "displacement": 3.0,
+            "fuel_consumption": 9.3
+          },
+          "price_range": "65-89万元"
+        }
+      ]
+    }
+  ]
+}

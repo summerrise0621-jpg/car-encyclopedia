@@ -39,7 +39,11 @@
     }
   ],
   "image": "/series/lamborghini-huracan.jpg",
-  "gallery": ["/series/lamborghini-huracan.jpg", "/series/lamborghini-huracan-2.jpg", "/series/lamborghini-huracan-3.jpg"],
+  "gallery": [
+    "/series/lamborghini-huracan.jpg",
+    "/series/lamborghini-huracan-2.jpg",
+    "/series/lamborghini-huracan-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Lamborghini Huracan STO Review - The Best Lamborghini!",

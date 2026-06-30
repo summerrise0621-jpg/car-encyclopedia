@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><path d="M100,15 L170,50 L170,150 L100,185 L30,150 L30,50 Z" fill="#1A1A1A" stroke="#DAA520" stroke-width="3"/><text x="100" y="120" text-anchor="middle" font-family="Georgia,serif" font-weight="bold" font-size="72" fill="#DAA520">P</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="帕加尼 Pagani">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <path d="M100 25 L160 82 L100 139 L40 82 Z" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#1D4ED8">PAGANI</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">帕加尼</text>
+</svg>

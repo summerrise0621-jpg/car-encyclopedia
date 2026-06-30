@@ -5,15 +5,33 @@
   "country": "中国",
   "region": "china",
   "founded_year": 2015,
-  "logo": "/images/brands/li-auto.svg",
+  "logo": "/logos/li-auto.svg",
   "intro": "理想汽车是中国领先的新能源汽车制造商，由李想于2015年创立。品牌专注于增程式电动SUV，以大空间、家庭用户场景为核心卖点，理想L系列产品在中国市场取得了巨大成功。",
   "history": [
-    {"year": 2015, "event": "车和家（理想汽车前身）正式成立"},
-    {"year": 2018, "event": "更名为理想汽车，发布品牌战略"},
-    {"year": 2019, "event": "首款车型理想ONE正式交付"},
-    {"year": 2022, "event": "理想L9发布，开启L系列产品矩阵"},
-    {"year": 2023, "event": "理想L7和L8上市，月销量突破4万辆"},
-    {"year": 2024, "event": "理想MEGA纯电MPV发布，探索纯电领域"}
+    {
+      "year": 2015,
+      "event": "车和家（理想汽车前身）正式成立"
+    },
+    {
+      "year": 2018,
+      "event": "更名为理想汽车，发布品牌战略"
+    },
+    {
+      "year": 2019,
+      "event": "首款车型理想ONE正式交付"
+    },
+    {
+      "year": 2022,
+      "event": "理想L9发布，开启L系列产品矩阵"
+    },
+    {
+      "year": 2023,
+      "event": "理想L7和L8上市，月销量突破4万辆"
+    },
+    {
+      "year": 2024,
+      "event": "理想MEGA纯电MPV发布，探索纯电领域"
+    }
   ],
   "official_site": "https://www.lixiang.com"
 }

@@ -1,1 +1,42 @@
-{"id":"wuling-starlight","brand_id":"wuling","name_cn":"五菱星光","name_en":"Wuling Starlight","intro":"五菱星光是五菱品牌的紧凑型轿车，提供插电混动和纯电两种动力版本，是五菱品牌向新能源轿车市场拓展的重要车型。","category":"sedan","generations":[{"id":"wuling-starlight-gen1","name":"第一代","year_start":2023,"variants":[{"id":"wuling-starlight-2024-phev","name":"150km 进阶版 PHEV","year":2024,"body_type":"四门轿车","powertrain":"phev","transmission":"E-CVT","drivetrain":"fwd","specs":{"length":4835,"width":1860,"height":1515,"wheelbase":2800,"weight":1520,"power":150,"torque":320,"zero_to_hundred":7.9,"top_speed":185},"price_range":"8.58-10.58万元"}]}],"image":"/series/wuling-starlight.jpg"}
+{
+  "id": "wuling-starlight",
+  "brand_id": "wuling",
+  "name_cn": "五菱星光",
+  "name_en": "Wuling Starlight",
+  "intro": "五菱星光是五菱品牌的紧凑型轿车，提供插电混动和纯电两种动力版本，是五菱品牌向新能源轿车市场拓展的重要车型。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "wuling-starlight-gen1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "wuling-starlight-2024-phev",
+          "name": "150km 进阶版 PHEV",
+          "year": 2024,
+          "body_type": "四门轿车",
+          "powertrain": "phev",
+          "transmission": "E-CVT",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4835,
+            "width": 1860,
+            "height": 1515,
+            "wheelbase": 2800,
+            "weight": 1520,
+            "power": 150,
+            "torque": 320,
+            "zero_to_hundred": 7.9,
+            "top_speed": 185
+          },
+          "price_range": "8.58-10.58万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/wuling-starlight.jpg",
+  "gallery": [
+    "/series/wuling-starlight.jpg"
+  ]
+}

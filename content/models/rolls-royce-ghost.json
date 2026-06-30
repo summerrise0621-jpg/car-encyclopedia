@@ -39,7 +39,9 @@
     }
   ],
   "image": "/series/rolls-royce-ghost.jpg",
-  "gallery": ["/series/rolls-royce-ghost.jpg", "/series/rolls-royce-ghost-2.jpg", "/series/rolls-royce-ghost-3.jpg"],
+  "gallery": [
+    "/series/rolls-royce-ghost.jpg"
+  ],
   "reviews": [
     {
       "title": "Rolls-Royce Ghost Review - The Ultimate Luxury Car!",

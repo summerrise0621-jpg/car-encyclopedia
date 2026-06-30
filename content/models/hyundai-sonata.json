@@ -38,5 +38,9 @@
       ]
     }
   ],
-  "image": "/series/hyundai-sonata.jpg"
+  "image": "/series/hyundai-sonata.jpg",
+  "gallery": [
+    "/series/hyundai-sonata.jpg",
+    "/series/hyundai-sonata-2.jpg"
+  ]
 }

@@ -36,5 +36,10 @@
       ]
     }
   ],
-  "image": "/series/hyundai-ioniq5.jpg"
+  "image": "/series/hyundai-ioniq5.jpg",
+  "gallery": [
+    "/series/hyundai-ioniq5.jpg",
+    "/series/hyundai-ioniq5-2.jpg",
+    "/series/hyundai-ioniq5-3.jpg"
+  ]
 }

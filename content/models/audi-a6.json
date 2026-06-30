@@ -40,7 +40,11 @@
     }
   ],
   "image": "/series/audi-a6.jpg",
-  "gallery": ["/series/audi-a6.jpg", "/series/audi-a6-2.jpg", "/series/audi-a6-3.jpg"],
+  "gallery": [
+    "/series/audi-a6.jpg",
+    "/series/audi-a6-2.jpg",
+    "/series/audi-a6-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Audi A6 Review - Tech-Focused Luxury Sedan!",

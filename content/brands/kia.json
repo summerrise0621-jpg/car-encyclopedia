@@ -5,15 +5,33 @@
   "country": "韩国",
   "region": "korea",
   "founded_year": 1944,
-  "logo": "/images/brands/kia.svg",
+  "logo": "/logos/kia.svg",
   "intro": "起亚是韩国历史最悠久的汽车制造商，创立于1944年，现为现代起亚汽车集团成员。品牌以时尚的设计、丰富的配置和出色的性价比闻名全球，近年在电动车领域表现亮眼，EV系列获得广泛好评。",
   "history": [
-    {"year": 1944, "event": "京城精密工业成立，起亚前身"},
-    {"year": 1974, "event": "推出首款自主品牌轿车Brisa"},
-    {"year": 1998, "event": "亚洲金融危机后并入现代汽车集团"},
-    {"year": 2004, "event": "Sportage狮跑换代，成为全球热销SUV"},
-    {"year": 2021, "event": "发布全新品牌标识和战略，全面向电动化转型"},
-    {"year": 2022, "event": "EV6上市，获得欧洲年度车型大奖"}
+    {
+      "year": 1944,
+      "event": "京城精密工业成立，起亚前身"
+    },
+    {
+      "year": 1974,
+      "event": "推出首款自主品牌轿车Brisa"
+    },
+    {
+      "year": 1998,
+      "event": "亚洲金融危机后并入现代汽车集团"
+    },
+    {
+      "year": 2004,
+      "event": "Sportage狮跑换代，成为全球热销SUV"
+    },
+    {
+      "year": 2021,
+      "event": "发布全新品牌标识和战略，全面向电动化转型"
+    },
+    {
+      "year": 2022,
+      "event": "EV6上市，获得欧洲年度车型大奖"
+    }
   ],
   "official_site": "https://www.kia.com"
 }

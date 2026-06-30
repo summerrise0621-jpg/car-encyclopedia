@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/geely-preface.jpg"
+  "image": "/series/geely-preface.jpg",
+  "gallery": [
+    "/series/geely-preface.jpg",
+    "/series/geely-preface-2.jpg",
+    "/series/geely-preface-3.jpg"
+  ]
 }

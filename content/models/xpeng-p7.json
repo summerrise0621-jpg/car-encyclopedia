@@ -37,7 +37,9 @@
     }
   ],
   "image": "/series/xpeng-p7.jpg",
-  "gallery": ["/series/xpeng-p7.jpg", "/series/xpeng-p7-2.jpg", "/series/xpeng-p7-3.jpg"],
+  "gallery": [
+    "/series/xpeng-p7.jpg"
+  ],
   "reviews": [
     {
       "title": "XPENG P7 Review - China's Smartest Electric Car!",

@@ -1,1 +1,42 @@
-{"id":"lincoln-z","brand_id":"lincoln","name_cn":"林肯Z","name_en":"Z","intro":"林肯Z是一款中型豪华轿车，专为中国市场设计，融合美式豪华与东方审美。","category":"sedan","generations":[{"id":"z-gen1","name":"第一代林肯Z","year_start":2022,"variants":[{"id":"z-2023","name":"2023款 林肯Z","year":2023,"body_type":"四门轿车","powertrain":"petrol","transmission":"8速手自一体","drivetrain":"fwd","specs":{"length":4982,"width":1865,"height":1485,"wheelbase":2930,"weight":1710,"power":245,"torque":376,"zero_to_hundred":7.0,"top_speed":230},"price_range":"25.28-34.08万元"}]}],"image":"/series/lincoln-z.jpg"}
+{
+  "id": "lincoln-z",
+  "brand_id": "lincoln",
+  "name_cn": "林肯Z",
+  "name_en": "Z",
+  "intro": "林肯Z是一款中型豪华轿车，专为中国市场设计，融合美式豪华与东方审美。",
+  "category": "sedan",
+  "generations": [
+    {
+      "id": "z-gen1",
+      "name": "第一代林肯Z",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "z-2023",
+          "name": "2023款 林肯Z",
+          "year": 2023,
+          "body_type": "四门轿车",
+          "powertrain": "petrol",
+          "transmission": "8速手自一体",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 4982,
+            "width": 1865,
+            "height": 1485,
+            "wheelbase": 2930,
+            "weight": 1710,
+            "power": 245,
+            "torque": 376,
+            "zero_to_hundred": 7.0,
+            "top_speed": 230
+          },
+          "price_range": "25.28-34.08万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/lincoln-z.jpg",
+  "gallery": [
+    "/series/lincoln-z.jpg"
+  ]
+}

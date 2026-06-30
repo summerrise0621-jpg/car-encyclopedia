@@ -39,7 +39,11 @@
     }
   ],
   "image": "/series/lamborghini-urus.jpg",
-  "gallery": ["/series/lamborghini-urus.jpg", "/series/lamborghini-urus-2.jpg", "/series/lamborghini-urus-3.jpg"],
+  "gallery": [
+    "/series/lamborghini-urus.jpg",
+    "/series/lamborghini-urus-2.jpg",
+    "/series/lamborghini-urus-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Lamborghini Urus Review - The World's First Super SUV!",

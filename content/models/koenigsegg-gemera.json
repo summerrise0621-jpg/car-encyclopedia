@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/koenigsegg-gemera.jpg"
+  "image": "/series/koenigsegg-gemera.jpg",
+  "gallery": [
+    "/series/koenigsegg-gemera.jpg",
+    "/series/koenigsegg-gemera-2.jpg",
+    "/series/koenigsegg-gemera-3.jpg"
+  ]
 }

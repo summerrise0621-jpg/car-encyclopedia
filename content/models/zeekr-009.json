@@ -1,1 +1,42 @@
-{"id":"zeekr-009","brand_id":"zeekr","name_cn":"极氪009","name_en":"Zeekr 009","intro":"极氪009是极氪品牌的豪华纯电MPV，定位高端商务出行。基于SEA浩瀚架构打造，以豪华的内饰空间和先进的智能配置为卖点。","category":"mpv","generations":[{"id":"zeekr-009-gen1","name":"第一代","year_start":2022,"variants":[{"id":"zeekr-009-2023-grand","name":"Grand版","year":2023,"body_type":"MPV","powertrain":"bev","transmission":"单速变速箱","drivetrain":"awd","specs":{"length":5209,"width":2024,"height":1856,"wheelbase":3205,"weight":2850,"power":400,"torque":686,"zero_to_hundred":4.5,"top_speed":190},"price_range":"49.90-58.80万元"}]}],"image":"/series/zeekr-009.jpg"}
+{
+  "id": "zeekr-009",
+  "brand_id": "zeekr",
+  "name_cn": "极氪009",
+  "name_en": "Zeekr 009",
+  "intro": "极氪009是极氪品牌的豪华纯电MPV，定位高端商务出行。基于SEA浩瀚架构打造，以豪华的内饰空间和先进的智能配置为卖点。",
+  "category": "mpv",
+  "generations": [
+    {
+      "id": "zeekr-009-gen1",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "zeekr-009-2023-grand",
+          "name": "Grand版",
+          "year": 2023,
+          "body_type": "MPV",
+          "powertrain": "bev",
+          "transmission": "单速变速箱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5209,
+            "width": 2024,
+            "height": 1856,
+            "wheelbase": 3205,
+            "weight": 2850,
+            "power": 400,
+            "torque": 686,
+            "zero_to_hundred": 4.5,
+            "top_speed": 190
+          },
+          "price_range": "49.90-58.80万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/zeekr-009.jpg",
+  "gallery": [
+    "/series/zeekr-009.jpg"
+  ]
+}

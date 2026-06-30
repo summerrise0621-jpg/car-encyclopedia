@@ -1,0 +1,47 @@
+{
+  "id": "chery-tiggo9",
+  "brand_id": "chery",
+  "name_cn": "奇瑞瑞虎9",
+  "name_en": "Chery Tiggo 9",
+  "intro": "瑞虎9是奇瑞旗舰SUV，主打大空间、舒适配置和较高性价比，提供燃油及混动版本。",
+  "category": "suv",
+  "image": "/series/chery-tiggo9.jpg",
+  "gallery": [
+    "/series/chery-tiggo9.jpg",
+    "/series/chery-tiggo9-2.jpg",
+    "/series/chery-tiggo9-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "tiggo9-1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "tiggo9-2t",
+          "name": "瑞虎9 2.0T",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "petrol",
+          "engine": "2.0L涡轮增压四缸",
+          "transmission": "8速自动",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4820,
+            "width": 1930,
+            "height": 1710,
+            "wheelbase": 2820,
+            "weight": 1780,
+            "power": 261,
+            "torque": 400,
+            "zero_to_hundred": 8.0,
+            "top_speed": 205,
+            "displacement": 2.0,
+            "fuel_consumption": 8.1
+          },
+          "price_range": "15-21万元"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "rolls-royce-phantom",
+  "brand_id": "rolls-royce",
+  "name_cn": "劳斯莱斯幻影",
+  "name_en": "Rolls-Royce Phantom",
+  "intro": "幻影是劳斯莱斯旗舰豪华轿车，以极致静谧性、手工定制内饰和宏大的车身气场代表超豪华汽车最高水准之一。",
+  "category": "sedan",
+  "image": "/series/rolls-royce-phantom.jpg",
+  "gallery": [
+    "/series/rolls-royce-phantom.jpg"
+  ],
+  "generations": [
+    {
+      "id": "phantom-viii",
+      "name": "第八代",
+      "year_start": 2017,
+      "variants": [
+        {
+          "id": "phantom-ewb",
+          "name": "Phantom Extended",
+          "year": 2024,
+          "body_type": "sedan",
+          "powertrain": "petrol",
+          "engine": "6.75L双涡轮增压V12",
+          "transmission": "8速自动",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 5982,
+            "width": 2018,
+            "height": 1656,
+            "wheelbase": 3772,
+            "weight": 2610,
+            "power": 571,
+            "torque": 900,
+            "zero_to_hundred": 5.4,
+            "top_speed": 250,
+            "displacement": 6.75,
+            "fuel_consumption": 14.5
+          },
+          "price_range": "790万元起"
+        }
+      ]
+    }
+  ]
+}

@@ -1,9 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect x="40" y="40" width="120" height="120" fill="#1A1A1A" rx="5"/>
-  <text x="100" y="115" text-anchor="middle" font-size="72" font-weight="bold" fill="#C0C0C0" font-family="serif" letter-spacing="-8">RR</text>
-  <path d="M70 45 L80 45 L80 65 L70 65 Z" fill="#C0C0C0"/>
-  <path d="M120 45 L130 45 L130 65 L120 65 Z" fill="#C0C0C0"/>
-  <path d="M70 135 L80 135 L80 155 L70 155 Z" fill="#C0C0C0"/>
-  <path d="M120 135 L130 135 L130 155 L120 155 Z" fill="#C0C0C0"/>
-  <rect x="30" y="30" width="140" height="140" fill="none" stroke="#C0C0C0" stroke-width="2" rx="3"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="劳斯莱斯 Rolls-Royce">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <path d="M50 35 H150 V86 C150 120 128 142 100 155 C72 142 50 120 50 86 Z" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#1D4ED8">RR</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">劳斯莱斯</text>
 </svg>

@@ -39,7 +39,9 @@
     }
   ],
   "image": "/series/porsche-taycan.jpg",
-  "gallery": ["/series/porsche-taycan.jpg", "/series/porsche-taycan-2.jpg", "/series/porsche-taycan-3.jpg"],
+  "gallery": [
+    "/series/porsche-taycan.jpg"
+  ],
   "reviews": [
     {
       "title": "Porsche Taycan Review - Is This The Future of Electric Cars?",

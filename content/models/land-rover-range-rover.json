@@ -39,5 +39,9 @@
     }
   ],
   "image": "/series/land-rover-range-rover.jpg",
-  "gallery": ["/series/land-rover-range-rover.jpg", "/series/land-rover-range-rover-2.jpg", "/series/land-rover-range-rover-3.jpg"]
+  "gallery": [
+    "/series/land-rover-range-rover.jpg",
+    "/series/land-rover-range-rover-2.jpg",
+    "/series/land-rover-range-rover-3.jpg"
+  ]
 }

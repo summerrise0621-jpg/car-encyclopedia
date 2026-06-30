@@ -1,0 +1,46 @@
+{
+  "id": "changan-deepal-s7",
+  "brand_id": "changan",
+  "name_cn": "深蓝S7",
+  "name_en": "Deepal S7",
+  "intro": "深蓝S7是长安新能源中型SUV，提供增程和纯电版本，设计年轻，主打智能座舱与较高配置。",
+  "category": "suv",
+  "image": "/series/changan-deepal-s7.jpg",
+  "gallery": [
+    "/series/changan-deepal-s7.jpg",
+    "/series/changan-deepal-s7-2.jpg",
+    "/series/changan-deepal-s7-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "s7-1",
+      "name": "第一代",
+      "year_start": 2023,
+      "variants": [
+        {
+          "id": "s7-ev",
+          "name": "深蓝S7 纯电版",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "bev",
+          "transmission": "单速电驱",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4750,
+            "width": 1930,
+            "height": 1625,
+            "wheelbase": 2900,
+            "weight": 2035,
+            "power": 258,
+            "torque": 320,
+            "zero_to_hundred": 6.7,
+            "top_speed": 180,
+            "range": 620,
+            "battery": 79.97
+          },
+          "price_range": "15-22万元"
+        }
+      ]
+    }
+  ]
+}

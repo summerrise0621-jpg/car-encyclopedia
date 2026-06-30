@@ -39,7 +39,11 @@
     }
   ],
   "image": "/series/ferrari-sf90.jpg",
-  "gallery": ["/series/ferrari-sf90.jpg", "/series/ferrari-sf90-2.jpg", "/series/ferrari-sf90-3.jpg"],
+  "gallery": [
+    "/series/ferrari-sf90.jpg",
+    "/series/ferrari-sf90-2.jpg",
+    "/series/ferrari-sf90-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Ferrari SF90 Stradale Review - 1000hp Hybrid Hypercar!",

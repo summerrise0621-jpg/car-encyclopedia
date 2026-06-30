@@ -5,14 +5,29 @@
   "country": "日本",
   "region": "japan",
   "founded_year": 1989,
-  "logo": "/images/brands/lexus.svg",
+  "logo": "/logos/lexus.svg",
   "intro": "雷克萨斯是丰田汽车旗下的豪华汽车品牌，创立于1989年，总部位于日本名古屋。品牌以卓越的品质、精湛的工艺和极致的客户服务著称，连续多年在北美豪华车市场销量领先。",
   "history": [
-    {"year": 1989, "event": "雷克萨斯品牌正式成立，首款车型LS 400在北美市场推出"},
-    {"year": 1993, "event": "推出第二代GS系列运动轿车"},
-    {"year": 1998, "event": "首款SUV车型RX 300上市，开创豪华跨界SUV细分市场"},
-    {"year": 2005, "event": "推出RX 400h，成为首款混合动力豪华SUV"},
-    {"year": 2017, "event": "LC 500旗舰跑车问世，展现品牌运动化设计语言"}
+    {
+      "year": 1989,
+      "event": "雷克萨斯品牌正式成立，首款车型LS 400在北美市场推出"
+    },
+    {
+      "year": 1993,
+      "event": "推出第二代GS系列运动轿车"
+    },
+    {
+      "year": 1998,
+      "event": "首款SUV车型RX 300上市，开创豪华跨界SUV细分市场"
+    },
+    {
+      "year": 2005,
+      "event": "推出RX 400h，成为首款混合动力豪华SUV"
+    },
+    {
+      "year": 2017,
+      "event": "LC 500旗舰跑车问世，展现品牌运动化设计语言"
+    }
   ],
   "official_site": "https://www.lexus.com"
 }

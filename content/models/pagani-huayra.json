@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/pagani-huayra.jpg"
+  "image": "/series/pagani-huayra.jpg",
+  "gallery": [
+    "/series/pagani-huayra.jpg"
+  ]
 }

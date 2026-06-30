@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><rect x="60" y="30" width="8" height="140" fill="#DAA520" rx="2"/><path d="M68,40 Q130,60 140,100 Q150,140 68,160" fill="#CC0000" stroke="#DAA520" stroke-width="2"/><path d="M68,50 Q120,65 128,100 Q136,135 68,150" fill="#FF2200"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="红旗 Hongqi">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#DC2626" stroke-width="6"/>
+  <path d="M50 35 H150 V86 C150 120 128 142 100 155 C72 142 50 120 50 86 Z" fill="#FEF3C7" stroke="#DC2626" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="900" fill="#DC2626">红旗</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">红旗</text>
+</svg>

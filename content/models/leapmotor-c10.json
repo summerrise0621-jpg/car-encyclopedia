@@ -1,1 +1,44 @@
-{"id":"leapmotor-c10","brand_id":"leapmotor","name_cn":"零跑C10","name_en":"Leapmotor C10","intro":"零跑C10是零跑汽车推出的中型纯电SUV，基于LEAP 3.0架构打造，主打智能化和高性价比。","category":"suv","generations":[{"id":"leapmotor-c10-gen1","name":"第一代","year_start":2024,"variants":[{"id":"leapmotor-c10-2024-ev","name":"零跑C10 纯电版","year":2024,"body_type":"SUV","powertrain":"bev","transmission":"单速固定齿比变速箱","drivetrain":"rwd","specs":{"length":4739,"width":1900,"height":1680,"wheelbase":2825,"weight":1960,"power":170,"torque":320,"zero_to_hundred":7.5,"top_speed":170},"price_range":"12.88-16.58万元"}]}],"image":"/series/leapmotor-c10.jpg"}
+{
+  "id": "leapmotor-c10",
+  "brand_id": "leapmotor",
+  "name_cn": "零跑C10",
+  "name_en": "Leapmotor C10",
+  "intro": "零跑C10是零跑汽车推出的中型纯电SUV，基于LEAP 3.0架构打造，主打智能化和高性价比。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "leapmotor-c10-gen1",
+      "name": "第一代",
+      "year_start": 2024,
+      "variants": [
+        {
+          "id": "leapmotor-c10-2024-ev",
+          "name": "零跑C10 纯电版",
+          "year": 2024,
+          "body_type": "SUV",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比变速箱",
+          "drivetrain": "rwd",
+          "specs": {
+            "length": 4739,
+            "width": 1900,
+            "height": 1680,
+            "wheelbase": 2825,
+            "weight": 1960,
+            "power": 170,
+            "torque": 320,
+            "zero_to_hundred": 7.5,
+            "top_speed": 170
+          },
+          "price_range": "12.88-16.58万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/leapmotor-c10.jpg",
+  "gallery": [
+    "/series/leapmotor-c10.jpg",
+    "/series/leapmotor-c10-2.jpg",
+    "/series/leapmotor-c10-3.jpg"
+  ]
+}

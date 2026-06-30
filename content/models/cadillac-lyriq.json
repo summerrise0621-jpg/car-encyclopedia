@@ -1,0 +1,46 @@
+{
+  "id": "cadillac-lyriq",
+  "brand_id": "cadillac",
+  "name_cn": "凯迪拉克锐歌",
+  "name_en": "Cadillac Lyriq",
+  "intro": "凯迪拉克锐歌是品牌电动化代表SUV，采用通用奥特能平台，拥有美式豪华设计和较长纯电续航。",
+  "category": "suv",
+  "image": "/series/cadillac-lyriq.jpg",
+  "gallery": [
+    "/series/cadillac-lyriq.jpg",
+    "/series/cadillac-lyriq-2.jpg",
+    "/series/cadillac-lyriq-3.jpg"
+  ],
+  "generations": [
+    {
+      "id": "lyriq-1",
+      "name": "第一代",
+      "year_start": 2022,
+      "variants": [
+        {
+          "id": "lyriq-awd",
+          "name": "锐歌四驱高性能版",
+          "year": 2024,
+          "body_type": "suv",
+          "powertrain": "bev",
+          "transmission": "单速电驱",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 5003,
+            "width": 1977,
+            "height": 1637,
+            "wheelbase": 3094,
+            "weight": 2535,
+            "power": 503,
+            "torque": 710,
+            "zero_to_hundred": 4.6,
+            "top_speed": 210,
+            "range": 608,
+            "battery": 95.7
+          },
+          "price_range": "29-42万元"
+        }
+      ]
+    }
+  ]
+}

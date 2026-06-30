@@ -37,5 +37,7 @@
     }
   ],
   "image": "/series/xpeng-g9.jpg",
-  "gallery": ["/series/xpeng-g9.jpg", "/series/xpeng-g9-2.jpg", "/series/xpeng-g9-3.jpg"]
+  "gallery": [
+    "/series/xpeng-g9.jpg"
+  ]
 }

@@ -39,5 +39,7 @@
     }
   ],
   "image": "/series/toyota-land-cruiser.jpg",
-  "gallery": ["/series/toyota-land-cruiser.jpg", "/series/toyota-land-cruiser-2.jpg", "/series/toyota-land-cruiser-3.jpg"]
+  "gallery": [
+    "/series/toyota-land-cruiser.jpg"
+  ]
 }

@@ -1,1 +1,44 @@
-{"id":"leapmotor-t03","brand_id":"leapmotor","name_cn":"零跑T03","name_en":"Leapmotor T03","intro":"零跑T03是零跑汽车推出的微型纯电动车，以小巧灵活和高性价比著称，是城市代步的理想选择。","category":"hatchback","generations":[{"id":"leapmotor-t03-gen1","name":"第一代","year_start":2020,"variants":[{"id":"leapmotor-t03-2023-ev","name":"零跑T03 2023款","year":2023,"body_type":"两厢车","powertrain":"bev","transmission":"单速固定齿比变速箱","drivetrain":"fwd","specs":{"length":3620,"width":1652,"height":1577,"wheelbase":2400,"weight":1110,"power":55,"torque":155,"zero_to_hundred":12.0,"top_speed":110},"price_range":"5.99-7.59万元"}]}],"image":"/series/leapmotor-t03.jpg"}
+{
+  "id": "leapmotor-t03",
+  "brand_id": "leapmotor",
+  "name_cn": "零跑T03",
+  "name_en": "Leapmotor T03",
+  "intro": "零跑T03是零跑汽车推出的微型纯电动车，以小巧灵活和高性价比著称，是城市代步的理想选择。",
+  "category": "hatchback",
+  "generations": [
+    {
+      "id": "leapmotor-t03-gen1",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "leapmotor-t03-2023-ev",
+          "name": "零跑T03 2023款",
+          "year": 2023,
+          "body_type": "两厢车",
+          "powertrain": "bev",
+          "transmission": "单速固定齿比变速箱",
+          "drivetrain": "fwd",
+          "specs": {
+            "length": 3620,
+            "width": 1652,
+            "height": 1577,
+            "wheelbase": 2400,
+            "weight": 1110,
+            "power": 55,
+            "torque": 155,
+            "zero_to_hundred": 12.0,
+            "top_speed": 110
+          },
+          "price_range": "5.99-7.59万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/leapmotor-t03.jpg",
+  "gallery": [
+    "/series/leapmotor-t03.jpg",
+    "/series/leapmotor-t03-2.jpg",
+    "/series/leapmotor-t03-3.jpg"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "start_index": 154,
+  "end_index": 156,
+  "total": 3,
+  "success": 0,
+  "partial": 3,
+  "failed": 0,
+  "updated_json": 3,
+  "items": [
+    {
+      "id": "toyota-prius",
+      "query": "Toyota Prius sedan car exterior",
+      "downloaded": 1,
+      "files": [
+        "/series/toyota-prius.jpg"
+      ],
+      "error": null
+    },
+    {
+      "id": "toyota-rav4",
+      "query": "Toyota RAV4 SUV car exterior",
+      "downloaded": 1,
+      "files": [
+        "/series/toyota-rav4.jpg"
+      ],
+      "error": null
+    },
+    {
+      "id": "volkswagen-golf",
+      "query": "Volkswagen Golf hatchback car exterior",
+      "downloaded": 1,
+      "files": [
+        "/series/volkswagen-golf.jpg"
+      ],
+      "error": null
+    }
+  ]
+}

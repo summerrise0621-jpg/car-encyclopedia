@@ -1,5 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <rect x="25" y="55" width="150" height="90" rx="5" fill="#2D5A1E" stroke="#1A3A10" stroke-width="3"/>
-  <text x="100" y="115" text-anchor="middle" font-family="Impact,Arial,sans-serif" font-size="52" font-weight="bold" fill="#FFFFFF" letter-spacing="8">JEEP</text>
-  <rect x="25" y="55" width="150" height="90" rx="5" fill="none" stroke="#4A8A2E" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="吉普 Jeep">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#B91C1C" stroke-width="6"/>
+  <ellipse cx="100" cy="82" rx="68" ry="48" fill="#FEE2E2" stroke="#B91C1C" stroke-width="8"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#B91C1C">JEEP</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">吉普</text>
 </svg>

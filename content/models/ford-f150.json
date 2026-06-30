@@ -63,5 +63,9 @@
     }
   ],
   "image": "/series/ford-f150.jpg",
-  "gallery": ["/series/ford-f150.jpg", "/series/ford-f150-2.jpg", "/series/ford-f150-3.jpg"]
+  "gallery": [
+    "/series/ford-f150.jpg",
+    "/series/ford-f150-2.jpg",
+    "/series/ford-f150-3.jpg"
+  ]
 }

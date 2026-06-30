@@ -40,5 +40,9 @@
     }
   ],
   "image": "/series/audi-q5.jpg",
-  "gallery": ["/series/audi-q5.jpg", "/series/audi-q5-2.jpg", "/series/audi-q5-3.jpg"]
+  "gallery": [
+    "/series/audi-q5.jpg",
+    "/series/audi-q5-2.jpg",
+    "/series/audi-q5-3.jpg"
+  ]
 }

@@ -1,1 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200"><path d="M100,20 L140,100 L100,80 Z" fill="#CC0000"/><path d="M100,20 L60,100 L100,80 Z" fill="#CC0000"/><path d="M60,100 L100,180 L100,120 Z" fill="#CC0000"/><path d="M140,100 L100,180 L100,120 Z" fill="#CC0000"/><path d="M100,80 L100,120 L60,100 Z" fill="#FF3333" opacity="0.6"/><path d="M100,80 L100,120 L140,100 Z" fill="#FF3333" opacity="0.6"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="三菱 Mitsubishi">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#BE123C" stroke-width="6"/>
+  <ellipse cx="100" cy="82" rx="68" ry="48" fill="#FFE4E6" stroke="#BE123C" stroke-width="8"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#BE123C">MITSUBI</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">三菱</text>
+</svg>

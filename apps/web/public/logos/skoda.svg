@@ -1,8 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <circle cx="100" cy="100" r="88" fill="#003DA5" stroke="#2E7D32" stroke-width="5"/>
-  <circle cx="100" cy="100" r="78" fill="none" stroke="#2E7D32" stroke-width="2"/>
-  <path d="M100 35 L108 85 L145 85 L115 110 L125 155 L100 130 L75 155 L85 110 L55 85 L92 85 Z" fill="#2E7D32"/>
-  <path d="M100 35 L92 85 L55 85 L85 110 L75 155 L100 130 Z" fill="#1B5E20"/>
-  <path d="M100 45 L105 80 L95 80 Z" fill="#4CAF50"/>
-  <circle cx="100" cy="100" r="15" fill="none" stroke="#4CAF50" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="斯柯达 Skoda">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <path d="M100 22 L154 50 L154 114 L100 150 L46 114 L46 50 Z" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="900" fill="#1D4ED8">SKODA</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">斯柯达</text>
 </svg>

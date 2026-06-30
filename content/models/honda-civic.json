@@ -40,7 +40,11 @@
     }
   ],
   "image": "/series/honda-civic.jpg",
-  "gallery": ["/series/honda-civic.jpg", "/series/honda-civic-2.jpg", "/series/honda-civic-3.jpg"],
+  "gallery": [
+    "/series/honda-civic.jpg",
+    "/series/honda-civic-2.jpg",
+    "/series/honda-civic-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Honda Civic 2024 Review - The Best Compact Car!",

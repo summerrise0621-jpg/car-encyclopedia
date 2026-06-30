@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <path d="M100 30 L140 55 L140 130 C140 150 120 165 100 170 C80 165 60 150 60 130 L60 55 Z" fill="#C4A747"/>
-  <path d="M100 38 L134 59 L134 128 C134 146 117 159 100 163 C83 159 66 146 66 128 L66 59 Z" fill="white"/>
-  <rect x="70" y="65" width="60" height="8" fill="#CC0000"/>
-  <rect x="70" y="78" width="60" height="8" fill="#003478"/>
-  <rect x="70" y="91" width="60" height="8" fill="#CC0000"/>
-  <rect x="70" y="104" width="60" height="8" fill="#003478"/>
-  <rect x="70" y="117" width="60" height="8" fill="#CC0000"/>
-  <path d="M85 28 C85 22 90 18 100 18 C110 18 115 22 115 28" fill="none" stroke="#C4A747" stroke-width="3"/>
-  <circle cx="92" cy="20" r="3" fill="#C4A747"/>
-  <circle cx="100" cy="18" r="3" fill="#C4A747"/>
-  <circle cx="108" cy="20" r="3" fill="#C4A747"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="凯迪拉克 Cadillac">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#B91C1C" stroke-width="6"/>
+  <path d="M100 22 L154 50 L154 114 L100 150 L46 114 L46 50 Z" fill="#FEE2E2" stroke="#B91C1C" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#B91C1C">CADILLA</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">凯迪拉克</text>
 </svg>

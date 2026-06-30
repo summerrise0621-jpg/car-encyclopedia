@@ -1,1 +1,44 @@
-{"id":"haval-dargo","brand_id":"haval","name_cn":"哈弗大狗","name_en":"Haval Dargo","intro":"哈弗大狗是哈弗品牌的紧凑型SUV，以硬朗的越野风格外观和城市SUV的舒适性相结合为特点，定位为'3/4刻度座驾'，兼顾城市与轻越野需求。","category":"suv","generations":[{"id":"haval-dargo-gen1","name":"第一代","year_start":2020,"variants":[{"id":"haval-dargo-2023-2.0t","name":"2.0T 自动四驱哮天犬版","year":2023,"body_type":"SUV","powertrain":"petrol","transmission":"7挡双离合","drivetrain":"awd","specs":{"length":4620,"width":1890,"height":1780,"wheelbase":2738,"weight":1660,"power":211,"torque":325,"zero_to_hundred":7.5,"top_speed":200},"price_range":"11.99-16.79万元"}]}],"image":"/series/haval-dargo.jpg"}
+{
+  "id": "haval-dargo",
+  "brand_id": "haval",
+  "name_cn": "哈弗大狗",
+  "name_en": "Haval Dargo",
+  "intro": "哈弗大狗是哈弗品牌的紧凑型SUV，以硬朗的越野风格外观和城市SUV的舒适性相结合为特点，定位为'3/4刻度座驾'，兼顾城市与轻越野需求。",
+  "category": "suv",
+  "generations": [
+    {
+      "id": "haval-dargo-gen1",
+      "name": "第一代",
+      "year_start": 2020,
+      "variants": [
+        {
+          "id": "haval-dargo-2023-2.0t",
+          "name": "2.0T 自动四驱哮天犬版",
+          "year": 2023,
+          "body_type": "SUV",
+          "powertrain": "petrol",
+          "transmission": "7挡双离合",
+          "drivetrain": "awd",
+          "specs": {
+            "length": 4620,
+            "width": 1890,
+            "height": 1780,
+            "wheelbase": 2738,
+            "weight": 1660,
+            "power": 211,
+            "torque": 325,
+            "zero_to_hundred": 7.5,
+            "top_speed": 200
+          },
+          "price_range": "11.99-16.79万元"
+        }
+      ]
+    }
+  ],
+  "image": "/series/haval-dargo.jpg",
+  "gallery": [
+    "/series/haval-dargo.jpg",
+    "/series/haval-dargo-2.jpg",
+    "/series/haval-dargo-3.jpg"
+  ]
+}

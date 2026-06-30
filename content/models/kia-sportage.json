@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/kia-sportage.jpg"
+  "image": "/series/kia-sportage.jpg",
+  "gallery": [
+    "/series/kia-sportage.jpg",
+    "/series/kia-sportage-2.jpg",
+    "/series/kia-sportage-3.jpg"
+  ]
 }

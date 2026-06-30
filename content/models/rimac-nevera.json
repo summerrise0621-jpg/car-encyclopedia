@@ -16,7 +16,7 @@
           "name": "Nevera",
           "year": 2023,
           "body_type": "coupe",
-          "powertrain": "electric",
+          "powertrain": "bev",
           "engine": "四电机",
           "transmission": "单速",
           "drivetrain": "awd",
@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/rimac-nevera.jpg"
+  "image": "/series/rimac-nevera.jpg",
+  "gallery": [
+    "/series/rimac-nevera.jpg"
+  ]
 }

@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/honda-pilot.jpg"
+  "image": "/series/honda-pilot.jpg",
+  "gallery": [
+    "/series/honda-pilot.jpg",
+    "/series/honda-pilot-2.jpg",
+    "/series/honda-pilot-3.jpg"
+  ]
 }

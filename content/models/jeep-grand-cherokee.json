@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/jeep-grand-cherokee.jpg"
+  "image": "/series/jeep-grand-cherokee.jpg",
+  "gallery": [
+    "/series/jeep-grand-cherokee.jpg",
+    "/series/jeep-grand-cherokee-2.jpg",
+    "/series/jeep-grand-cherokee-3.jpg"
+  ]
 }

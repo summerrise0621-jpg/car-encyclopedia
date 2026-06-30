@@ -36,5 +36,8 @@
       ]
     }
   ],
-  "image": "/series/xpeng-g6.jpg"
+  "image": "/series/xpeng-g6.jpg",
+  "gallery": [
+    "/series/xpeng-g6.jpg"
+  ]
 }

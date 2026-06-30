@@ -38,5 +38,10 @@
       ]
     }
   ],
-  "image": "/series/koenigsegg-regera.jpg"
+  "image": "/series/koenigsegg-regera.jpg",
+  "gallery": [
+    "/series/koenigsegg-regera.jpg",
+    "/series/koenigsegg-regera-2.jpg",
+    "/series/koenigsegg-regera-3.jpg"
+  ]
 }

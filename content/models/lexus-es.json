@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/lexus-es.jpg"
+  "image": "/series/lexus-es.jpg",
+  "gallery": [
+    "/series/lexus-es.jpg"
+  ]
 }

@@ -63,5 +63,7 @@
     }
   ],
   "image": "/series/tesla-cybertruck.jpg",
-  "gallery": ["/series/tesla-cybertruck.jpg", "/series/tesla-cybertruck-2.jpg", "/series/tesla-cybertruck-3.jpg"]
+  "gallery": [
+    "/series/tesla-cybertruck.jpg"
+  ]
 }

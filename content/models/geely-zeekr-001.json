@@ -36,5 +36,10 @@
       ]
     }
   ],
-  "image": "/series/geely-zeekr-001.jpg"
+  "image": "/series/geely-zeekr-001.jpg",
+  "gallery": [
+    "/series/geely-zeekr-001.jpg",
+    "/series/geely-zeekr-001-2.jpg",
+    "/series/geely-zeekr-001-3.jpg"
+  ]
 }

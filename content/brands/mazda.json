@@ -5,15 +5,33 @@
   "country": "日本",
   "region": "japan",
   "founded_year": 1920,
-  "logo": "/images/brands/mazda.png",
+  "logo": "/logos/mazda.svg",
   "intro": "马自达是日本知名汽车制造商，以独特的转子发动机技术和「魂动」设计语言闻名。马自达坚持驾驶乐趣优先的理念，被车迷称为「东瀛宝马」。创驰蓝天技术在燃油效率和动力性能方面表现出色。",
   "history": [
-    {"year": 1920, "event": "东洋软木工业公司成立（马自达前身）"},
-    {"year": 1967, "event": "推出Cosmo Sport，首款搭载转子发动机的量产车"},
-    {"year": 1989, "event": "推出MX-5 Miata，成为全球最畅销双座敞篷跑车"},
-    {"year": 2012, "event": "推出创驰蓝天技术"},
-    {"year": 2019, "event": "推出搭载压燃汽油发动机的SKYACTIV-X"},
-    {"year": 2022, "event": "CX-60等后驱平台车型上市"}
+    {
+      "year": 1920,
+      "event": "东洋软木工业公司成立（马自达前身）"
+    },
+    {
+      "year": 1967,
+      "event": "推出Cosmo Sport，首款搭载转子发动机的量产车"
+    },
+    {
+      "year": 1989,
+      "event": "推出MX-5 Miata，成为全球最畅销双座敞篷跑车"
+    },
+    {
+      "year": 2012,
+      "event": "推出创驰蓝天技术"
+    },
+    {
+      "year": 2019,
+      "event": "推出搭载压燃汽油发动机的SKYACTIV-X"
+    },
+    {
+      "year": 2022,
+      "event": "CX-60等后驱平台车型上市"
+    }
   ],
   "official_site": "https://www.mazda.com"
 }

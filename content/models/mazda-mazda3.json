@@ -39,5 +39,8 @@
       ]
     }
   ],
-  "image": "/series/mazda-mazda3.jpg"
+  "image": "/series/mazda-mazda3.jpg",
+  "gallery": [
+    "/series/mazda-mazda3.jpg"
+  ]
 }

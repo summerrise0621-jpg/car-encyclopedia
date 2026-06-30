@@ -39,5 +39,8 @@
       ]
     }
   ],
-  "image": "/series/volkswagen-passat.jpg"
+  "image": "/series/volkswagen-passat.jpg",
+  "gallery": [
+    "/series/volkswagen-passat.jpg"
+  ]
 }

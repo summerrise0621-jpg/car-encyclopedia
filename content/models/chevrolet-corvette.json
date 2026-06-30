@@ -39,7 +39,11 @@
     }
   ],
   "image": "/series/chevrolet-corvette.jpg",
-  "gallery": ["/series/chevrolet-corvette.jpg", "/series/chevrolet-corvette-2.jpg", "/series/chevrolet-corvette-3.jpg"],
+  "gallery": [
+    "/series/chevrolet-corvette.jpg",
+    "/series/chevrolet-corvette-2.jpg",
+    "/series/chevrolet-corvette-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Chevrolet Corvette C8 Review - The American Supercar!",

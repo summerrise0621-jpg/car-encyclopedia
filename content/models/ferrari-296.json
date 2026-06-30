@@ -39,7 +39,11 @@
     }
   ],
   "image": "/series/ferrari-296.jpg",
-  "gallery": ["/series/ferrari-296.jpg", "/series/ferrari-296-2.jpg", "/series/ferrari-296-3.jpg"],
+  "gallery": [
+    "/series/ferrari-296.jpg",
+    "/series/ferrari-296-2.jpg",
+    "/series/ferrari-296-3.jpg"
+  ],
   "reviews": [
     {
       "title": "Ferrari 296 GTB Review - Is This the Best Ferrari Ever?",

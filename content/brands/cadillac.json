@@ -5,15 +5,33 @@
   "country": "美国",
   "region": "usa",
   "founded_year": 1902,
-  "logo": "/images/brands/cadillac.svg",
+  "logo": "/logos/cadillac.svg",
   "intro": "凯迪拉克是美国通用汽车旗下的豪华汽车品牌，创立于1902年，以底特律创建者安东尼·凯迪拉克命名。品牌象征着美国豪华汽车的巅峰，曾是美国总统座驾，以大胆的设计和强劲的动力著称。",
   "history": [
-    {"year": 1902, "event": "亨利·利兰在底特律创立凯迪拉克汽车公司"},
-    {"year": 1909, "event": "凯迪拉克并入通用汽车集团"},
-    {"year": 1927, "event": "推出LaSalle，开创汽车设计艺术先河"},
-    {"year": 1957, "event": "Eldorado问世，成为美国豪华车标杆"},
-    {"year": 1999, "event": "推出Escalade凯雷德，开创全尺寸豪华SUV市场"},
-    {"year": 2021, "event": "首款纯电车型LYRIQ锐歌发布，开启电动化转型"}
+    {
+      "year": 1902,
+      "event": "亨利·利兰在底特律创立凯迪拉克汽车公司"
+    },
+    {
+      "year": 1909,
+      "event": "凯迪拉克并入通用汽车集团"
+    },
+    {
+      "year": 1927,
+      "event": "推出LaSalle，开创汽车设计艺术先河"
+    },
+    {
+      "year": 1957,
+      "event": "Eldorado问世，成为美国豪华车标杆"
+    },
+    {
+      "year": 1999,
+      "event": "推出Escalade凯雷德，开创全尺寸豪华SUV市场"
+    },
+    {
+      "year": 2021,
+      "event": "首款纯电车型LYRIQ锐歌发布，开启电动化转型"
+    }
   ],
   "official_site": "https://www.cadillac.com"
 }

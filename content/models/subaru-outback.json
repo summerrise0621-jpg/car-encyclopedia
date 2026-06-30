@@ -38,5 +38,8 @@
       ]
     }
   ],
-  "image": "/series/subaru-outback.jpg"
+  "image": "/series/subaru-outback.jpg",
+  "gallery": [
+    "/series/subaru-outback.jpg"
+  ]
 }

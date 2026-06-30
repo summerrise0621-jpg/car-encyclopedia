@@ -1,13 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
-  <path d="M100 10 L175 45 L175 155 L100 190 L25 155 L25 45 Z" fill="#C0392B" stroke="#1A1A1A" stroke-width="4"/>
-  <path d="M100 15 L170 48 L170 80 L25 80 L25 48 Z" fill="#1A1A1A"/>
-  <path d="M25 80 L170 80 L170 85 L25 85 Z" fill="#C0392B"/>
-  <path d="M25 85 L170 85 L170 90 L25 90 Z" fill="#1A1A1A"/>
-  <path d="M25 90 L170 90 L170 95 L25 95 Z" fill="#C0392B"/>
-  <path d="M25 95 L170 95 L170 100 L25 100 Z" fill="#1A1A1A"/>
-  <path d="M80 100 L80 155 L100 165 L120 155 L120 100 Z" fill="#C0392B"/>
-  <path d="M88 110 L100 105 L112 110 L108 120 L100 118 L92 120 Z" fill="#DDB321"/>
-  <path d="M100 105 L100 118 L108 120 L112 110 Z" fill="#B8860B"/>
-  <path d="M94 122 L100 135 L106 122" fill="none" stroke="#DDB321" stroke-width="2"/>
-  <text x="100" y="160" text-anchor="middle" font-size="12" font-weight="bold" fill="#DDB321" font-family="serif">STUTTGART</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="保时捷 Porsche">
+  <rect width="200" height="200" rx="32" fill="white"/>
+  <rect x="7" y="7" width="186" height="186" rx="28" fill="#F8FAFC" stroke="#1D4ED8" stroke-width="6"/>
+  <path d="M100 22 L154 50 L154 114 L100 150 L46 114 L46 50 Z" fill="#DBEAFE" stroke="#1D4ED8" stroke-width="8" stroke-linejoin="round"/>
+  <text x="100" y="91" text-anchor="middle" dominant-baseline="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="900" fill="#1D4ED8">PORSCHE</text>
+  <text x="100" y="165" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" font-weight="800" fill="#111827">保时捷</text>
 </svg>

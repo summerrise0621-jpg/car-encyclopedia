@@ -29,6 +29,8 @@ export default function BrandCard({ brand }: BrandCardProps) {
           <img
             src={brand.logo || `/logos/${brand.id}.svg`}
             alt={brand.name_cn}
+            loading="lazy"
+            decoding="async"
             className="w-14 h-14 object-contain"
             onError={(e) => {
               const target = e.target as HTMLImageElement;

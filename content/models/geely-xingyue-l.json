@@ -39,5 +39,10 @@
       ]
     }
   ],
-  "image": "/series/geely-xingyue-l.jpg"
+  "image": "/series/geely-xingyue-l.jpg",
+  "gallery": [
+    "/series/geely-xingyue-l.jpg",
+    "/series/geely-xingyue-l-2.jpg",
+    "/series/geely-xingyue-l-3.jpg"
+  ]
 }

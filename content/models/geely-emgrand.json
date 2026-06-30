@@ -39,5 +39,10 @@
       ]
     }
   ],
-  "image": "/series/geely-emgrand.jpg"
+  "image": "/series/geely-emgrand.jpg",
+  "gallery": [
+    "/series/geely-emgrand.jpg",
+    "/series/geely-emgrand-2.jpg",
+    "/series/geely-emgrand-3.jpg"
+  ]
 }
